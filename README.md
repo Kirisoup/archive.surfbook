@@ -27,42 +27,33 @@
 
 - [⭐ 东方常用](#-东方常用)
 - [🔎 维基／咨询／刊物](#-维基咨询刊物)
-    - [综合 ACG](#综合-acg)
-      - [班固米](#班固米)
-      - [其他动画评分排名](#其他动画评分排名)
-      - [——](#)
-    - [刊物／专栏](#刊物专栏)
+  - [综合 ACG](#综合-acg)
+    - [班固米](#班固米)
+    - [其他动画评分排名](#其他动画评分排名)
+  - [刊物／专栏](#刊物专栏)
 - [💬 东方／ACG 论坛](#-东方acg-论坛)
-    - [时泪](#时泪)
-    - [综合 ACG](#综合-acg-1)
-      - [——](#-1)
+  - [时泪](#时泪)
+  - [综合 ACG](#综合-acg-1)
 - [🔑 工具／资源](#-工具资源)
-    - [随缘东方资源收录](#随缘东方资源收录)
-      - [东方同人游戏解包资源](#东方同人游戏解包资源)
-    - [网络安全](#网络安全)
-      - [网络代理（翻墙）](#网络代理翻墙)
-      - [用于 Chrome 的隐私插件](#用于-chrome-的隐私插件)
-      - [——](#-2)
-      - [TOR\](洋葱网络)](#tor洋葱网络)
-    - [BT](#bt)
-      - [动画BT资源](#动画bt资源)
-      - [影视](#影视)
-      - [字幕](#字幕)
-      - [电子书](#电子书)
-        - [🚧 Z-Library](#-z-library)
-      - [——](#-3)
-    - [RSS](#rss)
-      - [客户端／工具](#客户端工具)
-    - [浏览器插件](#浏览器插件)
-      - [——](#-4)
-      - [其他自用脚本](#其他自用脚本)
-      - [——](#-5)
-      - [——](#-6)
-      - [——](#-7)
+  - [随缘东方资源收录](#随缘东方资源收录)
+    - [东方同人游戏解包资源](#东方同人游戏解包资源)
+  - [网络安全](#网络安全)
+    - [网络代理（翻墙）](#网络代理翻墙)
+    - [用于 Chrome 的隐私插件](#用于-chrome-的隐私插件)
+    - [TOR\](洋葱网络)](#tor洋葱网络)
+  - [BT](#bt)
+    - [动画BT资源](#动画bt资源)
+    - [影视](#影视)
+    - [字幕](#字幕)
+    - [电子书](#电子书)
+      - [🚧 Z-Library](#-z-library)
+  - [RSS](#rss)
+    - [客户端／工具](#客户端工具)
+  - [浏览器插件](#浏览器插件)
+    - [其他自用脚本](#其他自用脚本)
   - [🚧 ＂健康宅男偶像＂以图搜图](#-健康宅男偶像以图搜图)
 - [💭 Blog](#-blog)
-    - [班固米优质用户日志](#班固米优质用户日志)
-      - [——](#-8)
+  - [班固米优质用户日志](#班固米优质用户日志)
 - [👀 好玩的小东西](#-好玩的小东西)
 
 ------
@@ -137,7 +128,7 @@
 
 [🇬🇧 AniDB](https://anidb.net/)
 
-### ——
+　
 
 [🚧 糟糕岛维基](https://yuki.komica.org/)
 
@@ -201,7 +192,7 @@
 
 [机核 GCORES（游戏）](https://www.gcores.com/)
 
-### ——
+　
 
 [🚧 巴哈姆特哈啦板－东方板块](https://forum.gamer.com.tw/B.php?bsn=10039)
 
@@ -269,7 +260,7 @@
 
 [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
-### ——
+　
 
 可选：浏览器语言设置使用其他语言
 
@@ -343,7 +334,7 @@
 
 [🚧Pirate Bay](http://thepiratebay.org)
 
-### ——
+　
 
 [客户端：QBT-EE](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 
@@ -381,7 +372,7 @@
 
 [Wayback Machine - 网络的记忆](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
 
-### ——
+　
 
 [Tampermonkey - 用户脚本加载](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
@@ -425,13 +416,13 @@
 
 [blog) 数款二游资源解包](https://estertion.win/)
 
-### ——
+　
 
 [r/FreeMediaHeckYeah Megathread](https://fmhy.pages.dev/)
 
 [🚧 r/Piracy Megathread](https://rentry.co/megathread)
 
-### ——
+　
 
 [⭐ BAKA 群主倾情推荐⭐ Dagobah](https://dagobah.net/)
 
@@ -447,7 +438,7 @@
 
 [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
 
-### ——
+　
 
 [SauceNAO－插画反向搜索](https://saucenao.com/)
 
@@ -492,7 +483,7 @@
 
 [鲜奶饼干的日志](https://bgm.tv/user/247109/blog)
 
-### ——
+　
 
 [北雁云依的博客](https://stblog.penclub.club/)
 
