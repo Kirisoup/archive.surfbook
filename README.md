@@ -92,7 +92,7 @@
 
 [炎上书屋](https://firebook.store/books)
 
- 💬 东方／ACG 论坛
+# 💬 东方／ACG 论坛
 
 [喵玉殿](https://bbs.nyasama.com/)
 
