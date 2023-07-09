@@ -2,10 +2,9 @@
     
     本书签持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
 
-    
 ### 🕘（5）最近更新
 #### 📂 总书签数：182
-    
+
     [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
     
     [射手网(伪)](https://assrt.net/)
@@ -24,7 +23,49 @@
     
     [缪缪收藏的图书网址信息](https://bgme.me/@Camus/109284118369473526)
 
-# ⭐ 东方常用 
+------
+
+- [⭐ 东方常用](#-东方常用)
+- [🔎 维基／咨询／刊物](#-维基咨询刊物)
+    - [综合 ACG](#综合-acg)
+      - [班固米](#班固米)
+      - [其他动画评分排名](#其他动画评分排名)
+      - [——](#)
+    - [刊物／专栏](#刊物专栏)
+- [💬 东方／ACG 论坛](#-东方acg-论坛)
+    - [时泪](#时泪)
+    - [综合 ACG](#综合-acg-1)
+      - [——](#-1)
+- [🔑 工具／资源](#-工具资源)
+    - [随缘东方资源收录](#随缘东方资源收录)
+      - [东方同人游戏解包资源](#东方同人游戏解包资源)
+    - [网络安全](#网络安全)
+      - [网络代理（翻墙）](#网络代理翻墙)
+      - [用于 Chrome 的隐私插件](#用于-chrome-的隐私插件)
+      - [——](#-2)
+      - [TOR\](洋葱网络)](#tor洋葱网络)
+    - [BT](#bt)
+      - [动画BT资源](#动画bt资源)
+      - [影视](#影视)
+      - [字幕](#字幕)
+      - [电子书](#电子书)
+        - [🚧 Z-Library](#-z-library)
+      - [——](#-3)
+    - [RSS](#rss)
+      - [客户端／工具](#客户端工具)
+    - [浏览器插件](#浏览器插件)
+      - [——](#-4)
+      - [其他自用脚本](#其他自用脚本)
+      - [——](#-5)
+      - [——](#-6)
+      - [——](#-7)
+- [🚧 ＂健康宅男偶像＂以图搜图](#-健康宅男偶像以图搜图)
+- [💭 Blog](#-blog)
+    - [班固米优质用户日志](#班固米优质用户日志)
+      - [——](#-8)
+- [👀 好玩的小东西](#-好玩的小东西)
+
+# ⭐ 东方常用
 
 [东方吧维基](http://thwiki.cc/)
 
@@ -38,7 +79,9 @@
 
 [STG 工具／补丁](https://thwiki.cc/-/sn5)
 
-# 🔎 维基／咨询／刊物 
+------
+
+# 🔎 维基／咨询／刊物
 
 [东方吧维基](http://thwiki.cc/)
 
@@ -58,7 +101,7 @@
 
 [东方同人动画（班固米）](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
 
-## └▶ 综合 ACG
+### 综合 ACG
 
 [萌娘百科（经典镜像站）](https://moegirl.uk/)
 
@@ -68,7 +111,7 @@
 
 [🇬🇧 SakugaBooru](https://sakugabooru.com/)
 
-### └▶ 班固米
+#### 班固米
 
 [班固米 Bangumi TV](https://bgm.tv/)
 
@@ -82,7 +125,7 @@
 
 [班固米－里番收录](https://bangumi.tv/blog/286840)
 
-### └▶ 其他动画评分排名 
+#### 其他动画评分排名
 
 [A岛年度动画排名（2022）](https://www.nmbxd1.com/t/55161642)
 
@@ -92,7 +135,7 @@
 
 [🇬🇧 AniDB](https://anidb.net/)
 
-### ——
+#### ——
 
 [🚧 糟糕岛维基](https://yuki.komica.org/)
 
@@ -106,11 +149,13 @@
 
 [🚧 🇬🇧 Know Your Meme](https://knowyourmeme.com/)
 
-## └▶ 刊物／专栏 
+### 刊物／专栏
 
 [東方文化學刊](https://www.zhihu.com/column/touhou-culture-studies)
 
 [炎上书屋](https://firebook.store/books)
+
+------
 
 # 💬 东方／ACG 论坛
 
@@ -126,7 +171,7 @@
 
 [🇬🇧 EndChan /2hu/](https://endchan.net/2hu/)
 
-## └▶ 时泪 
+### 时泪
 
 [动漫渔场](http://www.comicfishing.com/touhou/)
 
@@ -134,7 +179,7 @@
 
 [A>](http://bbs.thproject.net/)
 
-## └▶ 综合 ACG
+### 综合 ACG
 
 [爱撕衣](https://bbs.saraba1st.com/)
 
@@ -154,7 +199,7 @@
 
 [机核 GCORES（游戏）](https://www.gcores.com/)
 
-### ——
+#### ——
 
 [🚧 巴哈姆特哈啦板－东方板块](https://forum.gamer.com.tw/B.php?bsn=10039)
 
@@ -166,11 +211,13 @@
 
 [🚧 🇬🇧 r/Touhou](https://www.reddit.com/r/touhou/)
 
+------
+
 # 🔑 工具／资源
 
-## └▶ 随缘东方资源收录
+### 随缘东方资源收录
 
-### └▶ 东方同人游戏解包资源
+#### 东方同人游戏解包资源
 
 [精灵图（live2d）](https://www.spriters-resource.com/search/?q=touhou)
 
@@ -192,9 +239,9 @@
 
 [Flysheep－一些东方同人游戏资源](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97)
 
-## └▶ 网络安全 
+### 网络安全
 
-### └▶ 网络代理（翻墙）
+#### 网络代理（翻墙）
 
 [自用机场 - XSUS](https://home.xsus.me/)
 
@@ -206,7 +253,7 @@
 
 [客户端 - ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
 
-### └▶ 用于 Chrome 的隐私插件
+#### 用于 Chrome 的隐私插件
 
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
@@ -220,7 +267,7 @@
 
 [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 
-### ——
+#### ——
 
 可选：浏览器语言设置使用其他语言
 
@@ -232,7 +279,7 @@
 
 [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 
-### └▶ TOR](洋葱网络)
+#### TOR](洋葱网络)
 
 [Tor 浏览器](https://www.torproject.org/)
 
@@ -240,9 +287,9 @@
 
 [另见：数字极权时代生存手记](https://reconsidera.github.io/#/README)
 
-## └▶ BT 
+### BT
 
-### └▶ 动画BT资源
+#### 动画BT资源
 
 [🚧 末日动漫资源库（推荐）](https://share.acgnx.se/)
 
@@ -262,11 +309,11 @@
 
 [1969-2022 里番全收录](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf)
 
-### └▶ 影视
+#### 影视
 
 [🚧 1377x](https://www.1377x.to/)
 
-### └▶ 字幕
+#### 字幕
 
 [射手网(伪)](https://assrt.net/)
 
@@ -274,9 +321,9 @@
 
 [字幕库](https://zimuku.org/)
 
-### └▶ 电子书 
+#### 电子书
 
-#### └▶ 🚧 Z-Library
+##### 🚧 Z-Library
 
 [Z-Library](https://singlelogin.me/)
 
@@ -292,19 +339,19 @@
 
 [🚧 东京图书馆](https://www.tokyotosho.info/)
 
-[🚧Pirate Bay](http://thepiratebay.org) 
+[🚧Pirate Bay](http://thepiratebay.org)
 
-### ——
+#### ——
 
 [客户端：QBT-EE](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 
 [BT搜索（QBT内建）](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 
-## └▶ RSS 
+### RSS
 
 [RSS 入门指南](https://sspai.com/post/56391)
 
-### └▶  客户端／工具 
+####  客户端／工具
 
 [Raven（Ｗindows／MacOS／Linux）](https://github.com/hello-efficiency-inc/raven-reader)
 
@@ -318,7 +365,7 @@
 
 [本人的RSS Feeds（动画咨询、分析、知识）](https://kirisamesoup.lanzoub.com/izITa0ouwrqf)
 
-## └▶ 浏览器插件 
+### 浏览器插件
 
 [pakku - 合并B站弹幕](https://chrome.google.com/webstore/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)
 
@@ -332,7 +379,7 @@
 
 [Wayback Machine - 网络的记忆](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
 
-### ——
+#### ——
 
 [Tampermonkey - 用户脚本加载](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
@@ -350,7 +397,7 @@
 
 [Pixiv 增强](https://greasyfork.org/en/scripts/34153-pixiv-plus)
 
-### └▶ 其他自用脚本
+#### 其他自用脚本
 
 [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
 
@@ -376,13 +423,13 @@
 
 [blog) 数款二游资源解包](https://estertion.win/)
 
-### ——
+#### ——
 
- [r/FreeMediaHeckYeah Megathread](https://fmhy.pages.dev/)
+[r/FreeMediaHeckYeah Megathread](https://fmhy.pages.dev/)
 
 [🚧 r/Piracy Megathread](https://rentry.co/megathread)
 
-### ——
+#### ——
 
 [⭐ BAKA 群主倾情推荐⭐ Dagobah](https://dagobah.net/)
 
@@ -398,7 +445,7 @@
 
 [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
 
-### ——
+#### ——
 
 [SauceNAO－插画反向搜索](https://saucenao.com/)
 
@@ -409,7 +456,9 @@
 [Trace.moe－动画反向搜索](https://trace.moe/)
 
 [🚧 ＂健康宅男偶像＂以图搜图](https://xslist.org/zh)
- # 💭 Blog
+------
+
+# 💭 Blog
 
 注：个人收藏
 
@@ -423,7 +472,7 @@
 
 [青竹 | esterTion( ͡° ͜ʖ ͡°)](https://estertion.win/)
 
-## └▶ 班固米优质用户日志
+### 班固米优质用户日志
 
 [栜栦的日志](https://bgm.tv/user/kagami_lu/blog)
 
@@ -441,7 +490,7 @@
 
 [鲜奶饼干的日志](https://bgm.tv/user/247109/blog)
 
-### ——
+#### ——
 
 [北雁云依的博客](https://stblog.penclub.club/)
 
@@ -451,7 +500,9 @@
 
 [李老师不是你老师](https://lilaoshibushinilaoshi.com/)
 
-# 👀 好玩的小东西 
+------
+
+# 👀 好玩的小东西
 
 [THFM－随机原曲电台](https://ximin.top/thfm/)
 
