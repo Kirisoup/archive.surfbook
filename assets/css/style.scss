@@ -2,39 +2,103 @@
 ---
 
 .page-header {
-    background: linear-gradient(120deg, #155798, #159957) !important
+    background: linear-gradient(120deg, #15579888, #1dcc7466) !important;
+    font-family: SimHei !important;
+    line-height: 2;
+    padding: 4rem 4rem 1rem 4rem !important
 }
 
 body {
-    background: #222428 !important;
-    color: #A3B6BF !important
+    background-color: #1e1e22 !important;
+    color: #A3B6BF !important;
+    font-family: SimHei !important;
+    line-height: 1 !important;
+    opacity: 0 !important
+}
+
+body {
+    content: "before" !important;
+    opacity: 1.0 !important;
+}
+
+main:before {
+    content: "";
+    transition-duration: 700ms;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    box-shadow: 0 0 2000px #000 inset;
+    background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148.JPG) !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-size: 100%;
+    opacity: 0.25 !important;
+}
+
+main:hover::before {
+    transition: opacity;
+    transition-duration: 700ms;
+    filter: blur(4px);
+    opacity: 0.1 !important;
 }
 
 .highlight {
     background: none !important;
-    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1 !important;
+    border-image: linear-gradient(170deg, #2585E6, #1dcc74) 1 !important;
     border-width: 2px!important;
-    border-radius: 0px !important
+    border-radius: 0px !important;
+    line-height: normal !important
 }
 
 code {
-    color: #87B6CC !important
+    color: #87B6CC !important;
+    line-height: normal !important
 }
 
 hr {
-    background: linear-gradient(90deg, #2585E6, #1DCC74) !important
+    background: linear-gradient(90deg, #2585E6, #1dcc74) !important;
+    margin-top: 5rem !important;
+    margin-inline: 1rem !important
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #1DCC74 !important;
+hl {
+    line-height: 10 !important
 }
+
+.main-content h1 {
+    text-indent: 2.5%;
+    border: solid #0000 8px !important;
+}
+
+.main-content h1:hover {
+    font-weight: bold;
+    color: #fff !important;
+    letter-spacing: 2px;
+    background: linear-gradient(120deg, #155798, #159957) !important; 
+    border: solid 8px !important;
+    border-image: linear-gradient(120deg, #155798, #159957) 1 !important;
+}
+
 
 a {
-    color: #2585E6 !important
+    color: #87B6CC !important;
+    letter-spacing: 0.5px;
+    font-size: 1.2rem;
+    line-height: 1.5 !important
+}
+
+a:hover {
+    color: #fff !important;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-decoration: none !important;
 }
 
 .site-footer {
-    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1 !important;
+    border-image: linear-gradient(170deg, #2585E6, #1dcc74) 1 !important;
     border-width: 3px !important
 }
 
