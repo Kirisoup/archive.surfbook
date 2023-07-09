@@ -2,8 +2,11 @@
 ---
 
 body {
-    content: "";
-    background: #333 !important
+    background: #333
+}
+
+.highlight {
+    background: #222
 }
 
 @import "{{ site.theme }}";
