@@ -2,6 +2,31 @@
     
     本书签持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
 
+---
+    
+### 🕘（5）最近更新
+#### 📂 总书签数：182
+    
+    [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
+    
+    [射手网(伪)](https://assrt.net/)
+    
+    [SubHD](https://subhd.tv/)
+    
+    [字幕库](https://zimuku.org/)
+    
+    [🚧 1377x](https://www.1377x.to/)
+    
+    [ACG.RIP](https://acg.rip/)
+    
+    [sci-hub](https://sci-hub.ru/)
+    
+    [無產階級圖書館](https://library.proletarian.me/)
+    
+    [缪缪收藏的图书网址信息](https://bgme.me/@Camus/109284118369473526)
+
+---
+
 # ⭐ 东方常用 
 
 [东方吧维基](http://thwiki.cc/)
@@ -146,7 +171,7 @@
 
 [🚧 🇬🇧 r/Touhou](https://www.reddit.com/r/touhou/)
 
- 🔑 工具／资源
+# 🔑 工具／资源
 
 ## └▶ 随缘东方资源收录
 
@@ -178,11 +203,11 @@
 
 [自用机场 - XSUS](https://home.xsus.me/)
 
-[免费订阅 - pmsub](未经测试)](https://pmsub.me/)
+[免费订阅 - pmsub(未经测试)](https://pmsub.me/)
 
-[客户端 - Clash for Windows](也支持Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[客户端 - Clash for Windows(也支持Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-[客户端 - clashX](Mac专用)](https://github.com/yichengchen/clashX/releases)
+[客户端 - clashX(Mac专用)](https://github.com/yichengchen/clashX/releases)
 
 [客户端 - ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
 
@@ -447,4 +472,3 @@
 [东方 ANSI Art（批踢踢） ](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
 
 [Ascii Art 汉字生成器](https://magiconch.com/fontfont/)
-
