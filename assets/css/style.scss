@@ -2,35 +2,36 @@
 ---
 
 .page-header {
-    background: linear-gradient(120deg, #155798, #159957)
+    background: linear-gradient(120deg, #155798, #159957) !important
 }
 
 body {
-    background: #222428;
-    color: #A3B6BF
+    background: #222428 !important;
+    color: #A3B6BF !important
 }
 
 .highlight {
-    background: none;
-    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1;
-    border-width: 2p;
-    border-radius: 0px
+    background: none !important;
+    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1 !important;
+    border-width: 2px!important;
+    border-radius: 0px !important
 }
 
 hr {
-    background: linear-gradient(90deg, #2585E6, #1DCC74)
+    background: linear-gradient(90deg, #2585E6, #1DCC74) !important
 }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    color: #1DCC74;
+    color: #1DCC74 !important;
 }
 
 a {
-    color: #2585E6
+    color: #2585E6 !important
 }
 
 .site-footer {
-    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1;
-    border-width: 3px
+    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1 !important;
+    border-width: 3px !important
 }
+
 @import "{{ site.theme }}";
