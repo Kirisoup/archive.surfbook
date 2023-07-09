@@ -1,12 +1,36 @@
 ---
 ---
 
+.page-header {
+    background: linear-gradient(120deg, #155798, #159957)
+}
+
 body {
-    background: #222428 !important
+    background: #222428;
+    color: #A3B6BF
 }
 
 .highlight {
-    background: #1f1f24 !important
+    background: none;
+    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1;
+    border-width: 2p;
+    border-radius: 0px
 }
 
+hr {
+    background: linear-gradient(90deg, #2585E6, #1DCC74)
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #1DCC74;
+}
+
+a {
+    color: #2585E6
+}
+
+.site-footer {
+    border-image: linear-gradient(170deg, #2585E6, #1DCC74) 1;
+    border-width: 3px
+}
 @import "{{ site.theme }}";
