@@ -1,9 +1,13 @@
 ---
 ---
 
-body {
-    max-width: 100%;
+html, body{
+    width: 100%;
+    position: relative;
     overflow-x: hidden;
+}
+
+body {
     background-color: #1e1e22 !important;
     color: #A3B6BF !important;
     font-family: SimHei !important;
@@ -12,7 +16,6 @@ body {
 
 main {
     padding-inline: 1rem !important;
-    overflow-x: hidden !important;
     margin-left: auto;
     margin-right: auto;
     width: calc(60% + 1rem)
