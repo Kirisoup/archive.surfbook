@@ -14,11 +14,30 @@ body {
     line-height: 1 !important;
 }
 
-main {
-    padding-inline: 1rem !important;
-    margin-left: auto;
-    margin-right: auto;
-    width: calc(60% + 1rem)
+@media screen and (min-width: 750px) {
+    main {
+        padding-inline: 1rem !important;
+        margin-left: auto;
+        margin-right: auto;
+        min-width: calc(60% + 1rem)
+    }
+    
+    .page-header{
+        padding-inline: 4rem !important;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    main {
+        padding-inline: 1rem !important;
+        margin-left: auto;
+        margin-right: auto;
+        min-width: calc(90% + 1rem)
+    }
+    
+    .page-header{
+        padding-inline: 1rem !important;
+    }
 }
 
 #skip-to-content {
@@ -129,7 +148,6 @@ body main:hover footer {
 
 .page-header {
     padding-block: 1rem 2rem !important;
-    padding-inline: 4rem !important;
     line-height: 2;
     background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
 }
