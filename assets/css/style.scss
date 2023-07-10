@@ -135,13 +135,11 @@ hl {
     /* Top level hl */
 
 .main-content h1 {
-    text-indent: 2.5%;
-/*    border: none !important; */
+    text-indent: 0 !important;/* =v= */
     border-radius: 5px !important;
-    margin-top: 1.3rem !important;
-    margin-bottom: 0.3rem !important;
-    padding-top: 0.7rem ;
-    padding-bottom: 0.7rem;
+    margin-block: 2.3rem !important;
+    padding-inline: 1rem;
+    padding-block: 0.7rem;
 }
 
         /* Hover */
@@ -151,8 +149,23 @@ hl {
     color: #fff !important;
     letter-spacing: 2px;
     background: linear-gradient(120deg, #155798, #159957) !important;
-/*    border: none !important; */
-/*    border-radius: 5px !important; */
+}
+
+.main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    border-radius: 5px !important;
+    margin-top: 2.3rem !important;
+    margin-bottom: 0.3rem !important;
+    padding-block: 0.7rem ;
+}
+
+.main-content h2:hover, .main-content h3:hover, .main-content h4:hover, .main-content h5:hover, .main-content h6:hover {
+    font-weight: bold;
+    color: #fff !important;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422) !important;
+    border: none !important;/* =v= */
+    border-radius: 5px !important;/* =v= */
+    padding-inline: 0.5rem !important;
 }
 
 
@@ -193,7 +206,7 @@ p a {
 
 p a:hover {
     padding-left: 0.5rem !important;
-    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422, #fff0, #fff0, #fff0, #fff0, #fff0) !important;
+    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422, #fff0, #fff0, #fff0) !important;
 }
 
 
