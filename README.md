@@ -25,16 +25,18 @@
 
 ## 📂 目录
 
+------
+
 - [⭐ 东方常用](#-东方常用)
-- [🔎 维基／咨询／刊物](#-维基咨询刊物)
+- [🔎 维基 / 咨询 / 刊物](#-维基--咨询--刊物)
   - [综合 ACG](#综合-acg)
     - [班固米](#班固米)
     - [其他动画评分排名](#其他动画评分排名)
-  - [刊物／专栏](#刊物专栏)
-- [💬 东方／ACG 论坛](#-东方acg-论坛)
+  - [刊物 / 专栏](#刊物--专栏)
+- [💬 东方 / ACG 论坛](#-东方--acg-论坛)
   - [时泪](#时泪)
   - [综合 ACG](#综合-acg-1)
-- [🔑 工具／资源](#-工具资源)
+- [🔑 工具 / 资源](#-工具--资源)
   - [随缘东方资源收录](#随缘东方资源收录)
     - [东方同人游戏解包资源](#东方同人游戏解包资源)
   - [网络安全](#网络安全)
@@ -48,7 +50,7 @@
     - [电子书](#电子书)
       - [🚧 Z-Library](#-z-library)
   - [RSS](#rss)
-    - [客户端／工具](#客户端工具)
+    - [客户端 / 工具](#客户端--工具)
   - [浏览器插件](#浏览器插件)
     - [其他自用脚本](#其他自用脚本)
   - [🚧 ＂健康宅男偶像＂以图搜图](#-健康宅男偶像以图搜图)
@@ -64,17 +66,17 @@
 
 [喵玉殿论坛](https://bbs.nyasama.com/)
 
-[莉莉云－正作资源等](https://cloud.lilywhite.cc/)
+[莉莉云 - 正作资源等](https://cloud.lilywhite.cc/)
 
-[帕琪站－视频检索](https://www.patchyvideo.com/)
+[帕琪站 - 视频检索](https://www.patchyvideo.com/)
 
-[甜品站－STG 学习](https://www.isndes.com/)
+[甜品站 - STG 学习](https://www.isndes.com/)
 
-[STG 工具／补丁](https://thwiki.cc/-/sn5)
+[STG 工具 / 补丁](https://thwiki.cc/-/sn5)
 
 ------
 
-# 🔎 维基／咨询／刊物
+# 🔎 维基 / 咨询 / 刊物
 
 [东方吧维基](http://thwiki.cc/)
 
@@ -108,15 +110,15 @@
 
 [班固米 Bangumi TV](https://bgm.tv/)
 
-[班固米－科学排名](https://chii.ai/)
+[班固米 - 科学排名](https://chii.ai/)
 
-[班固米－搜索增强](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
+[班固米 - 搜索增强](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
 
-[班固米－评分趋势](https://netaba.re/)
+[班固米 - 评分趋势](https://netaba.re/)
 
-[班固米－标签搜索](https://chii.ai/search)
+[班固米 - 标签搜索](https://chii.ai/search)
 
-[班固米－里番收录](https://bangumi.tv/blog/286840)
+[班固米 - 里番收录](https://bangumi.tv/blog/286840)
 
 ### 其他动画评分排名
 
@@ -142,7 +144,7 @@
 
 [🚧 🇬🇧 Know Your Meme](https://knowyourmeme.com/)
 
-## 刊物／专栏
+## 刊物 / 专栏
 
 [東方文化學刊](https://www.zhihu.com/column/touhou-culture-studies)
 
@@ -150,7 +152,7 @@
 
 ------
 
-# 💬 东方／ACG 论坛
+# 💬 东方 / ACG 论坛
 
 [喵玉殿](https://bbs.nyasama.com/)
 
@@ -194,19 +196,19 @@
 
 　
 
-[🚧 巴哈姆特哈啦板－东方板块](https://forum.gamer.com.tw/B.php?bsn=10039)
+[🚧 巴哈姆特哈啦板 - 东方板块](https://forum.gamer.com.tw/B.php?bsn=10039)
 
-[🚧 Komica糟糕岛－东方板块](https://2cat.org/~touhou/)
+[🚧 Komica糟糕岛 - 东方板块](https://2cat.org/~touhou/)
 
-[🚧 批踢踢－东方板块](https://www.ptt.cc/bbs/Touhou/)
+[🚧 批踢踢 - 东方板块](https://www.ptt.cc/bbs/Touhou/)
 
-[🚧 🇯🇵 2ch－东方板块](https://fate.5ch.net/touhou/)
+[🚧 🇯🇵 2ch - 东方板块](https://fate.5ch.net/touhou/)
 
 [🚧 🇬🇧 r/Touhou](https://www.reddit.com/r/touhou/)
 
 ------
 
-# 🔑 工具／资源
+# 🔑 工具 / 资源
 
 ## 随缘东方资源收录
 
@@ -218,7 +220,7 @@
 
 [音效BGM](https://www.sounds-resource.com/search/?q=touhou)
 
-[Moriya Shrine－英文同人资源](https://moriyashrine.org/)
+[Moriya Shrine - 英文同人资源](https://moriyashrine.org/)
 
 [弹幕神乐 拆包资源](https://pan.baidu.com/s/1eoeaeHBbgw8sHEhsrJVHag#list/path=%2F)
 
@@ -226,11 +228,11 @@
 
 [原作翻译补丁（各种语言）](https://www.thpatch.net/)
 
-[梦璃－东方同人资源](https://moeli-desu.com/tag/%e4%b8%9c%e6%96%b9project/)
+[梦璃 - 东方同人资源](https://moeli-desu.com/tag/%e4%b8%9c%e6%96%b9project/)
 
 [东方ERA游戏汉化](https://pan.erag.eu.org/%F0%9F%95%B9%EF%B8%8F%20era%20%E6%B8%B8%E6%88%8F%20-%20%E7%86%9F%E8%82%89%EF%BC%88%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%EF%BC%89)
 
-[Flysheep－一些东方同人游戏资源](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97)
+[Flysheep - 一些东方同人游戏资源](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97)
 
 ## 网络安全
 
@@ -332,7 +334,7 @@
 
 [🚧 东京图书馆](https://www.tokyotosho.info/)
 
-[🚧Pirate Bay](http://thepiratebay.org)
+[🚧 Pirate Bay](http://thepiratebay.org)
 
 　
 
@@ -344,11 +346,11 @@
 
 [RSS 入门指南](https://sspai.com/post/56391)
 
-###  客户端／工具
+###  客户端 / 工具
 
-[Raven（Ｗindows／MacOS／Linux）](https://github.com/hello-efficiency-inc/raven-reader)
+[Raven（Ｗindows / MacOS / Linux）](https://github.com/hello-efficiency-inc/raven-reader)
 
-[NetNewsWire（MacOS／iOS）](https://github.com/Ranchero-Software/NetNewsWire)
+[NetNewsWire（MacOS / iOS）](https://github.com/Ranchero-Software/NetNewsWire)
 
 [🚧 Feedly](https://feedly.com/)
 
@@ -412,7 +414,7 @@
 
 [轻之国度 / 真白萌Web小镇/ galgame终点...](https://greasyfork.org/en/scripts/422867-%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-%E7%9C%9F%E7%99%BD%E8%90%8Cweb%E5%B0%8F%E9%95%87-galgame%E7%BB%88%E7%82%B9-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
 
-[thtk－东方拆包工具](https://github.com/thpatch/thtk)
+[thtk - 东方拆包工具](https://github.com/thpatch/thtk)
 
 [blog) 数款二游资源解包](https://estertion.win/)
 
@@ -430,23 +432,23 @@
 
 [🚧 Hikari no Akari - ACG 音乐](https://hikarinoakari.com/)
 
-[🚧 DLsite－正版同人作品购买站](https://www.dlsite.com/)
+[🚧 DLsite - 正版同人作品购买站](https://www.dlsite.com/)
 
-[🚧 Kemono－付费资源分享](https://kemono.party/)
+[🚧 Kemono - 付费资源分享](https://kemono.party/)
 
-[🚧 E-Hentai－＂动作漫画＂网站](https://e-hentai.org/)
+[🚧 E-Hentai - ＂动作漫画＂网站](https://e-hentai.org/)
 
 [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
 
 　
 
-[SauceNAO－插画反向搜索](https://saucenao.com/)
+[SauceNAO - 插画反向搜索](https://saucenao.com/)
 
-[IQDB－插画反向搜索](https://iqdb.org/)
+[IQDB - 插画反向搜索](https://iqdb.org/)
 
-[waifu2x－AI图片放大](https://waifu2x.udp.jp/)
+[waifu2x - AI图片放大](https://waifu2x.udp.jp/)
 
-[Trace.moe－动画反向搜索](https://trace.moe/)
+[Trace.moe - 动画反向搜索](https://trace.moe/)
 
 [🚧 ＂健康宅男偶像＂以图搜图](https://xslist.org/zh)
 ------
@@ -463,7 +465,7 @@
 
 [🇯🇵 Paradism](https://shirooo305.hatenablog.com/)
 
-[青竹 | esterTion( ͡° ͜ʖ ͡°)](https://estertion.win/)
+[青竹 \| esterTion( ͡° ͜ʖ ͡°)](https://estertion.win/)
 
 ## 班固米优质用户日志
 
@@ -497,9 +499,9 @@
 
 # 👀 好玩的小东西
 
-[THFM－随机原曲电台](https://ximin.top/thfm/)
+[THFM - 随机原曲电台](https://ximin.top/thfm/)
 
-[TOUHOU Medle－听节奏猜旋律](https://medle.akashiya.top/)
+[TOUHOU Medle - 听节奏猜旋律](https://medle.akashiya.top/)
 
 [東方 Ascii Art 保管库](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
 
