@@ -2,6 +2,8 @@
 ---
 
 body {
+    max-width: 100%;
+    overflow-x: hidden;
     background-color: #1e1e22 !important;
     color: #A3B6BF !important;
     font-family: SimHei !important;
@@ -272,8 +274,8 @@ a {
     letter-spacing: 0.5px;
     font-size: 1.2rem;
     line-height: 1.5 !important;
-    padding-right: 90%;
-    margin-right: -90% !important;
+    padding-right: 200%;
+    margin-right: -200% !important;
 }
 
         /* hover */
