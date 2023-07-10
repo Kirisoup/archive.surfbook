@@ -60,7 +60,7 @@ body:hover main:before {
     left: 0;
     z-index: -100;
     background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-    background-position: center center !important;
+    background-position: center right !important;
     background-attachment: fixed !important;
     background-size: cover;
     filter: none;
@@ -81,7 +81,25 @@ body main:hover::before {
     left: 0;
     z-index: -100;
     background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-    background-position: center center !important;
+    background-position: center right !important;
+    background-attachment: fixed !important;
+    background-size: cover;
+    transition-duration: 1500ms;
+    scale: 1;
+    filter: brightness(2);
+    opacity: 0.1 !important;
+}
+
+body main:hover::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+    background-position: center right !important;
     background-attachment: fixed !important;
     background-size: cover;
     transition-duration: 1500ms;
@@ -89,6 +107,7 @@ body main:hover::before {
     filter: brightness(2);
     opacity: 0.1 !important;
 }
+
 
 
 
