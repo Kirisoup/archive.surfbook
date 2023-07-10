@@ -8,6 +8,9 @@ body {
     line-height: 1 !important;
 }
 
+main {
+    margin: 0 auto !important
+}
 
 
 /* Background */
@@ -16,52 +19,56 @@ body {
 
 main:before {
     content: "";
-    transition-duration: 300ms;
+    transition-duration: 500ms;
     position: fixed;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
     z-index: -100;
-    box-shadow: 0 0 2000px #000 inset;
     background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
     background-position: center center !important;
     background-attachment: fixed !important;
     background-size: cover;
-    opacity: 0.3 !important;
+    filter: none;
+    scale: 1;
+    opacity: 0.2 !important;
 }
 
 
     /* bg animation */
 
-/*
+
 main:hover::before {
     transition-delay: 0ms !important;
-    transition-duration: 300ms;
-    opacity: 0.2 !important;
+    transition-duration: 700ms;
+    scale: 1.3;
+    opacity: 0.1 !important;
+
 }
-*/
+
 
 
 
 /* content animation */
 
-/*
+
 main div, main h1, main h2, main h3, main h4, main h5, main h6, main hr, main li, main p, main a, main span, main footer{
-    transition-delay: 350ms;
-    transition-duration: 300ms;
-    opacity: 0.5 !important;
+    transition-duration: 500ms;
+    scale: 0.95;
+    opacity: 0.7 !important;
     filter: grayscale(1);
+    
 }
 
 main:hover div, main:hover h1, main:hover h2, main:hover h3, main:hover h4, main:hover h5, main:hover h6, main:hover hr, main:hover li, main:hover p, main:hover a, main:hover span, main:hover footer {
     transition-delay: 0ms;
-    transition-duration: 0ms;
+    transition-duration: 700ms;
     scale: 1;
     filter: none;
     opacity: 1 !important
 }
-*/
+
 
 
 
@@ -72,23 +79,23 @@ main:hover div, main:hover h1, main:hover h2, main:hover h3, main:hover h4, main
         /* Zoom out*/
 
 body:hover .page-header {
-    transition-duration: 500ms;
-    padding: 1rem 4rem 1rem 4rem !important;
-    margin-bottom: 1rem;
-    opacity: 1 !important;
+    transition-duration: 300ms;
+    padding-block: 0rem !important;
+    margin-bottom: 1.7rem;
 }
 
         /* Zoom in*/
 
 .page-header,
 body .page-header:hover {
-    transition-duration: 700ms;
+    z-index: 100;
+    transition-duration: 500ms;
     background: linear-gradient(120deg, #15579888, #1dcc7466) !important;
     font-family: SimHei !important;
     line-height: 2;
-    padding: 2rem 4rem 3rem 4rem !important;
+    padding-block: 2rem 3rem !important;
+    padding-inline: 4rem !important;
     margin-bottom: 0rem;
-    opacity: 1 !important;
 }
 
     /* Title + Subtitle */
@@ -96,11 +103,7 @@ body .page-header:hover {
         /* Zoom out title*/
 
 body:hover .project-name {
-
-
-    transition-duration: 500ms;
-    margin-bottom: 0 !important;
-    margin-top: 0 !important;
+    transition-duration: 300ms;
     line-height: 1 !important;
     scale: 40%;
 }
@@ -108,11 +111,7 @@ body:hover .project-name {
         /* Zoom out description*/
 
 body:hover .project-tagline {
-
-
-    transition-duration: 500ms;
-    margin-bottom: 0 !important;
-    margin-top: 0 !important;
+    transition-duration: 300ms;
     scale: 40%;
     line-height: 0 !important;
     opacity: 0 !important;
@@ -122,11 +121,10 @@ body:hover .project-tagline {
 
 .project-name, .project-tagline, 
 body .page-header:hover .project-name, body .page-header:hover .project-tagline {
-    transition-duration: 700ms;
+    transition-duration: 500ms;
     position: relative;
     line-height: 2 !important;
-    margin-bottom: 0 !important;
-    margin-top: 0 !important;
+    margin-block: 0 !important;
     scale: 80%;
     opacity: 1 !important;
 }
@@ -136,17 +134,27 @@ body .page-header:hover .project-name, body .page-header:hover .project-tagline 
 /* Horizontal rule */
 
 hr, .site-footer {
+    transition-duration: 500ms !important;
     margin-block: 3rem !important;
     margin-inline: 0rem !important;
-    border-width: 3px !important;
+    border-width: 0.3rem !important;
+    height: 0.3rem !important
 }
 
 hr {
-    background: linear-gradient(90deg, #2585E6, #1dcc74) !important;
+    background: #CCDAFF63 !important;
+    
+}
+
+hr:hover {
+    transition-duration: 0ms !important;
+    margin-block: 2.7rem !important;
+    height: 0.9rem !important;
+    border-radius: 10px
 }
 
 .site-footer {
-    border-image: linear-gradient(90deg, #2585E6, #1dcc74) 1 !important;
+    border-color: #CCDAFF63 !important;
 }
 
 /* Head line */
@@ -159,12 +167,25 @@ hl {
 
 .main-content h1 {
     transition-delay: 100ms;
-    transition-duration: 300ms;
-    text-indent: 0 !important;/* =v= */
+    transition-duration: 400ms;
     border-radius: 5px !important;
     margin-block: 2.3rem !important;
     padding-inline: 1rem;
     padding-block: 0.7rem;
+}
+
+.main-content h1::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 500ms;
+    background: linear-gradient(120deg, #155798, #159957) !important;
+    border-radius: 10px;
+    opacity: 0
 }
 
         /* Hover */
@@ -175,15 +196,40 @@ hl {
     font-weight: bold;
     color: #fff !important;
     letter-spacing: 2px;
+}
+
+.main-content h1:hover::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 0ms;
     background: linear-gradient(120deg, #155798, #159957) !important;
+    opacity: 1;
 }
 
 .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-    transition-duration: 300ms;
+    transition-delay: 100ms;
+    transition-duration: 400ms;
     border-radius: 5px !important;
-    margin-top: 2.3rem !important;
-    margin-bottom: 1rem !important;
+    margin-block: 2rem 1rem !important;
     padding-block: 0.7rem ;
+}
+
+.main-content h2::before, .main-content h3::before, .main-content h4::before, .main-content h5::before, .main-content h6::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 500ms;
+    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422) !important;
+    opacity: 0;
 }
 
 .main-content h2:hover, .main-content h3:hover, .main-content h4:hover, .main-content h5:hover, .main-content h6:hover {
@@ -192,12 +238,21 @@ hl {
     font-weight: bold;
     color: #fff !important;
     letter-spacing: 2px;
-    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422) !important;
-    border: none !important;/* =v= */
-    border-radius: 5px !important;/* =v= */
     padding-inline: 0.5rem !important;
 }
 
+.main-content h2:hover::before, .main-content h3:hover::before, .main-content h4:hover::before, .main-content h5:hover::before, .main-content h6:hover::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 0ms;
+    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422) !important;
+    opacity: 1;
+}
 
 
 /* hyperlink */
@@ -211,7 +266,6 @@ a {
     letter-spacing: 0.5px;
     font-size: 1.2rem;
     line-height: 1.5 !important;
-    position: relative;
     padding-right: 90%;
     margin-right: -90% !important;
 }
@@ -230,8 +284,7 @@ a:hover {
     /* Bookmark */
 
 p a {
-    padding-top: 0.85rem !important;
-    padding-bottom: 0.85rem !important;
+    padding-block: 0.85rem !important;
     border-radius: 10px;
 }
 
@@ -239,7 +292,6 @@ p a {
 
 p a:hover {
     padding-left: 0.5rem !important;
-    background: linear-gradient(90deg, #15579888, #19B2B244, #1dcc7422, #fff0, #fff0, #fff0) !important;
 }
 
 
@@ -247,14 +299,36 @@ p a:hover {
 /* Other text types */
 
 .highlight {
-    background: #CCDAFF10 !important;
-    border: solid #fffa 1px !important;
+    transition-delay: 100ms;
+    transition-duration: 400ms;
+    background: unset !important;
+    border: solid #CCDAFF10 2px !important;
     border-radius: 10px !important;
     line-height: normal !important;
 }
 
+.language-plaintext.highlighter-rouge {
+    transition-delay: 100ms;
+    transition-duration: 400ms;
+    scale: 0.95;
+}
+
+.language-plaintext.highlighter-rouge:hover .highlight {
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    background: #CCDAFF10 !important;
+    border: solid #0000 2px !important;
+}
+
+.language-plaintext.highlighter-rouge:hover {
+    transition-delay: 0ms;
+    transition-duration: 50ms;
+    scale: 1;
+}
+
 code {
     color: #87B6CC !important;
+    font-family: SimHei !important;
     line-height: normal !important;
 }
 
