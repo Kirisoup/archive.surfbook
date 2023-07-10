@@ -172,7 +172,7 @@
 
 [優質の幻想鄉](https://155384.co/forum.php?gid=131)
 
-[A>](http://bbs.thproject.net/)
+[东方小镇](http://bbs.thproject.net/)
 
 ## 综合 ACG
 
