@@ -28,17 +28,40 @@ main:before {
     background-position: center center !important;
     background-attachment: fixed !important;
     background-size: cover;
-    opacity: 0.25 !important;
+    opacity: 0.3 !important;
 }
+
 
     /* bg animation */
 
+/*
 main:hover::before {
-    transition: opacity;
-    transition-duration: 500ms;
-    filter: blur(4px);
-    opacity: 0.1 !important;
+    transition-delay: 0ms !important;
+    transition-duration: 300ms;
+    opacity: 0.2 !important;
 }
+*/
+
+
+
+/* content animation */
+
+/*
+main div, main h1, main h2, main h3, main h4, main h5, main h6, main hr, main li, main p, main a, main span, main footer{
+    transition-delay: 350ms;
+    transition-duration: 300ms;
+    opacity: 0.5 !important;
+    filter: grayscale(1);
+}
+
+main:hover div, main:hover h1, main:hover h2, main:hover h3, main:hover h4, main:hover h5, main:hover h6, main:hover hr, main:hover li, main:hover p, main:hover a, main:hover span, main:hover footer {
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    scale: 1;
+    filter: none;
+    opacity: 1 !important
+}
+*/
 
 
 
@@ -135,6 +158,8 @@ hl {
     /* Top level hl */
 
 .main-content h1 {
+    transition-delay: 100ms;
+    transition-duration: 300ms;
     text-indent: 0 !important;/* =v= */
     border-radius: 5px !important;
     margin-block: 2.3rem !important;
@@ -145,6 +170,8 @@ hl {
         /* Hover */
 
 .main-content h1:hover {
+    transition-delay: 0ms !important;
+    transition-duration: 0ms !important;
     font-weight: bold;
     color: #fff !important;
     letter-spacing: 2px;
@@ -152,13 +179,16 @@ hl {
 }
 
 .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    transition-duration: 300ms;
     border-radius: 5px !important;
     margin-top: 2.3rem !important;
-    margin-bottom: 0.3rem !important;
+    margin-bottom: 1rem !important;
     padding-block: 0.7rem ;
 }
 
 .main-content h2:hover, .main-content h3:hover, .main-content h4:hover, .main-content h5:hover, .main-content h6:hover {
+    transition-delay: 0ms !important;
+    transition-duration: 0ms !important;
     font-weight: bold;
     color: #fff !important;
     letter-spacing: 2px;
@@ -175,17 +205,22 @@ hl {
     /* Table of content + Bookmark */
 
 a {
+    transition-delay: 100ms;
+    transition-duration: 300ms;
     color: #87B6CC !important;
     letter-spacing: 0.5px;
     font-size: 1.2rem;
     line-height: 1.5 !important;
     position: relative;
-
+    padding-right: 90%;
+    margin-right: -90% !important;
 }
 
         /* hover */
 
 a:hover {
+    transition-delay: 0ms !important;
+    transition-duration: 0ms !important;
     color: #fff !important;
     font-weight: bold;
     letter-spacing: 2px;
@@ -198,8 +233,6 @@ p a {
     padding-top: 0.85rem !important;
     padding-bottom: 0.85rem !important;
     border-radius: 10px;
-    padding-right: 90%;
-    margin-right: -90% !important;
 }
 
         /* hover */
@@ -215,9 +248,8 @@ p a:hover {
 
 .highlight {
     background: #CCDAFF10 !important;
-    border-image: linear-gradient(170deg, #2585E6, #1dcc74) 1 !important;
-    border-width: 2px!important;
-    border-radius: 0px !important;
+    border: solid #fffa 1px !important;
+    border-radius: 10px !important;
     line-height: normal !important;
 }
 
