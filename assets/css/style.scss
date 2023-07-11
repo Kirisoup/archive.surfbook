@@ -34,6 +34,42 @@ body {
     .project-name {
         line-height: 2 !important
     }
+
+    main::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0px;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1;
+    }
+
+    main:hover::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0px;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1.3;
+        filter: brightness(2);
+        opacity: 0.1 !important;
+    }
 }
 
 @media (any-pointer: fine) {
@@ -64,24 +100,6 @@ body {
 
 
         /* bg animation */
-
-    body main:hover::before {
-        content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
-        transition-duration: 1500ms;
-        scale: 1.3;
-        filter: brightness(2);
-        opacity: 0.1 !important;
-    }
 
 
 
@@ -146,6 +164,42 @@ body {
     .project-name {
         line-height: 1 !important
     }
+
+    main::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: -250px;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1;
+    }
+
+    main:hover::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: -250px;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1.3;
+        filter: brightness(2);
+        opacity: 0.1 !important;
+    }
 }
 
 @media (any-pointer: coarse) {
@@ -162,7 +216,6 @@ body {
         top: 0;
         right: 0;
         bottom: 0;
-        left: -350px;
         height: 100lvh !important;
         z-index: -100;
         background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
@@ -174,6 +227,25 @@ body {
         filter: brightness(2);
         opacity: 0.1 !important;
     }
+    
+    main:hover::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1;
+        filter: brightness(2);
+        opacity: 0.1 !important;
+    }
+}
 
 
 
