@@ -67,7 +67,6 @@ body {
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1.3;
-        filter: brightness(2);
         opacity: 0.1 !important;
     }
 }
@@ -93,7 +92,6 @@ body {
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        filter: none;
         scale: 1;
         opacity: 0.4 !important;
     }
@@ -146,7 +144,7 @@ body {
 
 @media screen and (orientation: portrait) {
     main {
-        padding-inline: 1 rem !important;
+        padding-inline: 1rem !important;
         overflow-x: hidden;
         margin-left: auto;
         margin-right: auto;
@@ -197,7 +195,6 @@ body {
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1.3;
-        filter: brightness(2);
         opacity: 0.1 !important;
     }
 }
@@ -245,6 +242,7 @@ body {
         filter: brightness(2);
         opacity: 0.1 !important;
     }
+
 
 
     /* content animation */
@@ -386,6 +384,7 @@ hl {
     margin-block: 2.3rem !important;
     padding-inline: 1rem;
     padding-block: 0.7rem;
+    color: #1DCC74 !important;
     text-shadow: 10px 10px #4444ddaa;
 }
 
@@ -438,6 +437,7 @@ hl {
     transition-duration: 400ms;
     margin-block: 1.5rem 0.5rem !important;
     padding-block: 0.7rem;
+    color: #1DCC74 !important;
     text-shadow: 10px 10px #4444ddaa;
 }
 
@@ -539,7 +539,7 @@ p a:hover {
  
 pre.highlight {
     border: none !important;
-    background: none !important
+    background: none !important;
 }
 
 div.highlight {
