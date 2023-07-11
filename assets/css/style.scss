@@ -14,6 +14,24 @@ body {
     line-height: 1 !important;
 }
 
+main::after {
+    transition-delay: 600ms !important;
+    transition-duration: 1000ms !important;
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0px;
+    height: 100lvh !important;
+    z-index: -100;
+    background: linear-gradient(90deg, #4444dd, #4444dd00, #2F2F9900, #2F2F99) !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-size: cover;
+    opacity: 0.2
+}
+
 @media screen and (orientation: landscape) {
     main {
         padding-inline: 1rem !important;
@@ -75,6 +93,23 @@ body {
 
 @media (any-pointer: fine) {
 
+    main:hover::after {
+        transition-delay: 0ms !important;
+        transition-duration: 200ms !important;
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0px;
+        height: 100lvh !important;
+        z-index: -100;
+        background: linear-gradient(90deg, #4444dd, #4444dd00, #2FACD600, #2F2F99) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        opacity: 0;
+    }
 
     /* Background */
 
@@ -121,10 +156,10 @@ body {
         transition: 
             scale 700ms, opacity 700ms, 
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms !important;
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.5 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(10) /*drop-shadow(10px 10px 5px #4444ddaa)*/;
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8) /*drop-shadow(10px 10px 5px #4444ddaa)*/;
     }
     
     main:hover div,
