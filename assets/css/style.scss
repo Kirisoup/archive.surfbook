@@ -46,7 +46,7 @@ body {
         left: 0px;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -64,7 +64,7 @@ body {
         left: 0px;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -126,7 +126,7 @@ body {
         bottom: 0;
         left: 0;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -142,26 +142,43 @@ body {
     /* content animation */
     
     main div,
-    main h1,
-    main h2,
-    main h3,
-    main h4,
-    main h5,
-    main h6,
-    main hr,
-    main li,
     main p,
     main a,
-    main span,
-    main footer {
+    main span {
         transition: 
             scale 700ms, opacity 700ms, 
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
             filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.5 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8) /*drop-shadow(10px 10px 5px #4444ddaa)*/;
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
+
+    main h1, main hr, main footer {
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
+        scale: 0.95;
+        opacity: 0.5 !important;
+        filter:  brightness(2) ;
+    }
+    
+    main h2,
+    main h3,
+    main h4,
+    main h5,
+    main h6,
+    main li {
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
+        scale: 0.95;
+        opacity: 0.5 !important;
+        filter:  brightness(2) contrast(0.3) ;
+    }
+
     
     main:hover div,
     main:hover h1,
@@ -215,7 +232,7 @@ body {
         left: -250px;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -232,7 +249,7 @@ body {
         left: -250px;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -258,7 +275,7 @@ body {
         bottom: 0;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -276,7 +293,7 @@ body {
         bottom: 0;
         height: 100lvh !important;
         z-index: -100;
-        background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -409,7 +426,7 @@ hr {
 }
 
 .site-footer {
-    border-color: #CCDAFF63 !important;
+    border-image: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) 1 !important;
 }
 
 /* Head line */
