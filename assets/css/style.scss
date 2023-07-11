@@ -116,7 +116,7 @@ body {
     main a,
     main span,
     main footer {
-        transition-duration: 700ms;
+        transition: scale 700ms, opacity 700ms, filter 200ms 700ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter: grayscale(1) contrast(0.5)/*drop-shadow(10px 10px 5px #4444ddaa)*/;
@@ -135,7 +135,7 @@ body {
     main:hover a,
     main:hover span,
     main:hover footer {
-        transition-duration: 700ms;
+        transition: scale 700ms, opacity 700ms, filter 200ms 600ms !important;
         scale: 1;
         filter: none;
         opacity: 1 !important;
@@ -273,9 +273,48 @@ body {
 
 
 
-.page-header {
+body:hover .page-header {
+    transition-duration: 700ms;
+    background: none !important;
+    text-shadow: none !important;
+    opacity: .5 !important;
+    filter: grayscale(.6)
+}
+
+.page-header, body .page-header:hover {
+    transition-duration: 700ms;
     line-height: 2;
-    background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
+    background: none !important;
+    text-shadow: 10px 10px #4444ddaa !important;
+    opacity: 1 !important;
+    filter: none
+}
+
+.page-header:hover::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100lvh;
+    z-index: -100;
+    transition-duration: 700ms;
+    background: linear-gradient(120deg, #4444dd88, #1dcc7444) !important;
+    opacity: 1
+}
+
+.page-header::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 0;
+    z-index: -100;
+    background: linear-gradient(120deg, #4444dd88, #1dcc7444) !important;
+    opacity: 1
 }
 
 .project-name,
