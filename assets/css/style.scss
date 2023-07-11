@@ -87,11 +87,11 @@ body {
         left: 0px;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(90deg, #4444dd, #4444dd00 15%, #2FACD600 85%, #2F2F99) !important;
+        background: linear-gradient(90deg, #4444dd, #4444dd22, #4444dd00, #2FACD622, #2F2F99) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        opacity: 0.2
+        opacity: 0.3
     }
     
     main:hover::after {
@@ -105,7 +105,7 @@ body {
         left: 0px;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(90deg, #4444dd, #4444dd00 15%, #2FACD600 85%, #2F2F99) !important;
+        background: linear-gradient(90deg, #4444dd, #4444dd22, #4444dd00, #2FACD622, #2F2F99) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -437,7 +437,7 @@ hl {
     bottom: 0;
     left: 0;
     z-index: -100;
-    transition-duration: 700ms;
+    transition-duration: 1000ms;
     background: linear-gradient(120deg, #4444dd, #159957) !important;
     border-radius: 10px;
     box-shadow: none;
@@ -494,7 +494,7 @@ hl {
     bottom: 0;
     left: 0;
     z-index: -100;
-    transition-duration: 700ms;
+    transition-duration: 1000ms;
     background: linear-gradient(90deg, #4444dd88, #19B2B244, #1dcc7422) !important;
     border-radius: 10px !important;
     opacity: 0;
