@@ -84,10 +84,10 @@ body {
         top: 0;
         right: 0;
         bottom: 0;
-        left: 0px;
+        left: 0;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(90deg, #4444dd, #4444dd22, #4444dd00, #2FACD622, #2F2F99) !important;
+        background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -96,16 +96,16 @@ body {
     
     main:hover::after {
         transition-delay: 0ms !important;
-        transition-duration: 200ms !important;
+        transition-duration: 700ms !important;
         content: "";
         position: fixed;
         top: 0;
         right: 0;
         bottom: 0;
-        left: 0px;
+        left: 0;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(90deg, #4444dd, #4444dd22, #4444dd00, #2FACD622, #2F2F99) !important;
+        background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
@@ -337,6 +337,7 @@ body {
     line-height: 2;
     background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
 }
+
 
 .project-name,
 .project-tagline {
