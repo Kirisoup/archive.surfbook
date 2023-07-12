@@ -1,3 +1,9 @@
+<style>
+gfw {
+    color: #4444dd;
+}
+</style>
+
     🚧 表示网站被墙
 
     本收藏夹持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
@@ -84,7 +90,7 @@
 
 [🇯🇵 東方我楽多叢誌](https://touhougarakuta.com/)
 
-[<span style='color: red;'>🚧 🇯🇵 日文东方Project人气投票</span>](https://toho-vote.info/)
+[<gfw>🚧 🇯🇵 日文东方Project人气投票</gfw>](https://toho-vote.info/)
 
 [🚧 🇯🇵 东方四方山新闻](https://touhou-project.news/)
 
