@@ -144,13 +144,14 @@ body {
     main div,
     main p,
     main a,
+    main li,
     main span {
         transition: 
             scale 700ms, opacity 700ms, 
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
             filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.5 !important;
+        opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
@@ -160,7 +161,7 @@ body {
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
             filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.5 !important;
+        opacity: 0.8 !important;
         filter:  brightness(2) ;
     }
     
@@ -168,15 +169,14 @@ body {
     main h3,
     main h4,
     main h5,
-    main h6,
-    main li {
+    main h6 {
         transition: 
             scale 700ms, opacity 700ms, 
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
             filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.5 !important;
-        filter:  brightness(2) contrast(0.3) ;
+        opacity: 0.8 !important;
+        filter:  brightness(2) saturate(0.5) ;
     }
 
     
