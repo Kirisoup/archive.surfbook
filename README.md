@@ -1,9 +1,8 @@
-    单击网站展开网站介绍 ｜ 🚧 表示网站被墙
+    🚧 表示网站被墙
 
-    本书签持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
+    本收藏夹持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
 
-## 🕘（5）最近更新
-### 📂 总书签数：182
+## 🕘（5）最近更新 - 收藏总数：182
 
     [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
 
@@ -85,7 +84,7 @@
 
 [🇯🇵 東方我楽多叢誌](https://touhougarakuta.com/)
 
-[🚧 🇯🇵 日文东方Project人气投票](https://toho-vote.info/)
+[<span style='color: red;'>🚧 🇯🇵 日文东方Project人气投票</span>](https://toho-vote.info/)
 
 [🚧 🇯🇵 东方四方山新闻](https://touhou-project.news/)
 
