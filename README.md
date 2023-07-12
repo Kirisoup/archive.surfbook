@@ -1,6 +1,6 @@
 <style>
 gfw {
-    color: #8585DE;
+    color: #ff00ff;
 }
 </style>
 
