@@ -4,7 +4,7 @@ gfw {
 }
 </style>
 
-    🚧 表示网站被墙
+    <gfw>🚧 表示网站被墙 </gfw>
 
     本收藏夹持续更新，如果有任何你觉得有用的东方、ACG相关网站待补充，欢迎群内艾特霧雨蘑菇湯
 
@@ -18,7 +18,7 @@ gfw {
 
     [字幕库](https://zimuku.org/)
 
-    [🚧 1377x](https://www.1377x.to/)
+    [<gfw>🚧 1377x</gfw>](https://www.1377x.to/)
 
     [ACG.RIP](https://acg.rip/)
 
@@ -53,7 +53,7 @@ gfw {
     - [影视](#影视)
     - [字幕](#字幕)
     - [电子书](#电子书)
-      - [🚧 Z-Library](#-z-library)
+      - [🚧 Z-Library</gfw>](#-z-library)
   - [RSS](#rss)
     - [客户端 / 工具](#客户端--工具)
   - [浏览器插件](#浏览器插件)
@@ -92,9 +92,9 @@ gfw {
 
 [<gfw>🚧 🇯🇵 日文东方Project人气投票</gfw>](https://toho-vote.info/)
 
-[🚧 🇯🇵 东方四方山新闻](https://touhou-project.news/)
+[<gfw>🚧 🇯🇵 东方四方山新闻</gfw>](https://touhou-project.news/)
 
-[🚧 🇯🇵 東方編曲録](https://touhou.arrangement-chronicle.com/)
+[<gfw>🚧 🇯🇵 東方編曲録</gfw>](https://touhou.arrangement-chronicle.com/)
 
 [英文东方圈术语对照表](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 
@@ -136,17 +136,17 @@ gfw {
 
 　
 
-[🚧 糟糕岛维基](https://yuki.komica.org/)
+[<gfw>🚧 糟糕岛维基</gfw>](https://yuki.komica.org/)
 
-[🚧 H萌娘](https://hmoegirl.info/)
+[<gfw>🚧 H萌娘</gfw>](https://hmoegirl.info/)
 
-[🚧 🇯🇵 工口游戏批评空间](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
+[<gfw>🚧 🇯🇵 工口游戏批评空间</gfw>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
 
-[🚧 🇯🇵 NicoNico 大百科](https://dic.nicovideo.jp/)
+[<gfw>🚧 🇯🇵 NicoNico 大百科</gfw>](https://dic.nicovideo.jp/)
 
-[🚧 🇯🇵 🇬🇧 Pixiv 百科事典](https://dic.pixiv.net/)
+[<gfw>🚧 🇯🇵 🇬🇧 Pixiv 百科事典</gfw>](https://dic.pixiv.net/)
 
-[🚧 🇬🇧 Know Your Meme](https://knowyourmeme.com/)
+[<gfw>🚧 🇬🇧 Know Your Meme</gfw>](https://knowyourmeme.com/)
 
 ## 刊物 / 专栏
 
@@ -200,15 +200,15 @@ gfw {
 
 　
 
-[🚧 巴哈姆特哈啦板 - 东方板块](https://forum.gamer.com.tw/B.php?bsn=10039)
+[<gfw>🚧 巴哈姆特哈啦板 - 东方板块</gfw>](https://forum.gamer.com.tw/B.php?bsn=10039)
 
-[🚧 Komica糟糕岛 - 东方板块](https://2cat.org/~touhou/)
+[<gfw>🚧 Komica糟糕岛 - 东方板块</gfw>](https://2cat.org/~touhou/)
 
-[🚧 批踢踢 - 东方板块](https://www.ptt.cc/bbs/Touhou/)
+[<gfw>🚧 批踢踢 - 东方板块</gfw>](https://www.ptt.cc/bbs/Touhou/)
 
-[🚧 🇯🇵 2ch - 东方板块](https://fate.5ch.net/touhou/)
+[<gfw>🚧 🇯🇵 2ch - 东方板块</gfw>](https://fate.5ch.net/touhou/)
 
-[🚧 🇬🇧 r/Touhou](https://www.reddit.com/r/touhou/)
+[<gfw>🚧 🇬🇧 r/Touhou</gfw>](https://www.reddit.com/r/touhou/)
 
 ------
 
@@ -290,11 +290,11 @@ gfw {
 
 ### 动画BT资源
 
-[🚧 末日动漫资源库（推荐）](https://share.acgnx.se/)
+[<gfw>🚧 末日动漫资源库（推荐）</gfw>](https://share.acgnx.se/)
 
-[🚧 動漫花園](https://share.dmhy.org/)
+[<gfw>🚧 動漫花園</gfw>](https://share.dmhy.org/)
 
-[🚧 Nyaa](https://nyaa.si/)
+[<gfw>🚧 Nyaa</gfw>](https://nyaa.si/)
 
 [蜜柑计划](https://mikanani.me/)
 
@@ -310,7 +310,7 @@ gfw {
 
 ### 影视
 
-[🚧 1377x](https://www.1377x.to/)
+[<gfw>🚧 1377x</gfw>](https://www.1377x.to/)
 
 ### 字幕
 
@@ -322,7 +322,7 @@ gfw {
 
 ### 电子书
 
-#### 🚧 Z-Library
+#### <gfw>🚧 Z-Library
 
 [Z-Library](https://singlelogin.me/)
 
@@ -336,9 +336,9 @@ gfw {
 
 [缪缪收藏的图书网址信息](https://bgme.me/@Camus/109284118369473526)
 
-[🚧 东京图书馆](https://www.tokyotosho.info/)
+[<gfw>🚧 东京图书馆</gfw>](https://www.tokyotosho.info/)
 
-[🚧 Pirate Bay](http://thepiratebay.org)
+[<gfw>🚧 Pirate Bay</gfw>](http://thepiratebay.org)
 
 　
 
@@ -356,7 +356,7 @@ gfw {
 
 [NetNewsWire（MacOS / iOS）](https://github.com/Ranchero-Software/NetNewsWire)
 
-[🚧 Feedly](https://feedly.com/)
+[<gfw>🚧 Feedly</gfw>](https://feedly.com/)
 
 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)
 
@@ -426,21 +426,21 @@ gfw {
 
 [r/FreeMediaHeckYeah Megathread](https://fmhy.pages.dev/)
 
-[🚧 r/Piracy Megathread](https://rentry.co/megathread)
+[<gfw>🚧 r/Piracy Megathread</gfw>](https://rentry.co/megathread)
 
 　
 
 [⭐ BAKA 群主倾情推荐⭐ Dagobah](https://dagobah.net/)
 
-[🚧 yande.re - 图站](https://yande.re/)
+[<gfw>🚧 yande.re - 图站</gfw>](https://yande.re/)
 
-[🚧 Hikari no Akari - ACG 音乐](https://hikarinoakari.com/)
+[<gfw>🚧 Hikari no Akari - ACG 音乐</gfw>](https://hikarinoakari.com/)
 
-[🚧 DLsite - 正版同人作品购买站](https://www.dlsite.com/)
+[<gfw>🚧 DLsite - 正版同人作品购买站</gfw>](https://www.dlsite.com/)
 
-[🚧 Kemono - 付费资源分享](https://kemono.party/)
+[<gfw>🚧 Kemono - 付费资源分享</gfw>](https://kemono.party/)
 
-[🚧 E-Hentai - ＂动作漫画＂网站](https://e-hentai.org/)
+[<gfw>🚧 E-Hentai - ＂动作漫画＂网站</gfw>](https://e-hentai.org/)
 
 [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
 
@@ -454,7 +454,7 @@ gfw {
 
 [Trace.moe - 动画反向搜索](https://trace.moe/)
 
-[🚧 ＂健康宅男偶像＂以图搜图](https://xslist.org/zh)
+[<gfw>🚧 ＂健康宅男偶像＂以图搜图</gfw>](https://xslist.org/zh)
 
 ------
 
