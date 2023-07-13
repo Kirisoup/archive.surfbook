@@ -94,8 +94,8 @@
 >
 >[东方同人动画（班固米）](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
 >
->>## 综合 ACG
->>
+>## 综合 ACG
+>
 >>[萌娘百科（经典镜像站）](https://moegirl.uk/)
 >>
 >>[Hpoi 手办维基](https://www.hpoi.net/)
@@ -104,8 +104,8 @@
 >>
 >>[🇬🇧 SakugaBooru](https://sakugabooru.com/)
 >>
->>>### 班固米
->>>
+>>### 班固米
+>>
 >>>[班固米 Bangumi TV](https://bgm.tv/)
 >>>
 >>>[班固米 - 科学排名](https://chii.ai/)
@@ -118,8 +118,8 @@
 >>>
 >>>[班固米 - 里番收录](https://bangumi.tv/blog/286840)
 >>
->>>### 其他动画评分排名
->>>
+>>### 其他动画评分排名
+>>
 >>>[A岛年度动画排名（2022）](https://www.nmbxd1.com/t/55161642)
 >>>
 >>>[S1漫区投票统计](http://s1vote.com/)
@@ -142,8 +142,8 @@
 >>
 >>[<gfw>🇬🇧 Know Your Meme</gfw>](https://knowyourmeme.com/)
 >
->>## 刊物 / 专栏
->>
+>## 刊物 / 专栏
+>
 >>[東方文化學刊](https://www.zhihu.com/column/touhou-culture-studies)
 >>
 >>[炎上书屋](https://firebook.store/books)
