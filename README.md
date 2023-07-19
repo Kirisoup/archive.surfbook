@@ -61,7 +61,9 @@
 >
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [<fx> <gb></gb> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
@@ -85,7 +87,9 @@
 >>
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [<fx> <gb></gb> SakugaBooru </fx>](https://sakugabooru.com/)
+>> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >>> ### 📁 班固米
 >>>
@@ -109,7 +113,9 @@
 >>>
 >>> [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
 >>>
->>> [<fx> <gb></gb> AniDB </fx>](https://anidb.net/)
+>>> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    AniDB </fx>](https://anidb.net/)
 >>
 >> [<fx> <gfw>糟糕岛维基</gfw> </fx>](https://yuki.komica.org/)
 >>
@@ -119,9 +125,13 @@
 >>
 >> [<fx> <gfw> <jp></jp> NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw> <jp></jp>  <gb></gb> Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw> <jp></jp>  
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<fx> <gfw> <gb></gb> Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
+>> [<fx> <gfw> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
 >
 >> ## 📁 刊物 / 专栏
 >>
@@ -139,11 +149,17 @@
 >
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [<fx> <gb></gb> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [<fx> <gb></gb> Warosu /jp/ </fx>](https://warosu.org/jp)
+> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [<fx> <gb></gb> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> [<fx> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 >> ## 📁 时泪
 >>
@@ -181,7 +197,9 @@
 >
 > [<fx> <gfw> <jp></jp> 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<fx> <gfw> <gb></gb> r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw> 
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "1rem" />
+    r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
 
 ------
 
