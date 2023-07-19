@@ -589,12 +589,12 @@ blockquote {
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
 }
-/*
-blockquote:has(:not(note)) {
+
+blockquote:not(:has(note)) {
     padding-right: 200% !important;
     margin-right: -200% !important;
 }
-*/
+
 /* blockquote note */
 
 note {
