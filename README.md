@@ -1,21 +1,24 @@
 <note>
-
-<p>本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：</p>
-
-<p>- 使用 
-<nofx> <a href="https://github.com/Kirisoup/Kirisoup.github.io/issues">Github Issues</a> </nofx>
- 进行反馈（需要github账号）</p> 
-
-<p>- (￣∇￣) 
-<nofx> <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235">私聊</a> </nofx>
- 雾雨蘑菇汤~</p>
-
-<p>- 加入群聊一起吹水~ （
-<nofx> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13">☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆</a> </nofx>
-；
-<nofx> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk">滇南アリス幻樂団</a> </nofx>
-）</p>
-
+    <p>本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：</p>
+    <p>- 使用 
+    <a href="https://github.com/Kirisoup/Kirisoup.github.io/issues">
+        <nofx> Github Issues </nofx>
+    </a>
+     进行反馈（需要github账号）</p>
+    <p>- (￣∇￣) 
+    <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235">
+        <nofx> 私聊 </nofx>
+    </a>
+     雾雨蘑菇汤~</p>
+    <p>- 加入群聊一起吹水~ （
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13">
+        <nofx> ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆ </nofx>
+    </a>
+    ；
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk">
+        <nofx> 滇南アリス幻樂団 </nofx>
+    </a>
+    ）</p>
 </note>
 
 
