@@ -3,27 +3,27 @@
         <p>本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：</p>
         <ul>
             <li>
-                - 使用 
+                - 使用
                     <a href="https://github.com/Kirisoup/Kirisoup.github.io/issues">
-                        <nofx> Github Issues </nofx>
+                        Github Issues
                     </a>
-                 进行反馈（需要github账号）
+                进行反馈（需要github账号）
             </li>
             <li>
                 - (￣∇￣) 
                     <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235">
-                        <nofx> 私聊 </nofx>
+                        私聊
                     </a>
-                 雾雨蘑菇汤~
+                雾雨蘑菇汤~
             </li>
             <li>
                 - 加入群聊一起吹水~ （
                     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13">
-                        <nofx> ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆ </nofx>
+                        ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆
                     </a>
                 ；
                     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk">
-                        <nofx> 滇南アリス幻樂団 </nofx>
+                        🌙 滇南アリス幻樂団
                     </a>
                 ）
             </li>
@@ -31,7 +31,15 @@
     </note>
 </container>
 
-    test
+> <note> </note>
+>
+> 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
+> 
+> - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
+> - (￣∇￣) 
+> [私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
+> - 加入群聊一起吹水~ （[⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)；[🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)）
+
 
 ------
 
