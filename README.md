@@ -61,19 +61,17 @@
 >
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
-> [<fx> <jp></jp> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 >
-> [<fx> <gfw> <jp></jp> 日文东方Project人气投票</gfw> </fx>](https://toho-vote.info/)
+> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 日文东方Project人气投票</gfw> </fx>](https://toho-vote.info/)
 >
-> [<fx> <gfw> <jp></jp> 东方四方山新闻</gfw> </fx>](https://touhou-project.news/)
+> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 东方四方山新闻</gfw> </fx>](https://touhou-project.news/)
 >
-> [<fx> <gfw> <jp></jp> 東方編曲録</gfw> </fx>](https://touhou.arrangement-chronicle.com/)
+> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 東方編曲録</gfw> </fx>](https://touhou.arrangement-chronicle.com/)
 >
 > [<fx> 英文东方圈术语对照表 </fx>](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 >
@@ -87,9 +85,7 @@
 >>
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    SakugaBooru </fx>](https://sakugabooru.com/)
+>> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >>> ### 📁 班固米
 >>>
@@ -111,27 +107,21 @@
 >>>
 >>> [<fx> S1漫区投票统计 </fx>](http://s1vote.com/)
 >>>
->>> [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
+>>> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> ANIKORE </fx>](https://www.anikore.jp/)
 >>>
->>> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    AniDB </fx>](https://anidb.net/)
+>>> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> AniDB </fx>](https://anidb.net/)
 >>
 >> [<fx> <gfw>糟糕岛维基</gfw> </fx>](https://yuki.komica.org/)
 >>
 >> [<fx> <gfw>H萌娘</gfw> </fx>](https://hmoegirl.info/)
 >>
->> [<fx> <gfw> <jp></jp> 工口游戏批评空间</gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
+>> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 工口游戏批评空间</gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
 >>
->> [<fx> <gfw> <jp></jp> NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
+>> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw> <jp></jp>  
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<fx> <gfw> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
+>> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
 >
 >> ## 📁 刊物 / 专栏
 >>
@@ -149,17 +139,11 @@
 >
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    Warosu /jp/ </fx>](https://warosu.org/jp)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 >> ## 📁 时泪
 >>
@@ -195,11 +179,9 @@
 >
 > [<fx> <gfw>批踢踢 - 东方板块</gfw> </fx>](https://www.ptt.cc/bbs/Touhou/)
 >
-> [<fx> <gfw> <jp></jp> 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
+> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<fx> <gfw> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" />
-    r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "17" /> r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
 
 ------
 
@@ -451,13 +433,13 @@
 >
 > 注：个人收藏
 >
-> [<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
 >
 > [<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
 >
 > [<fx> Measure Zero </fx>](https://shiina18.github.io/)
 >
-> [<fx> <jp></jp> Paradism </fx>](https://shirooo305.hatenablog.com/)
+> [<fx> <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/jp.svg" alt = "GB" width = "17" /> Paradism </fx>](https://shirooo305.hatenablog.com/)
 >
 > [<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
 >
