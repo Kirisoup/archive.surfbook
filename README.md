@@ -1,37 +1,4 @@
-<container>
-    <note>
-        <p>本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：</p>
-        <ul>
-            <li>
-                - 使用
-                    <a href="https://github.com/Kirisoup/Kirisoup.github.io/issues">
-                        Github Issues
-                    </a>
-                进行反馈（需要github账号）
-            </li>
-            <li>
-                - (￣∇￣) 
-                    <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235">
-                        私聊
-                    </a>
-                雾雨蘑菇汤~
-            </li>
-            <li>
-                - 加入群聊一起吹水~ （
-                    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13">
-                        ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆
-                    </a>
-                ；
-                    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk">
-                        🌙 滇南アリス幻樂団
-                    </a>
-                ）
-            </li>
-        </ul>
-    </note>
-</container>
-
-> <isnote> </isnote>
+> <note> </note>
 > 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
