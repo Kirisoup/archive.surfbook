@@ -14,6 +14,14 @@ body {
     line-height: 1 !important;
 }
 
+.variable {
+    --weirdly-complicated-transition: 
+        scale 700ms, opacity 700ms, 
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
+
+}
+
 
 
 @media screen and (orientation: landscape) {
@@ -107,13 +115,21 @@ body {
     main span,
     main gfw,
     main container {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: --weirdly-complicated-transition;
         scale: 0.95;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+    }
+    
+    main blockquote:has(> isnote) {
+        transition: --weirdly-complicated-transition;
+        scale: 0.95;
+        opacity: 0.5 !important;
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+    }
+    
+    main:hover blockquote:has(> isnote) {
+        scale: 0.95;
     }
     
     main a {
@@ -128,10 +144,7 @@ body {
     }
 
     main h1, main hr, main footer {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: --weirdly-complicated-transition;
         scale: 0.95;
         opacity: 0.8 !important;
         filter:  brightness(2) ;
@@ -142,10 +155,7 @@ body {
     main h4,
     main h5,
     main h6 {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: --weirdly-complicated-transition;
         scale: 0.95;
         opacity: 0.8 !important;
         filter:  brightness(2) saturate(0.5) ;
@@ -555,12 +565,46 @@ p a fx:hover {
     padding-left: 0.5rem !important;
 }
 
+ul {
+    margin-block: 1rem !important;
+}
+
 /* blockquote */
 
-blockquote {
+blockquote:has(not(> isnote)) {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
+}
+
+isnote {
+    visibility: hidden;
+    width 0;
+    height: 0;
+    margin: 0;
+}
+
+blockquote:has(> isnote) {
+    transition-delay: 100ms;
+    transition-duration: 400ms;
+    display: block;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    margin-right: 0;
+    padding: 1rem;
+    border-radius: 10px !important;
+    border: solid #CCDAFF63 3px !important;
+    line-height: normal !important;
+}
+
+
+
+blockquote:hover:has(> isnote) {
+    transition: scale 700ms !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    border: solid #0000 3px !important;
+    scale: 1
 }
 
 /* note */
