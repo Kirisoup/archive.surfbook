@@ -62,7 +62,7 @@
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
 > [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
@@ -88,7 +88,7 @@
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
 >> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >>> ### 📁 班固米
@@ -114,7 +114,7 @@
 >>> [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
 >>>
 >>> [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     AniDB </fx>](https://anidb.net/)
 >>
 >> [<fx> <gfw>糟糕岛维基</gfw> </fx>](https://yuki.komica.org/)
@@ -126,11 +126,11 @@
 >> [<fx> <gfw> <jp></jp> NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
 >>
 >> [<fx> <gfw> <jp></jp>  
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
 >>
 >> [<fx> <gfw> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
 >
 >> ## 📁 刊物 / 专栏
@@ -150,15 +150,15 @@
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
 > [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
 > [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     Warosu /jp/ </fx>](https://warosu.org/jp)
 >
 > [<fx> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 >> ## 📁 时泪
