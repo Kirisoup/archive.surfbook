@@ -58,145 +58,145 @@
 
 > # ⭐ 东方常用
 >
-> [东方吧维基](http://thwiki.cc/)
+> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [喵玉殿论坛](https://bbs.nyasama.com/)
+> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 >
-> [莉莉云 - 正作资源等](https://cloud.lilywhite.cc/)
+> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 >
-> [帕琪站 - 视频检索](https://www.patchyvideo.com/)
+> [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 >
-> [甜品站 - STG 学习](https://www.isndes.com/)
+> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 >
-> [STG 工具 / 补丁](https://thwiki.cc/-/sn5)
+> [<fx> STG 工具 / 补丁 </fx>](https://thwiki.cc/-/sn5)
 
 ------
 
 > # 🔎 维基 / 咨询 / 刊物
 >
-> [东方吧维基](http://thwiki.cc/)
+> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [🇬🇧 英文东方维基](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx> 🇬🇧 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
-> [中文东方人气投票](https://touhou.vote/)
+> [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
-> [🇯🇵 東方我楽多叢誌](https://touhougarakuta.com/)
+> [<fx> 🇯🇵 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 >
-> [<gfw>🇯🇵 日文东方Project人气投票</gfw>](https://toho-vote.info/)
+> [<fx> <gfw>🇯🇵 日文东方Project人气投票</gfw> </fx>](https://toho-vote.info/)
 >
-> [<gfw>🇯🇵 东方四方山新闻</gfw>](https://touhou-project.news/)
+> [<fx> <gfw>🇯🇵 东方四方山新闻</gfw> </fx>](https://touhou-project.news/)
 >
-> [<gfw>🇯🇵 東方編曲録</gfw>](https://touhou.arrangement-chronicle.com/)
+> [<fx> <gfw>🇯🇵 東方編曲録</gfw> </fx>](https://touhou.arrangement-chronicle.com/)
 >
-> [英文东方圈术语对照表](https://github.com/wasupandceacar/Touhou_Jargon_CN)
+> [<fx> 英文东方圈术语对照表 </fx>](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 >
-> [东方同人动画（班固米）](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
+> [<fx> 东方同人动画（班固米） </fx>](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
 >
 >> ## 📁 综合 ACG
 >>
->> [萌娘百科（经典镜像站）](https://moegirl.uk/)
+>> [<fx> 萌娘百科（经典镜像站） </fx>](https://moegirl.uk/)
 >>
->> [Hpoi 手办维基](https://www.hpoi.net/)
+>> [<fx> Hpoi 手办维基 </fx>](https://www.hpoi.net/)
 >>
->> [YuC 的动画列表](https://yuc.wiki/)
+>> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [🇬🇧 SakugaBooru](https://sakugabooru.com/)
+>> [<fx> 🇬🇧 SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >>> ### 📁 班固米
 >>>
->>> [班固米 Bangumi TV](https://bgm.tv/)
+>>> [<fx> 班固米 Bangumi TV </fx>](https://bgm.tv/)
 >>>
->>> [班固米 - 科学排名](https://chii.ai/)
+>>> [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
 >>>
->>> [班固米 - 搜索增强](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
+>>> [<fx> 班固米 - 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
 >>>
->>> [班固米 - 评分趋势](https://netaba.re/)
+>>> [<fx> 班固米 - 评分趋势 </fx>](https://netaba.re/)
 >>>
->>> [班固米 - 标签搜索](https://chii.ai/search)
+>>> [<fx> 班固米 - 标签搜索 </fx>](https://chii.ai/search)
 >>>
->>> [班固米 - 里番收录](https://bangumi.tv/blog/286840)
+>>> [<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
 >>
 >>> ### 📁 其他动画评分排名
 >>>
->>> [A岛年度动画排名（2022）](https://www.nmbxd1.com/t/55161642)
+>>> [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642)
 >>>
->>> [S1漫区投票统计](http://s1vote.com/)
+>>> [<fx> S1漫区投票统计 </fx>](http://s1vote.com/)
 >>>
->>> [🇯🇵 ANIKORE](https://www.anikore.jp/)
+>>> [<fx> 🇯🇵 ANIKORE </fx>](https://www.anikore.jp/)
 >>>
->>> [🇬🇧 AniDB](https://anidb.net/)
+>>> [<fx> 🇬🇧 AniDB </fx>](https://anidb.net/)
 >>
->> [<gfw>糟糕岛维基</gfw>](https://yuki.komica.org/)
+>> [<fx> <gfw>糟糕岛维基</gfw> </fx>](https://yuki.komica.org/)
 >>
->> [<gfw>H萌娘</gfw>](https://hmoegirl.info/)
+>> [<fx> <gfw>H萌娘</gfw> </fx>](https://hmoegirl.info/)
 >>
->> [<gfw>🇯🇵 工口游戏批评空间</gfw>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
+>> [<fx> <gfw>🇯🇵 工口游戏批评空间</gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
 >>
->> [<gfw>🇯🇵 NicoNico 大百科</gfw>](https://dic.nicovideo.jp/)
+>> [<fx> <gfw>🇯🇵 NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<gfw>🇯🇵 🇬🇧 Pixiv 百科事典</gfw>](https://dic.pixiv.net/)
+>> [<fx> <gfw>🇯🇵 🇬🇧 Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<gfw>🇬🇧 Know Your Meme</gfw>](https://knowyourmeme.com/)
+>> [<fx> <gfw>🇬🇧 Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
 >
 >> ## 📁 刊物 / 专栏
 >>
->> [東方文化學刊](https://www.zhihu.com/column/touhou-culture-studies)
+>> [<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
 >>
->> [炎上书屋](https://firebook.store/books)
+>> [<fx> 炎上书屋 </fx>](https://firebook.store/books)
 
 ------
 
 > # 💬 东方 / ACG 论坛
 >
-> [喵玉殿](https://bbs.nyasama.com/)
+> [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/)
 >
-> [A岛东方板块](https://www.nmbxd1.com/f/%E4%B8%9C%E6%96%B9Project)
+> [<fx> A岛东方板块 </fx>](https://www.nmbxd1.com/f/%E4%B8%9C%E6%96%B9Project)
 >
-> [充满魔力的土地下](https://touhoudog.net/)
+> [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [🇬🇧 Maidens of the Kaleidoscope](https://www.shrinemaiden.com/)
+> [<fx> 🇬🇧 Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [🇬🇧 Warosu /jp/](https://warosu.org/jp)
+> [<fx> 🇬🇧 Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [🇬🇧 EndChan /2hu/](https://endchan.net/2hu/)
+> [<fx> 🇬🇧 EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 >> ## 📁 时泪
 >>
->> [动漫渔场](http://www.comicfishing.com/touhou/)
+>> [<fx> 动漫渔场 </fx>](http://www.comicfishing.com/touhou/)
 >>
->> [優質の幻想鄉](https://155384.co/forum.php?gid=131)
+>> [<fx> 優質の幻想鄉 </fx>](https://155384.co/forum.php?gid=131)
 >>
->> [东方小镇](http://bbs.thproject.net/)
+>> [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
 >
 >> ## 📁 综合 ACG
 >>
->> [爱撕衣](https://bbs.saraba1st.com/)
+>> [<fx> 爱撕衣 </fx>](https://bbs.saraba1st.com/)
 >>
->> [班固米小组](https://bgm.tv/group)
+>> [<fx> 班固米小组 </fx>](https://bgm.tv/group)
 >>
->> [南+](https://www.south-plus.net/)
+>> [<fx> 南+ </fx>](https://www.south-plus.net/)
 >>
->> [漫游](https://bbs.popgo.org/bbs/)
+>> [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
 >>
->> [SOS团](https://www.sosg.net/)
+>> [<fx> SOS团 </fx>](https://www.sosg.net/)
 >>
->> [百合会论坛](https://bbs.yamibo.com/)
+>> [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
 >>
->> [KeyFansClub 我们的梦想](https://www.keyfc.net/bbs/index.aspx)
+>> [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
 >>
->> [動漫向上推廣協會](https://www.facebook.com/groups/acgup/)
+>> [<fx> 動漫向上推廣協會 </fx>](https://www.facebook.com/groups/acgup/)
 >>
->> [机核 GCORES（游戏）](https://www.gcores.com/)
+>> [<fx> 机核 GCORES（游戏） </fx>](https://www.gcores.com/)
 >
-> [<gfw>巴哈姆特哈啦板 - 东方板块</gfw>](https://forum.gamer.com.tw/B.php?bsn=10039)
+> [<fx> <gfw>巴哈姆特哈啦板 - 东方板块</gfw> </fx>](https://forum.gamer.com.tw/B.php?bsn=10039)
 >
-> [<gfw>Komica糟糕岛 - 东方板块</gfw>](https://2cat.org/~touhou/)
+> [<fx> <gfw>Komica糟糕岛 - 东方板块</gfw> </fx>](https://2cat.org/~touhou/)
 >
-> [<gfw>批踢踢 - 东方板块</gfw>](https://www.ptt.cc/bbs/Touhou/)
+> [<fx> <gfw>批踢踢 - 东方板块</gfw> </fx>](https://www.ptt.cc/bbs/Touhou/)
 >
-> [<gfw>🇯🇵 2ch - 东方板块</gfw>](https://fate.5ch.net/touhou/)
+> [<fx> <gfw>🇯🇵 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<gfw>🇬🇧 r/Touhou</gfw>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw>🇬🇧 r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
 
 ------
 
@@ -204,243 +204,243 @@
 >
 >> ## 📁 随缘东方资源收录
 >>
->> [精灵图（live2d）](https://www.spriters-resource.com/search/?q=touhou)
+>> [<fx> 精灵图（live2d） </fx>](https://www.spriters-resource.com/search/?q=touhou)
 >>
->> [3D模型](https://www.models-resource.com/search/?q=touhou)
+>> [<fx> 3D模型 </fx>](https://www.models-resource.com/search/?q=touhou)
 >>
->> [音效BGM](https://www.sounds-resource.com/search/?q=touhou)
+>> [<fx> 音效BGM </fx>](https://www.sounds-resource.com/search/?q=touhou)
 >>
->> [Moriya Shrine - 英文同人资源](https://moriyashrine.org/)
+>> [<fx> Moriya Shrine - 英文同人资源 </fx>](https://moriyashrine.org/)
 >>
->> [弹幕神乐 拆包资源](https://pan.baidu.com/s/1eoeaeHBbgw8sHEhsrJVHag#list/path=%2F)
+>> [<fx> 弹幕神乐 拆包资源 </fx>](https://pan.baidu.com/s/1eoeaeHBbgw8sHEhsrJVHag#list/path=%2F)
 >>
->> [东方大炮弹相关资源](https://drive.google.com/drive/folders/1B2y1Lm9iUpTKg6c7kNtxubY_SWGd1_7x)
+>> [<fx> 东方大炮弹相关资源 </fx>](https://drive.google.com/drive/folders/1B2y1Lm9iUpTKg6c7kNtxubY_SWGd1_7x)
 >>
->> [原作翻译补丁（各种语言）](https://www.thpatch.net/)
+>> [<fx> 原作翻译补丁（各种语言） </fx>](https://www.thpatch.net/)
 >>
->> [梦璃 - 东方同人资源](https://moeli-desu.com/tag/%e4%b8%9c%e6%96%b9project/)
+>> [<fx> 梦璃 - 东方同人资源 </fx>](https://moeli-desu.com/tag/%e4%b8%9c%e6%96%b9project/)
 >>
->> [东方ERA游戏汉化](https://pan.erag.eu.org/%F0%9F%95%B9%EF%B8%8F%20era%20%E6%B8%B8%E6%88%8F%20-%20%E7%86%9F%E8%82%89%EF%BC%88%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%EF%BC%89)
+>> [<fx> 东方ERA游戏汉化 </fx>](https://pan.erag.eu.org/%F0%9F%95%B9%EF%B8%8F%20era%20%E6%B8%B8%E6%88%8F%20-%20%E7%86%9F%E8%82%89%EF%BC%88%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%EF%BC%89)
 >>
->> [Flysheep - 一些东方同人游戏资源](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97)
+>> [<fx> Flysheep - 一些东方同人游戏资源 </fx>](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97)
 >
 >> ## 📁 网络安全
 >>
 >>> ### 📁 网络代理（翻墙）
 >>>
->>> [自用机场 - XSUS](https://home.xsus.me/)
+>>> [<fx> 自用机场 - XSUS </fx>](https://home.xsus.me/)
 >>>
->>> [免费订阅 - pmsub(未经测试)](https://pmsub.me/)
+>>> [<fx> 免费订阅 - pmsub(未经测试) </fx>](https://pmsub.me/)
 >>>
->>> [客户端 - Clash for Windows(也支持Mac)](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+>>> [<fx> 客户端 - Clash for Windows(也支持Mac) </fx>](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 >>>
->>> [客户端 - clashX(Mac专用)](https://github.com/yichengchen/clashX/releases)
+>>> [<fx> 客户端 - clashX(Mac专用) </fx>](https://github.com/yichengchen/clashX/releases)
 >>>
->>> [客户端 - ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases)
+>>> [<fx> 客户端 - ClashForAndroid </fx>](https://github.com/Kr328/ClashForAndroid/releases)
 >>
 >>> ### 📁 用于 Chrome 的隐私插件
 >>>
->>> [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+>>> [<fx> uBlock Origin </fx>](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 >>>
->>> [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+>>> [<fx> Proxy SwitchyOmega </fx>](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 >>>
->>> [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
+>>> [<fx> Decentraleyes </fx>](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)
 >>>
->>> [WebRTC Leak Prevent](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml)
+>>> [<fx> WebRTC Leak Prevent </fx>](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml)
 >>>
->>> [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
+>>> [<fx> Cookie AutoDelete </fx>](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh)
 >>>
->>> [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
+>>> [<fx> NoScript </fx>](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)
 >>>
 >>> 　
 >>>
 >>> 可选：浏览器语言设置使用其他语言
 >>>
->>> [User-Agent Switcher and Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/related)
+>>> [<fx> User-Agent Switcher and Manager </fx>](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/related)
 >>>
->>> [Font Fingerprint Defender](https://chrome.google.com/webstore/detail/font-fingerprint-defender/fhkphphbadjkepgfljndicmgdlndmoke)
+>>> [<fx> Font Fingerprint Defender </fx>](https://chrome.google.com/webstore/detail/font-fingerprint-defender/fhkphphbadjkepgfljndicmgdlndmoke)
 >>>
->>> [Spoof Timezone](https://chrome.google.com/webstore/detail/spoof-timezone/kcabmhnajflfolhelachlflngdbfhboe)
+>>> [<fx> Spoof Timezone </fx>](https://chrome.google.com/webstore/detail/spoof-timezone/kcabmhnajflfolhelachlflngdbfhboe)
 >>>
->>> [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
+>>> [<fx> ClearURLs </fx>](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 >>
 >>> ### 📁 TOR](洋葱网络)
 >>>
->>> [Tor 浏览器](https://www.torproject.org/)
+>>> [<fx> Tor 浏览器 </fx>](https://www.torproject.org/)
 >>>
->>> [Tor Browser 不完全指南](https://reconsidera.github.io/#/18)
+>>> [<fx> Tor Browser 不完全指南 </fx>](https://reconsidera.github.io/#/18)
 >>>
->>> [另见：数字极权时代生存手记](https://reconsidera.github.io/#/README)
+>>> [<fx> 另见：数字极权时代生存手记 </fx>](https://reconsidera.github.io/#/README)
 >
 >> ## 📁 BT
 >>
 >>> ### 📁 动画BT资源
 >>>
->>> [<gfw>末日动漫资源库（推荐）</gfw>](https://share.acgnx.se/)
+>>> [<fx> <gfw>末日动漫资源库（推荐）</gfw> </fx>](https://share.acgnx.se/)
 >>>
->>> [<gfw>動漫花園</gfw>](https://share.dmhy.org/)
+>>> [<fx> <gfw>動漫花園</gfw> </fx>](https://share.dmhy.org/)
 >>>
->>> [<gfw>Nyaa</gfw>](https://nyaa.si/)
+>>> [<fx> <gfw>Nyaa</gfw> </fx>](https://nyaa.si/)
 >>>
->>> [蜜柑计划](https://mikanani.me/)
+>>> [<fx> 蜜柑计划 </fx>](https://mikanani.me/)
 >>>
->>> [爱恋动漫](http://kisssub.org/)
+>>> [<fx> 爱恋动漫 </fx>](http://kisssub.org/)
 >>>
->>> [萌番組](https://bangumi.moe/)
+>>> [<fx> 萌番組 </fx>](https://bangumi.moe/)
 >>>
->>> [ACG.RIP](https://acg.rip/)
+>>> [<fx> ACG.RIP </fx>](https://acg.rip/)
 >>>
->>> [VCB-Studio（补番）](https://vcb-s.com/)
+>>> [<fx> VCB-Studio（补番） </fx>](https://vcb-s.com/)
 >>>
->>> [1969-2022 里番全收录](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf)
+>>> [<fx> 1969-2022 里番全收录 </fx>](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf)
 >>
 >>> ### 📁 影视
 >>>
->>> [<gfw>1377x</gfw>](https://www.1377x.to/)
+>>> [<fx> <gfw>1377x</gfw> </fx>](https://www.1377x.to/)
 >>
 >>> ### 📁 字幕
 >>>
->>> [射手网(伪)](https://assrt.net/)
+>>> [<fx> 射手网(伪) </fx>](https://assrt.net/)
 >>>
->>> [SubHD](https://subhd.tv/)
+>>> [<fx> SubHD </fx>](https://subhd.tv/)
 >>>
->>> [字幕库](https://zimuku.org/)
+>>> [<fx> 字幕库 </fx>](https://zimuku.org/)
 >>
 >>> ### 📁 电子书
 >>>
 >>>> #### 📁 Z-Library
 >>>>
->>>> [Z-Library](https://singlelogin.me/)
+>>>> [<fx> Z-Library </fx>](https://singlelogin.me/)
 >>>>
->>>> [如何继续使用 Z-Library](https://luterngun.github.io/archive/2022/11/24/zlib.html)
+>>>> [<fx> 如何继续使用 Z-Library </fx>](https://luterngun.github.io/archive/2022/11/24/zlib.html)
 >>>>
->>>> [How to access zLibrary on...](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
+>>>> [<fx> How to access zLibrary on... </fx>](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
 >>>
->>> [sci-hub](https://sci-hub.ru/)
+>>> [<fx> sci-hub </fx>](https://sci-hub.ru/)
 >>>
->>> [無產階級圖書館](https://library.proletarian.me/)
+>>> [<fx> 無產階級圖書館 </fx>](https://library.proletarian.me/)
 >>>
->>> [缪缪收藏的图书网址信息](https://bgme.me/@Camus/109284118369473526)
+>>> [<fx> 缪缪收藏的图书网址信息 </fx>](https://bgme.me/@Camus/109284118369473526)
 >>>
->> [<gfw>东京图书馆</gfw>](https://www.tokyotosho.info/)
+>> [<fx> <gfw>东京图书馆</gfw> </fx>](https://www.tokyotosho.info/)
 >>
->> [<gfw>Pirate Bay</gfw>](http://thepiratebay.org)
+>> [<fx> <gfw>Pirate Bay</gfw> </fx>](http://thepiratebay.org)
 >>
 >> 　
 >>
->> [客户端：QBT-EE](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+>> [<fx> 客户端：QBT-EE </fx>](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 >>
->> [BT搜索（QBT内建）](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
+>> [<fx> BT搜索（QBT内建） </fx>](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins)
 >
 >> ## 📁 RSS
 >>
->> [RSS 入门指南](https://sspai.com/post/56391)
+>> [<fx> RSS 入门指南 </fx>](https://sspai.com/post/56391)
 >>
 >>> ### 📁  客户端 / 工具
 >>>
->>> [Raven（Ｗindows / MacOS / Linux）](https://github.com/hello-efficiency-inc/raven-reader)
+>>> [<fx> Raven（Ｗindows / MacOS / Linux） </fx>](https://github.com/hello-efficiency-inc/raven-reader)
 >>>
->>> [NetNewsWire（MacOS / iOS）](https://github.com/Ranchero-Software/NetNewsWire)
+>>> [<fx> NetNewsWire（MacOS / iOS） </fx>](https://github.com/Ranchero-Software/NetNewsWire)
 >>>
->>> [<gfw>Feedly</gfw>](https://feedly.com/)
+>>> [<fx> <gfw>Feedly</gfw> </fx>](https://feedly.com/)
 >>>
->>> [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)
+>>> [<fx> RSSHub Radar </fx>](https://github.com/DIYgod/RSSHub-Radar)
 >>>
->>> [RSS Feed Generator](https://rss.app/)
+>>> [<fx> RSS Feed Generator </fx>](https://rss.app/)
 >>
->> [本人的RSS Feeds（动画咨询、分析、知识）](https://kirisamesoup.lanzoub.com/izITa0ouwrqf)
+>> [<fx> 本人的RSS Feeds（动画咨询、分析、知识） </fx>](https://kirisamesoup.lanzoub.com/izITa0ouwrqf)
 >
 >> ## 📁 浏览器插件
 >>
->> [pakku - 合并B站弹幕](https://chrome.google.com/webstore/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)
+>> [<fx> pakku - 合并B站弹幕 </fx>](https://chrome.google.com/webstore/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)
 >>
->> [Twitch Chat Danmaku - 老鼠台弹幕](https://chrome.google.com/webstore/detail/twitch-chat-danmaku/koiphfkghjgmncbkcpfnegnbcbomlchg)
+>> [<fx> Twitch Chat Danmaku - 老鼠台弹幕 </fx>](https://chrome.google.com/webstore/detail/twitch-chat-danmaku/koiphfkghjgmncbkcpfnegnbcbomlchg)
 >>
->> [SponsorBlock - 跳过油管视频内宣传](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone/related)
+>> [<fx> SponsorBlock - 跳过油管视频内宣传 </fx>](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone/related)
 >>
->> [Flow Chat for... - 油管直播弹幕](https://chrome.google.com/webstore/detail/flow-chat-for-youtube-liv/elfdpkmfllnhhgnicaaeacbilcallpbd)
+>> [<fx> Flow Chat for... - 油管直播弹幕 </fx>](https://chrome.google.com/webstore/detail/flow-chat-for-youtube-liv/elfdpkmfllnhhgnicaaeacbilcallpbd)
 >>
->> [OneTab - 拯救开启五百个网页的习惯](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+>> [<fx> OneTab - 拯救开启五百个网页的习惯 </fx>](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 >>
->> [Wayback Machine - 网络的记忆](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
+>> [<fx> Wayback Machine - 网络的记忆 </fx>](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
 >>
 >> 　
 >>
->> [Tampermonkey - 用户脚本加载](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+>> [<fx> Tampermonkey - 用户脚本加载 </fx>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 >>
->> [Greasy Fork - 用户脚本检索](https://greasyfork.org/)
+>> [<fx> Greasy Fork - 用户脚本检索 </fx>](https://greasyfork.org/)
 >>
->> [网盘直链下载助手](https://www.youxiaohou.com/install.html)
+>> [<fx> 网盘直链下载助手 </fx>](https://www.youxiaohou.com/install.html)
 >>
->> [Bilibili 旧播放页](https://greasyfork.org/en/scripts/394296-bilibili-%E6%97%A7%E6%92%AD%E6%94%BE%E9%A1%B5)
+>> [<fx> Bilibili 旧播放页 </fx>](https://greasyfork.org/en/scripts/394296-bilibili-%E6%97%A7%E6%92%AD%E6%94%BE%E9%A1%B5)
 >>
->> [bilibili 首页推荐](https://greasyfork.org/en/scripts/368446-bilibili%E7%BD%91%E9%A1%B5%E7%AB%AF%E6%B7%BB%E5%8A%A0app%E9%A6%96%E9%A1%B5%E6%8E%A8%E8%8D%90)
+>> [<fx> bilibili 首页推荐 </fx>](https://greasyfork.org/en/scripts/368446-bilibili%E7%BD%91%E9%A1%B5%E7%AB%AF%E6%B7%BB%E5%8A%A0app%E9%A6%96%E9%A1%B5%E6%8E%A8%E8%8D%90)
 >>
->> [缩写去世器](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
+>> [<fx> 缩写去世器 </fx>](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
 >>
->> [片假名去世器](https://greasyfork.org/en/scripts/33268-katakana-terminator)
+>> [<fx> 片假名去世器 </fx>](https://greasyfork.org/en/scripts/33268-katakana-terminator)
 >>
->> [Pixiv 增强](https://greasyfork.org/en/scripts/34153-pixiv-plus)
+>> [<fx> Pixiv 增强 </fx>](https://greasyfork.org/en/scripts/34153-pixiv-plus)
 >>
 >>> ### 📁 其他自用脚本
 >>>
->>> [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+>>> [<fx> Bilibili-Evolved </fx>](https://github.com/the1812/Bilibili-Evolved)
 >>>
->>> [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix)
+>>> [<fx> Reddit Fix </fx>](https://greasyfork.org/en/scripts/404497-reddit-fix)
 >>>
->>> [Reddit Video Downloader](https://greasyfork.org/en/scripts/408925-reddit-video-downloader)
+>>> [<fx> Reddit Video Downloader </fx>](https://greasyfork.org/en/scripts/408925-reddit-video-downloader)
 >>>
->>> [中国知网CNKI硕博论文PDF下载](https://greasyfork.org/en/scripts/389343-%E4%B8%AD%E5%9B%BD%E7%9F%A5%E7%BD%91cnki%E7%A1%95%E5%8D%9A%E8%AE%BA%E6%96%87pdf%E4%B8%8B%E8%BD%BD)
+>>> [<fx> 中国知网CNKI硕博论文PDF下载 </fx>](https://greasyfork.org/en/scripts/389343-%E4%B8%AD%E5%9B%BD%E7%9F%A5%E7%BD%91cnki%E7%A1%95%E5%8D%9A%E8%AE%BA%E6%96%87pdf%E4%B8%8B%E8%BD%BD)
 >>>
->>> [文库下载器](https://greasyfork.org/en/scripts/437609-%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8)
+>>> [<fx> 文库下载器 </fx>](https://greasyfork.org/en/scripts/437609-%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8)
 >>>
->>> [Say花火学园-论坛 跳转搜索页](https://greasyfork.org/en/scripts/422869-say%E8%8A%B1%E7%81%AB%E5%AD%A6%E5%9B%AD-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
+>>> [<fx> Say花火学园-论坛 跳转搜索页 </fx>](https://greasyfork.org/en/scripts/422869-say%E8%8A%B1%E7%81%AB%E5%AD%A6%E5%9B%AD-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
 >>>
->>> [VCB-Studio搜索 自动跳转搜索页](https://greasyfork.org/en/scripts/422897-vcb-studio%E6%90%9C%E7%B4%A2-%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2020%E5%B9%B46%E6%9C%8818%E6%97%A5)
+>>> [<fx> VCB-Studio搜索 自动跳转搜索页 </fx>](https://greasyfork.org/en/scripts/422897-vcb-studio%E6%90%9C%E7%B4%A2-%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2020%E5%B9%B46%E6%9C%8818%E6%97%A5)
 >>>
->>> [漫画补档 /萌享(MoeShar)-论坛 跳转搜索页](https://greasyfork.org/en/scripts/422866-%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3-%E8%90%8C%E4%BA%AB-moeshar-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
+>>> [<fx> 漫画补档 /萌享(MoeShar)-论坛 跳转搜索页 </fx>](https://greasyfork.org/en/scripts/422866-%E6%BC%AB%E7%94%BB%E8%A1%A5%E6%A1%A3-%E8%90%8C%E4%BA%AB-moeshar-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
 >>>
->>> [绯月ScarletMoon-动画资源共享区 搜索...](https://greasyfork.org/en/scripts/422871-%E7%BB%AF%E6%9C%88scarletmoon-%E5%8A%A8%E7%94%BB%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB%E5%8C%BA-%E6%90%9C%E7%B4%A2-%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2020%E5%B9%B48%E6%9C%8816%E6%97%A5)
+>>> [<fx> 绯月ScarletMoon-动画资源共享区 搜索... </fx>](https://greasyfork.org/en/scripts/422871-%E7%BB%AF%E6%9C%88scarletmoon-%E5%8A%A8%E7%94%BB%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB%E5%8C%BA-%E6%90%9C%E7%B4%A2-%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2020%E5%B9%B48%E6%9C%8816%E6%97%A5)
 >>>
->>> [轻之国度 / 真白萌Web小镇/ galgame终点...](https://greasyfork.org/en/scripts/422867-%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-%E7%9C%9F%E7%99%BD%E8%90%8Cweb%E5%B0%8F%E9%95%87-galgame%E7%BB%88%E7%82%B9-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
+>>> [<fx> 轻之国度 / 真白萌Web小镇/ galgame终点... </fx>](https://greasyfork.org/en/scripts/422867-%E8%BD%BB%E4%B9%8B%E5%9B%BD%E5%BA%A6-%E7%9C%9F%E7%99%BD%E8%90%8Cweb%E5%B0%8F%E9%95%87-galgame%E7%BB%88%E7%82%B9-%E8%AE%BA%E5%9D%9B-%E8%B7%B3%E8%BD%AC%E6%90%9C%E7%B4%A2%E9%A1%B5-2021%E5%B9%B43%E6%9C%888%E6%97%A5)
 >>>
->>> [thtk - 东方拆包工具](https://github.com/thpatch/thtk)
+>>> [<fx> thtk - 东方拆包工具 </fx>](https://github.com/thpatch/thtk)
 >>>
->>> [blog) 数款二游资源解包](https://estertion.win/)
+>>> [<fx> blog) 数款二游资源解包 </fx>](https://estertion.win/)
 >
 > 　
 >
-> [r/FreeMediaHeckYeah Megathread](https://fmhy.pages.dev/)
+> [<fx> r/FreeMediaHeckYeah Megathread </fx>](https://fmhy.pages.dev/)
 >
-> [<gfw>r/Piracy Megathread</gfw>](https://rentry.co/megathread)
->
-> 　
->
-> [⭐ BAKA 群主倾情推荐⭐ Dagobah](https://dagobah.net/)
->
-> [<gfw>yande.re - 图站</gfw>](https://yande.re/)
->
-> [<gfw>Hikari no Akari - ACG 音乐</gfw>](https://hikarinoakari.com/)
->
-> [<gfw>DLsite - 正版同人作品购买站</gfw>](https://www.dlsite.com/)
->
-> [<gfw>Kemono - 付费资源分享</gfw>](https://kemono.party/)
->
-> [<gfw>E-Hentai - ＂动作漫画＂网站</gfw>](https://e-hentai.org/)
->
-> [凉宫春日资源站](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
+> [<fx> <gfw>r/Piracy Megathread</gfw> </fx>](https://rentry.co/megathread)
 >
 > 　
 >
-> [SauceNAO - 插画反向搜索](https://saucenao.com/)
+> [<fx> ⭐ BAKA 群主倾情推荐⭐ Dagobah </fx>](https://dagobah.net/)
 >
-> [IQDB - 插画反向搜索](https://iqdb.org/)
+> [<fx> <gfw>yande.re - 图站</gfw> </fx>](https://yande.re/)
 >
-> [waifu2x - AI图片放大](https://waifu2x.udp.jp/)
+> [<fx> <gfw>Hikari no Akari - ACG 音乐</gfw> </fx>](https://hikarinoakari.com/)
 >
-> [Trace.moe - 动画反向搜索](https://trace.moe/)
+> [<fx> <gfw>DLsite - 正版同人作品购买站</gfw> </fx>](https://www.dlsite.com/)
 >
-> [<gfw>＂健康宅男偶像＂以图搜图</gfw>](https://xslist.org/zh)
+> [<fx> <gfw>Kemono - 付费资源分享</gfw> </fx>](https://kemono.party/)
+>
+> [<fx> <gfw>E-Hentai - ＂动作漫画＂网站</gfw> </fx>](https://e-hentai.org/)
+>
+> [<fx> 凉宫春日资源站 </fx>](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
+>
+> 　
+>
+> [<fx> SauceNAO - 插画反向搜索 </fx>](https://saucenao.com/)
+>
+> [<fx> IQDB - 插画反向搜索 </fx>](https://iqdb.org/)
+>
+> [<fx> waifu2x - AI图片放大 </fx>](https://waifu2x.udp.jp/)
+>
+> [<fx> Trace.moe - 动画反向搜索 </fx>](https://trace.moe/)
+>
+> [<fx> <gfw>＂健康宅男偶像＂以图搜图</gfw> </fx>](https://xslist.org/zh)
 
 ------
 
@@ -448,54 +448,54 @@
 >
 > 注：个人收藏
 >
-> [🇯🇵 博麗幻想書譜（ZUN）](https://kourindou.exblog.jp/)
+> [<fx> 🇯🇵 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
 >
-> [比特客栈的文艺复兴](https://bitinn.net/)
+> [<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
 >
-> [Measure Zero](https://shiina18.github.io/)
+> [<fx> Measure Zero </fx>](https://shiina18.github.io/)
 >
-> [🇯🇵 Paradism](https://shirooo305.hatenablog.com/)
+> [<fx> 🇯🇵 Paradism </fx>](https://shirooo305.hatenablog.com/)
 >
-> [青竹 \| esterTion( ͡° ͜ʖ ͡°)](https://estertion.win/)
+> [<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
 >
 >> ## 📁 班固米优质用户日志
 >>
->> [栜栦的日志](https://bgm.tv/user/kagami_lu/blog)
+>> [<fx> 栜栦的日志 </fx>](https://bgm.tv/user/kagami_lu/blog)
 >>
->> [秘则为花的日志](https://bgm.tv/user/211998/blog)
+>> [<fx> 秘则为花的日志 </fx>](https://bgm.tv/user/211998/blog)
 >>
->> [Cauchemar的日志](https://bgm.tv/user/bzmlms/blog)
+>> [<fx> Cauchemar的日志 </fx>](https://bgm.tv/user/bzmlms/blog)
 >>
->> [零溢的日志](https://bgm.tv/user/524325/blog)
+>> [<fx> 零溢的日志 </fx>](https://bgm.tv/user/524325/blog)
 >>
->> [w2jmoe的日志](https://bgm.tv/user/w2jmoe/blog)
+>> [<fx> w2jmoe的日志 </fx>](https://bgm.tv/user/w2jmoe/blog)
 >>
->> [tsuga的日志](https://bgm.tv/user/tsugachinensis/blog)
+>> [<fx> tsuga的日志 </fx>](https://bgm.tv/user/tsugachinensis/blog)
 >>
->> [fragile的日志](https://bgm.tv/user/ikemaster/blog)
+>> [<fx> fragile的日志 </fx>](https://bgm.tv/user/ikemaster/blog)
 >>
->> [鲜奶饼干的日志](https://bgm.tv/user/247109/blog)
+>> [<fx> 鲜奶饼干的日志 </fx>](https://bgm.tv/user/247109/blog)
 >>
 >> 　
 >>
->> [北雁云依的博客](https://stblog.penclub.club/)
+>> [<fx> 北雁云依的博客 </fx>](https://stblog.penclub.club/)
 >>
->> [编程随想的博客](https://program-think.blogspot.com/)
+>> [<fx> 编程随想的博客 </fx>](https://program-think.blogspot.com/)
 >>
->> [iyouport](https://iyouport.substack.com/)
+>> [<fx> iyouport </fx>](https://iyouport.substack.com/)
 >>
->> [李老师不是你老师](https://lilaoshibushinilaoshi.com/)
+>> [<fx> 李老师不是你老师 </fx>](https://lilaoshibushinilaoshi.com/)
 
 ------
 
 > # 👀 好玩的小东西
 >
-> [THFM - 随机原曲电台](https://ximin.top/thfm/)
+> [<fx> THFM - 随机原曲电台 </fx>](https://ximin.top/thfm/)
 >
-> [TOUHOU Medle - 听节奏猜旋律](https://medle.akashiya.top/)
+> [<fx> TOUHOU Medle - 听节奏猜旋律 </fx>](https://medle.akashiya.top/)
 >
-> [東方 Ascii Art 保管库](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
+> [<fx> 東方 Ascii Art 保管库 </fx>](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
 >
-> [东方 ANSI Art（批踢踢） ](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
+> [<fx> 东方 ANSI Art（批踢踢）</fx>](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
 >
-> [Ascii Art 汉字生成器](https://magiconch.com/fontfont/)
+> [<fx> Ascii Art 汉字生成器 </fx>](https://magiconch.com/fontfont/)
