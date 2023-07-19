@@ -36,35 +36,25 @@ body {
 
     main::before {
         content: "";
+        transition-delay: 100ms;
+        transition-duration: 1000ms;
         position: fixed;
         top: 0;
         right: 0;
         bottom: 0;
-        left: 0px;
-        height: 100lvh !important;
+        left: 0;
         z-index: -100;
         background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        transition-duration: 1500ms;
-        transition-timing-function: ease !important;
         scale: 1;
+        opacity: 0.4 !important;
     }
 
+    
     main:hover::before {
         content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0px;
-        height: 100lvh !important;
-        z-index: -100;
-        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
         transition-duration: 1500ms;
         transition-delay: 150ms;
         scale: 1.3;
@@ -94,18 +84,6 @@ body {
     main:hover::after {
         transition-delay: 0ms !important;
         transition-duration: 700ms !important;
-        content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        height: 100lvh !important;
-        z-index: -100;
-        background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
         opacity: 0;
     }
 
@@ -114,36 +92,18 @@ body {
         /* bg image */
 
     main::before {
-        content: "";
-        transition-delay: 100ms;
-        transition-duration: 1000ms;
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        z-index: -100;
-        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
-        scale: 1;
         opacity: 0.4 !important;
     }
-
-
-        /* bg animation */
-
-
-
+    
     /* content animation */
     
     main div,
     main p,
-    main a,
+    main fx,
     main li,
     main span,
-    main gfw {
+    main gfw,
+    main container {
         transition: 
             scale 700ms, opacity 700ms, 
             color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
@@ -151,6 +111,17 @@ body {
         scale: 0.95;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+    }
+    
+    main a {
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
+        scale: 0.95;
+        opacity: 0.8 !important;
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        
     }
 
     main h1, main hr, main footer {
@@ -189,9 +160,11 @@ body {
     main:hover li,
     main:hover p,
     main:hover a,
+    main:hover fx,
     main:hover span,
     main:hover gfw,
-    main:hover footer {
+    main:hover footer,
+    main:hover container {
         transition-duration: 700ms;
         transition-property: filter;
         transition-delay: 0ms !important;
@@ -240,19 +213,6 @@ body {
     }
 
     main:hover::before {
-        content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: -250px;
-        height: 100lvh !important;
-        z-index: -100;
-        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
-        transition-duration: 1500ms;
         scale: 1.3;
         opacity: 0.1 !important;
     }
@@ -261,8 +221,6 @@ body {
 @media (any-pointer: coarse) {
 
     /* Background */
-
-        /* bg image */
 
         /* bg animation */
 
@@ -283,26 +241,6 @@ body {
         filter: brightness(2);
         opacity: 0.1 !important;
     }
-    
-    main:hover::before {
-        content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        height: 100lvh !important;
-        z-index: -100;
-        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
-        transition-duration: 1500ms;
-        scale: 1;
-        filter: brightness(2);
-        opacity: 0.1 !important;
-    }
-
-
 
     /* content animation */
 
@@ -444,7 +382,7 @@ hl {
     padding-inline: 1rem;
     padding-block: 0.7rem;
     color: #1DCC74 !important;
-    text-shadow: 10px 10px #4444ddaa;
+    text-shadow: 10px 10px #44da;
 }
 
 .main-content h1::before {
@@ -483,7 +421,7 @@ hl {
     z-index: -100;
     transition-duration: 0ms;
     background: linear-gradient(120deg, #4444dd, #159957) !important;
-    box-shadow: 10px 10px #4444ddaa;
+    box-shadow: 10px 10px #44da;
     opacity: 1;
 }
 
@@ -498,7 +436,7 @@ hl {
     margin-left: -2rem !important;
     padding-block: 0.7rem;
     color: #1DCC74 !important;
-    text-shadow: 10px 10px #4444ddaa;
+    text-shadow: 10px 10px #44da;
 }
 
 .main-content h2::before,
@@ -557,11 +495,20 @@ gfw {
 
 /* hyperlink */
 
+a {
+    transition-duration: 0ms;   
+    color: #87B6CC !important;
+}
+
+a:hover {
+    color: #fff !important;
+}
+
     /* Table of content + Bookmark */ 
- 
+
 a fx, a fx gfw {
     transition-delay: 100ms;
-    transition-duration: 300ms;
+    transition-duration: 700ms;
     color: #87B6CC !important;
     letter-spacing: 0.5px;
     font-size: 1.2rem;
@@ -573,8 +520,6 @@ a fx, a fx gfw {
 }
 
 a fx gfw {
-    transition-delay: 0ms !important;
-    transition-duration: 700ms !important;
     font-weight: normal;
     color: #dd4 !important
 }
@@ -587,8 +532,12 @@ a fx:hover, a fx gfw:hover {
     color: #fff !important;
     font-weight: bold;
     letter-spacing: 2px;
-    text-decoration: none !important;
-    text-shadow: 10px 10px #4444ddaa;
+    text-decoration: unset !important;
+    text-shadow: 10px 10px #44da;
+}
+
+a fx gfw:hover {
+    text-shadow: 10px 10px #dd4a;
 }
 
 /* Bookmark */ 
@@ -603,12 +552,60 @@ p a fx:hover {
     padding-left: 0.5rem !important;
 }
 
+/* blockquote */
 
 blockquote {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
 }
+
+/* note */
+
+container {
+    display: block;
+}
+
+note {
+    transition-delay: 100ms;
+    transition-duration: 400ms;
+    display: block;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    padding: 1rem;
+    border-radius: 10px !important;
+    border: solid #CCDAFF63 3px !important;
+    line-height: normal !important;
+    scale: 0.95;
+}
+
+note:hover {
+    transition: scale 700ms !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    border: solid #0000 3px !important;
+    scale: 1
+}
+
+note::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 700ms;
+    background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
+    border-radius: 10px !important;
+    opacity: 0 
+}
+
+note:hover::before {
+    transition-duration: 0ms;
+    opacity: 1
+}
+
 
 
 /* Highlight */ 
@@ -637,26 +634,10 @@ div.highlight {
 .language-plaintext.highlighter-rouge:hover div.highlight {
     transition-delay: 0ms;
     transition-duration: 0ms;
-    background: none !important;
     border: solid #0000 3px !important;
 }
 
-.language-plaintext.highlighter-rouge:hover div.highlight::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -100;
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
-    background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
-    border-radius: 10px !important;
-    opacity: 1
-}
-
-div.highlight::before {
+.language-plaintext.highlighter-rouge div.highlight::before {
     content: "";
     position: fixed;
     top: 0;
@@ -669,6 +650,12 @@ div.highlight::before {
     background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
     border-radius: 10px !important;
     opacity: 0
+}
+
+.language-plaintext.highlighter-rouge:hover div.highlight::before {
+    transition-delay: 0ms !important;
+    transition-duration: 0ms !important;
+    opacity: 1
 }
 
 div.language-plaintext.highlighter-rouge:hover {
