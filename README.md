@@ -1,4 +1,37 @@
-> <note> </note>
+<container>
+    <note>
+        <p>本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：</p>
+        <ul>
+            <li>
+                - 使用
+                    <a href="https://github.com/Kirisoup/Kirisoup.github.io/issues">
+                        Github Issues
+                    </a>
+                进行反馈（需要github账号）
+            </li>
+            <li>
+                - (￣∇￣) 
+                    <a href="https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235">
+                        私聊
+                    </a>
+                雾雨蘑菇汤~
+            </li>
+            <li>
+                - 加入群聊一起吹水~ （
+                    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13">
+                        ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ！☆
+                    </a>
+                ；
+                    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk">
+                        🌙 滇南アリス幻樂団
+                    </a>
+                ）
+            </li>
+        </ul>
+    </note>
+</container>
+
+> <isnote> </isnote>
 > 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
@@ -61,7 +94,7 @@
 >
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [<fx> 🇬🇧 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
@@ -85,7 +118,7 @@
 >>
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [<fx> 🇬🇧 SakugaBooru </fx>](https://sakugabooru.com/)
+>> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >>> ### 📁 班固米
 >>>
@@ -109,7 +142,7 @@
 >>>
 >>> [<fx> 🇯🇵 ANIKORE </fx>](https://www.anikore.jp/)
 >>>
->>> [<fx> 🇬🇧 AniDB </fx>](https://anidb.net/)
+>>> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> AniDB </fx>](https://anidb.net/)
 >>
 >> [<fx> <gfw>糟糕岛维基</gfw> </fx>](https://yuki.komica.org/)
 >>
@@ -119,9 +152,9 @@
 >>
 >> [<fx> <gfw>🇯🇵 NicoNico 大百科</gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw>🇯🇵 🇬🇧 Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw>🇯🇵  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> Pixiv 百科事典</gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<fx> <gfw>🇬🇧 Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
+>> [<fx> <gfw> <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> Know Your Meme</gfw> </fx>](https://knowyourmeme.com/)
 >
 >> ## 📁 刊物 / 专栏
 >>
@@ -139,11 +172,11 @@
 >
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [<fx> 🇬🇧 Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [<fx> 🇬🇧 Warosu /jp/ </fx>](https://warosu.org/jp)
+> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [<fx> 🇬🇧 EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> [<fx>  <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 >> ## 📁 时泪
 >>
@@ -181,7 +214,7 @@
 >
 > [<fx> <gfw>🇯🇵 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<fx> <gfw>🇬🇧 r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw> <img scr = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/svg/gb.svg" alt = "GB" /> r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
 
 ------
 
