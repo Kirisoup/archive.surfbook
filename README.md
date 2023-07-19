@@ -198,7 +198,7 @@
 > [<fx> <gfw> <jp></jp> 2ch - 东方板块</gfw> </fx>](https://fate.5ch.net/touhou/)
 >
 > [<fx> <gfw> 
-    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "10rem" />
+    <img src = "https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/gb.svg" alt = "GB" width = "20rem" />
     r/Touhou</gfw> </fx>](https://www.reddit.com/r/touhou/)
 
 ------
