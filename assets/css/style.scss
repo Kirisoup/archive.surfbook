@@ -571,7 +571,7 @@ ul {
 
 /* blockquote */
 
-blockquote:has(not(> isnote)) {
+blockquote:has(:not(> isnote)) {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
