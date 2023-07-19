@@ -9,7 +9,7 @@ html, body{
 
 body {
     background-color: #1e1e22 !important;
-    color: #A3B6BF !important;
+    color: #fff !important;
     font-family: SimHei !important;
     line-height: 1 !important;
 }
@@ -533,8 +533,8 @@ gfw {
 /* hyperlink */
 
 a {
-    transition-duration: 0ms;   
     color: #87B6CC !important;
+    text-decoration: unset !important;
 }
 
 a:hover {
@@ -569,7 +569,6 @@ a fx:hover, a fx gfw:hover {
     color: #fff !important;
     font-weight: bold;
     letter-spacing: 2px;
-    text-decoration: unset !important;
     text-shadow: 10px 10px #44da;
 }
 
@@ -613,7 +612,7 @@ note {
 blockquote:has(> note) {
     transition-delay: 100ms;
     transition-duration: 400ms;
-    color: #A3B6BF !important;
+    color: #fff !important;
     display: block;
     margin-bottom: 1rem;
     margin-top: 0;
