@@ -18,7 +18,7 @@ body {
     --weirdly-complicated-transition: 
         scale 700ms, opacity 700ms, 
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-        filter 200ms 600ms !important;
+        filter 200ms 600ms !important
 
 }
 
@@ -115,21 +115,23 @@ body {
     main span,
     main gfw,
     main container {
-        transition: --weirdly-complicated-transition;
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
     
     main blockquote:has(> isnote) {
-        transition: --weirdly-complicated-transition;
-        scale: 0.95;
-        opacity: 0.5 !important;
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
+        scale: 0.9;
+        opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
-    }
-    
-    main:hover blockquote:has(> isnote) {
-        scale: 0.95;
     }
     
     main a {
@@ -144,7 +146,10 @@ body {
     }
 
     main h1, main hr, main footer {
-        transition: --weirdly-complicated-transition;
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter:  brightness(2) ;
@@ -155,7 +160,10 @@ body {
     main h4,
     main h5,
     main h6 {
-        transition: --weirdly-complicated-transition;
+        transition: 
+            scale 700ms, opacity 700ms, 
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter:  brightness(2) saturate(0.5) ;
@@ -238,6 +246,24 @@ body {
         /* bg animation */
 
     main::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        height: 100lvh !important;
+        z-index: -100;
+        background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/background/IMG_1148-1080_16_9.JPG) !important;
+        background-position: center center !important;
+        background-attachment: fixed !important;
+        background-size: cover;
+        transition-duration: 1500ms;
+        scale: 1;
+        filter: brightness(2);
+        opacity: 0.1 !important;
+    }
+
+    main:hover::before {
         content: "";
         position: fixed;
         top: 0;
@@ -571,7 +597,7 @@ ul {
 
 /* blockquote */
 
-blockquote:has(:not(> isnote)) {
+blockquote {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
@@ -584,9 +610,12 @@ isnote {
     margin: 0;
 }
 
+/* blockquote note */
+
 blockquote:has(> isnote) {
     transition-delay: 100ms;
     transition-duration: 400ms;
+    color: #A3B6BF !important;
     display: block;
     margin-bottom: 1rem;
     margin-top: 0;
@@ -597,14 +626,44 @@ blockquote:has(> isnote) {
     line-height: normal !important;
 }
 
-
-
 blockquote:hover:has(> isnote) {
     transition: scale 700ms !important;
     transition-delay: 0ms;
     transition-duration: 0ms;
     border: solid #0000 3px !important;
     scale: 1
+}
+
+main:hover blockquote:has(> isnote) {
+    transition-duration: 700ms;
+    transition-property: filter;
+    transition-delay: 0ms !important;
+    scale: 0.95;
+    filter: none;
+}
+
+main:hover blockquote:hover:has(> isnote) {
+    scale: 1;
+    filter: none;
+}
+
+blockquote:has(> isnote)::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -100;
+    transition-duration: 700ms;
+    background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
+    border-radius: 10px !important;
+    opacity: 0 
+}
+
+blockquote:hover:has(> isnote)::before {
+    transition-duration: 0ms;
+    opacity: 1
 }
 
 /* note */
