@@ -1,4 +1,4 @@
-> <isnote> </isnote>
+> <note> </note>
 > 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
