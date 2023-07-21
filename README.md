@@ -1,12 +1,5 @@
-<script>
-    var flagJP = "<img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" />";
-</script>
-
-<script>
-   document.getElementById("JP").innerHTML = flagJP;
-</script> 
-
-<p id="JP">hi</p>
+<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" />
+<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" />
 
 > <note> </note>
 >
@@ -32,8 +25,6 @@
 >  
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
 > 最近更新：2023/07/21 
-
-`test`
 
 ------
 
@@ -91,17 +82,17 @@
 >
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx> <gfw> <img id ="gb" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
+> [<fx> <img id ="jp" /> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 >
-> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 日文东方Project人气投票 </gfw> </fx>](https://toho-vote.info/)
+> [<fx> <gfw> <img id ="jp" /> 日文东方Project人气投票 </gfw> </fx>](https://toho-vote.info/)
 >
-> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 东方四方山新闻 </gfw> </fx>](https://touhou-project.news/)
+> [<fx> <gfw> <img id ="jp" /> 东方四方山新闻 </gfw> </fx>](https://touhou-project.news/)
 >
-> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 東方編曲録 </gfw> </fx>](https://touhou.arrangement-chronicle.com/)
+> [<fx> <gfw> <img id ="jp" /> 東方編曲録 </gfw> </fx>](https://touhou.arrangement-chronicle.com/)
 >
 > [<fx> 英文东方圈术语对照表 </fx>](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 >
@@ -115,19 +106,19 @@
 >>
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> SakugaBooru </fx>](https://sakugabooru.com/)
+>> [<fx> <gfw> <img id ="gb" /> SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >> [<fx> <gfw> 糟糕岛维基 </gfw> </fx>](https://yuki.komica.org/)
 >>
 >> [<fx> <gfw> H萌娘 </gfw> </fx>](https://hmoegirl.info/)
 >>
->> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
+>> [<fx> <gfw> <img id ="jp" /> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
 >>
->> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
+>> [<fx> <gfw> <img id ="jp" /> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw> <img id ="jp" /> <gfw> <img id ="gb" /> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
+>> [<fx> <gfw> <gfw> <img id ="gb" /> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
 >>
 >>>  ### 📁 动画评分排名
 >>>
@@ -151,9 +142,9 @@
 >>>>
 >>>> [<fx> S1漫区投票统计 </fx>](http://s1vote.com/)
 >>>>
->>>> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> ANIKORE </fx>](https://www.anikore.jp/)
+>>>> [<fx> <img id ="jp" /> ANIKORE </fx>](https://www.anikore.jp/)
 >>>>
->>>> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> AniDB </fx>](https://anidb.net/)
+>>>> [<fx> <gfw> <img id ="gb" /> AniDB </fx>](https://anidb.net/)
 >
 >> ## 📁 刊物 / 专栏
 >>
@@ -171,11 +162,11 @@
 >
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+> [<fx> <gfw> <img id ="gb" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> Warosu /jp/ </fx>](https://warosu.org/jp)
+> [<fx> <gfw> <img id ="gb" /> Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> [<fx> <gfw> <img id ="gb" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 > [<fx> <gfw> 巴哈姆特哈啦板 - 东方板块 </gfw> </fx>](https://forum.gamer.com.tw/B.php?bsn=10039)
 >
@@ -183,9 +174,9 @@
 >
 > [<fx> <gfw> 批踢踢 - 东方板块 </gfw> </fx>](https://www.ptt.cc/bbs/Touhou/)
 >
-> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 2ch - 东方板块 </gfw> </fx>](https://fate.5ch.net/touhou/)
+> [<fx> <gfw> <img id ="jp" /> 2ch - 东方板块 </gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<fx> <gfw> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" /> r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw> <gfw> <img id ="gb" /> r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
 >
 >> ## 📁 一般 ACG 用
 >>
@@ -426,13 +417,13 @@
 
 > # 💭 Blog
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
+> [<fx> <img id ="jp" /> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
 >
 > [<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
 >
 > [<fx> Measure Zero </fx>](https://shiina18.github.io/)
 >
-> [<fx> <img class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" /> Paradism </fx>](https://shirooo305.hatenablog.com/)
+> [<fx> <img id ="jp" /> Paradism </fx>](https://shirooo305.hatenablog.com/)
 >
 > [<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
 >
