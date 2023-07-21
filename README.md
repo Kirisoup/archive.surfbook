@@ -1,6 +1,3 @@
-<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" />
-<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" />
-
 > <note> </note>
 >
 > 使用[目录](#目录)快速跳转到对应分类吧~
