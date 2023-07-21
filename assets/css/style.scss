@@ -10,7 +10,7 @@ html, body{
 body {
     background-color: #1e1e22 !important;
     color: #fff !important;
-    font-family: SimHei !important;
+    font-family: "Twemoji Country Flags", SimHei !important;
     line-height: 1 !important;
 }
 
@@ -531,8 +531,6 @@ a:hover {
     color: #fff !important;
 }
 
-    /* Table of content + Bookmark */ 
-
 a fx, a fx gfw {
     transition-delay: 100ms;
     transition-duration: 700ms;
@@ -550,8 +548,6 @@ a fx gfw {
     font-weight: normal;
     color: #dd4 !important
 }
-
-/* hover */ 
  
 a fx:hover, a fx gfw:hover {
     transition-delay: 0ms !important;
@@ -565,8 +561,6 @@ a fx:hover, a fx gfw:hover {
 a fx gfw:hover {
     text-shadow: 10px 10px #dd4a;
 }
-
-/* Bookmark */ 
  
 p a fx {
     border-radius: 10px;
@@ -588,6 +582,7 @@ blockquote {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
+    padding-bottom: 1rem !important;
 }
 
 blockquote:not(:has(note)) {
@@ -602,6 +597,7 @@ note {
     width: 0;
     height: 0;
     margin: 0;
+    line-height: 0 !important;
 }
 
 blockquote:has(> note) {
