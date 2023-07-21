@@ -82,7 +82,7 @@
 >
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
-> [<fx> <gfw> <img id ="gb" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
+> [<fx> <img id ="gb" /> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 >
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 >
@@ -106,7 +106,7 @@
 >>
 >> [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >>
->> [<fx> <gfw> <img id ="gb" /> SakugaBooru </fx>](https://sakugabooru.com/)
+>> [<fx> <img id ="gb" /> SakugaBooru </fx>](https://sakugabooru.com/)
 >>
 >> [<fx> <gfw> 糟糕岛维基 </gfw> </fx>](https://yuki.komica.org/)
 >>
@@ -116,9 +116,9 @@
 >>
 >> [<fx> <gfw> <img id ="jp" /> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw> <img id ="jp" /> <gfw> <img id ="gb" /> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw> <img id ="jp" /> <img id ="gb" /> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
 >>
->> [<fx> <gfw> <gfw> <img id ="gb" /> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
+>> [<fx> <gfw> <img id ="gb" /> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
 >>
 >>>  ### 📁 动画评分排名
 >>>
@@ -144,7 +144,7 @@
 >>>>
 >>>> [<fx> <img id ="jp" /> ANIKORE </fx>](https://www.anikore.jp/)
 >>>>
->>>> [<fx> <gfw> <img id ="gb" /> AniDB </fx>](https://anidb.net/)
+>>>> [<fx> <img id ="gb" /> AniDB </fx>](https://anidb.net/)
 >
 >> ## 📁 刊物 / 专栏
 >>
@@ -162,11 +162,11 @@
 >
 > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 >
-> [<fx> <gfw> <img id ="gb" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+> [<fx> <img id ="gb" /> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
 >
-> [<fx> <gfw> <img id ="gb" /> Warosu /jp/ </fx>](https://warosu.org/jp)
+> [<fx> <img id ="gb" /> Warosu /jp/ </fx>](https://warosu.org/jp)
 >
-> [<fx> <gfw> <img id ="gb" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> [<fx> <img id ="gb" /> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
 >
 > [<fx> <gfw> 巴哈姆特哈啦板 - 东方板块 </gfw> </fx>](https://forum.gamer.com.tw/B.php?bsn=10039)
 >
@@ -176,7 +176,7 @@
 >
 > [<fx> <gfw> <img id ="jp" /> 2ch - 东方板块 </gfw> </fx>](https://fate.5ch.net/touhou/)
 >
-> [<fx> <gfw> <gfw> <img id ="gb" /> r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
+> [<fx> <gfw> <img id ="gb" /> r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
 >
 >> ## 📁 一般 ACG 用
 >>
