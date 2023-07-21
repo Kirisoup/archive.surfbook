@@ -494,7 +494,7 @@ blockquote {
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
-    padding-bottom: 1rem !important;
+    padding-bottom: 0rem !important;
 }
 
 blockquote:not(:has(note)) {
@@ -519,6 +519,7 @@ blockquote:has(> note) {
     margin-top: 0;
     margin-right: 0;
     padding: 1rem;
+    padding-bottom: 1rem !important;
     border-radius: 10px !important;
     border: solid #CCDAFF63 3px !important;
     line-height: normal !important;
@@ -623,6 +624,41 @@ code {
     color: #87B6CC !important;
     font-family: SimHei !important;
     line-height: normal !important;
+}
+
+jp, gb {
+    display: inline-block;
+    position: relative;
+    width: 1.5rem;
+    height: 1.25rem;
+}
+
+jp::before, gb::before {
+    transition: 350ms 100ms;
+    content: "";
+    position: fixed;
+    top: auto;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    z-index: 0;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    height: 1.5rem;
+}
+
+jp::before {
+    background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg);
+}
+
+gb::before {
+    background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg);
+}
+
+p:hover jp::before, p:hover gb::before {
+    transition: 0ms 0ms;
+    left: 0.4rem;
+    filter: drop-shadow(10px 10px #44da)
 }
 
 @import "{{ site.theme }}";
