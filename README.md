@@ -1,4 +1,8 @@
+<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg" />
+<img  class = "flag" width = 17 src = "https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg" />
+
 > <note> </note>
+>
 > 使用[目录](#目录)快速跳转到对应分类吧~
 >
 > <gfw> 黄色标题代表网站被 GFW 封禁了，需使用特殊工具访问 :| </gfw>
@@ -112,7 +116,7 @@
 >>
 >> [<fx> <gfw> <jp></jp> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
 >>
->> [<fx> <gfw> <jp></jp> <gb></gb> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
+>> [<fx> <gfw> <jp></jp> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
 >>
 >> [<fx> <gfw> <gb></gb> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
 >>
