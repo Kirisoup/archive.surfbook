@@ -579,6 +579,7 @@ ul {
 /* blockquote */
 
 blockquote {
+    color: #ccc !important;
     border: none !important;
     padding-left: 2rem !important;
     margin-block: 1rem 2rem !important;
@@ -603,7 +604,6 @@ note {
 blockquote:has(> note) {
     transition-delay: 100ms;
     transition-duration: 400ms;
-    color: #fff !important;
     display: block;
     margin-bottom: 1rem;
     margin-top: 0;
