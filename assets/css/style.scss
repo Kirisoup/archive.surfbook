@@ -113,7 +113,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main blockquote:has(> note) {
@@ -122,7 +122,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.9;
         opacity: 0.8 !important;
-        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main a {
@@ -131,7 +131,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main h1,
@@ -636,22 +636,23 @@ code {
 jp, gb {
     display: inline-block;
     position: relative;
-    width: 1.5rem;
+    width: 1.2rem;
     height: 1.25rem;
 }
 
 jp::before, gb::before {
-    transition: 300ms 0ms !important;
+    transition: 500ms 100ms !important;
     content: "";
     position: fixed;
-    top: auto;
+    top: 50%;
     right: 0;
-    bottom: auto;
+    bottom: unset; /**/
     left: 0;
+    transform: translateY(-50%) !important;
     z-index: 0;
     background-position-y: top;
     background-repeat: no-repeat;
-    height: 1.5rem;
+    height: 1.2rem;
 }
 
 jp::before {
@@ -664,17 +665,9 @@ gb::before {
 
 p:hover jp::before, p:hover gb::before {
     transition: 0ms 0ms !important;
-    left: 0.4rem !important;
+    left: 0rem !important;
+    height: 1.6rem;
     filter: drop-shadow(10px 10px #44da)
-}
-
-/* image */
-
-img {
-    max-width: 80% !important;
-    position: relative;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
 }
 
 @import "{{ site.theme }}";
