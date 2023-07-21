@@ -1,7 +1,8 @@
 ---
 ---
 
-html, body{
+html,
+body {
     width: 100%;
     position: relative;
     overflow-x: hidden;
@@ -15,11 +16,9 @@ body {
 }
 
 .variable {
-    --weirdly-complicated-transition: 
-        scale 700ms, opacity 700ms, 
-        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-        filter 200ms 600ms !important
-
+    --weirdly-complicated-transition: scale 700ms, opacity 700ms,
+    color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+    filter 200ms 600ms !important;
 }
 
 
@@ -30,7 +29,7 @@ body {
         overflow-x: hidden;
         margin-left: auto;
         margin-right: auto;
-        width: calc(70% + 1rem) !important
+        width: calc(70% + 1rem) !important;
     }
     .page-header {
         padding-block: 1rem 3rem !important;
@@ -38,11 +37,11 @@ body {
     }
     .project-tagline {
         font-size: 1.2rem!important;
-        line-height: 1.5 !important
+        line-height: 1.5 !important;
     }
 
     .project-name {
-        line-height: 2 !important
+        line-height: 2 !important;
     }
 
     main::before {
@@ -63,7 +62,7 @@ body {
         opacity: 0.4 !important;
     }
 
-    
+
     main:hover::before {
         content: "";
         transition-duration: 1500ms;
@@ -89,86 +88,77 @@ body {
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        opacity: 0.3
+        opacity: 0.3;
     }
-    
+
     main:hover::after {
         transition-delay: 0ms !important;
         transition-duration: 700ms !important;
         opacity: 0;
     }
 
-    /* Background */
-
-        /* bg image */
-
     main::before {
         opacity: 0.4 !important;
     }
-    
+
     /* content animation */
-    
     main div,
     main p,
     main fx,
     main li,
     main span,
     main gfw {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: scale 700ms, opacity 700ms,
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
-    
+
     main blockquote:has(> note) {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: scale 700ms, opacity 700ms,
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
         scale: 0.9;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
     }
-    
+
     main a {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: scale 700ms, opacity 700ms,
+        color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
         filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
-        
     }
 
-    main h1, main hr, main footer {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+    main h1,
+    main hr,
+    main footer {
+        transition: scale 700ms, opacity 700ms,
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter:  brightness(2) ;
+        filter: brightness(2);
     }
-    
+
     main h2,
     main h3,
     main h4,
     main h5,
     main h6 {
-        transition: 
-            scale 700ms, opacity 700ms, 
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-            filter 200ms 600ms !important;
+        transition: scale 700ms, opacity 700ms,
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter:  brightness(2) saturate(0.5) ;
+        filter: brightness(2) saturate(0.5);
     }
 
-    
+
     main:hover div,
     main:hover h1,
     main:hover h2,
@@ -199,9 +189,9 @@ body {
         overflow-x: hidden;
         margin-left: auto;
         margin-right: auto;
-        width: calc(80% + 1rem) !important
+        width: calc(80% + 1rem) !important;
     }
-    .page-header{
+    .page-header {
         padding-block: 2rem 1rem !important;
         padding-inline: 0rem !important;
     }
@@ -211,7 +201,7 @@ body {
     }
 
     .project-name {
-        line-height: 1 !important
+        line-height: 1 !important;
     }
 
     main::before {
@@ -238,10 +228,6 @@ body {
 }
 
 @media (any-pointer: coarse) {
-
-    /* Background */
-
-        /* bg animation */
 
     main::before {
         content: "";
@@ -280,7 +266,6 @@ body {
     }
 
     /* content animation */
-
     main div,
     main h1,
     main h2,
@@ -319,81 +304,14 @@ body {
     margin-block: 0 !important;
 }
 
-
-
-/* /* Banner */
-/* 
-/*     /* banner */
-/* 
-/*         /* Zoom out*/
-/* 
-/* .page-header {
-/*     transition-delay: 700ms;
-/*     transition-duration: 700ms;
-/*     padding-block: 0rem !important;
-/*     margin-bottom: 1.7rem;
-/*     background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
-/* }
-/* 
-/*         /* Zoom in*/
-/* 
-/* body .page-header:hover {
-/*     transition-delay: 700ms;
-/*     transition-duration: 700ms;
-/*     background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
-/*     font-family: SimHei !important;
-/*     line-height: 2;
-/*     padding-block: 2rem 3rem !important;
-/*     padding-inline: 4rem !important;
-/*     margin-bottom: 0rem;
-/* }
-/* 
-/*     /* Title + Subtitle */
-/* 
-/*         /* Zoom out title*/
-/* 
-/* .project-name {
-/*     transition-delay: 700ms;
-/*     transition-duration: 700ms;
-/*     line-height: 1 !important;
-/*     position: relative;
-/*     margin-block: 0 !important;
-/*     scale: 40%;
-/* }
-/* 
-/*         /* Zoom out description*/
-/* 
-/* .project-tagline {
-/*     transition-delay: 700ms;
-/*     transition-duration: 700ms;
-/*     scale: 40%;
-/*     position: relative;
-/*     margin-block: 0 !important;
-/*     line-height: 0 !important;
-/*     opacity: 0 !important;
-/* }
-/* 
-/*         /* Zoom in */
-/* 
-/* body .page-header:hover .project-name, body .page-header:hover .project-tagline {
-/*     transition-delay: 700ms;
-/*     transition-duration: 700ms;
-/*     line-height: 2 !important;
-/*     scale: 80%;
-/*     opacity: 1 !important;
-/* }
-
-  
-
 /* Horizontal rule */
-
 hr,
 .site-footer {
     transition-duration: 500ms !important;
     margin-block: 3rem !important;
     margin-inline: 0rem !important;
     border-width: 0.3rem !important;
-    height: 0.3rem !important
+    height: 0.3rem !important;
 }
 
 hr {
@@ -405,12 +323,9 @@ hr {
 }
 
 /* Head line */
-
 hl {
     line-height: 10 !important;
 }
-
-    /* Top level hl */
 
 .main-content h1 {
     border-radius: 5px !important;
@@ -434,10 +349,8 @@ hl {
     background: linear-gradient(120deg, #4444dd, #159957) !important;
     border-radius: 10px;
     box-shadow: none;
-    opacity: 0
+    opacity: 0;
 }
-
-/* Hover */
 
 .main-content h1:hover {
     transition-delay: 0ms !important;
@@ -517,11 +430,10 @@ hl {
 }
 
 gfw {
-    color: #dd4 !important
+    color: #dd4 !important;
 }
 
 /* hyperlink */
-
 a {
     color: #87B6CC !important;
     text-decoration: unset !important;
@@ -531,7 +443,8 @@ a:hover {
     color: #fff !important;
 }
 
-a fx, a fx gfw {
+a fx,
+a fx gfw {
     transition-delay: 100ms;
     transition-duration: 700ms;
     color: #87B6CC !important;
@@ -546,10 +459,11 @@ a fx, a fx gfw {
 
 a fx gfw {
     font-weight: normal;
-    color: #dd4 !important
+    color: #dd4 !important;
 }
- 
-a fx:hover, a fx gfw:hover {
+
+a fx:hover,
+a fx gfw:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     color: #fff !important;
@@ -561,13 +475,11 @@ a fx:hover, a fx gfw:hover {
 a fx gfw:hover {
     text-shadow: 10px 10px #dd4a;
 }
- 
+
 p a fx {
     border-radius: 10px;
 }
 
-/* hover */ 
- 
 p a fx:hover {
     padding-left: 0.5rem !important;
 }
@@ -577,7 +489,6 @@ ul {
 }
 
 /* blockquote */
-
 blockquote {
     color: #CCD5ED !important;
     border: none !important;
@@ -592,7 +503,6 @@ blockquote:not(:has(note)) {
 }
 
 /* blockquote note */
-
 note {
     visibility: hidden;
     width: 0;
@@ -619,7 +529,7 @@ blockquote:hover:has(> note) {
     transition-delay: 0ms;
     transition-duration: 0ms;
     border: solid #0000 3px !important;
-    scale: 1
+    scale: 1;
 }
 
 main:hover blockquote:has(> note) {
@@ -646,16 +556,15 @@ blockquote:has(> note)::before {
     transition-duration: 700ms;
     background: linear-gradient(90deg, #4444dd88, #19B2B277, #1dcc7466) !important;
     border-radius: 10px !important;
-    opacity: 0 
+    opacity: 0;
 }
 
 blockquote:hover:has(> note)::before {
     transition-duration: 0ms;
-    opacity: 1
+    opacity: 1;
 }
 
-/* Highlight */ 
- 
+/* Highlight */
 pre.highlight {
     border: none !important;
     background: none !important;
@@ -674,7 +583,7 @@ div.highlight {
     transition-delay: 100ms;
     transition-duration: 400ms;
     scale: 0.95;
-    margin-bottom: 2rem !important
+    margin-bottom: 2rem !important;
 }
 
 .language-plaintext.highlighter-rouge:hover div.highlight {
@@ -695,13 +604,13 @@ div.highlight {
     transition-duration: 400ms;
     background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
     border-radius: 10px !important;
-    opacity: 0
+    opacity: 0;
 }
 
 .language-plaintext.highlighter-rouge:hover div.highlight::before {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
-    opacity: 1
+    opacity: 1;
 }
 
 div.language-plaintext.highlighter-rouge:hover {
