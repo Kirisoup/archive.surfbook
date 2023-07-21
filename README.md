@@ -2,20 +2,22 @@
 >
 > 使用[目录](#目录)快速跳转到对应分类吧~
 >
-> <gfw> 这种样式 </gfw> 的标题代表网站被 GFW 封禁了，需使用特殊工具访问 :|
+> <gfw> 黄色标题代表网站被 GFW 封禁了，需使用特殊工具访问 :| </gfw>
 >
 > 网站前的国旗代表了网站的显示语言~
 > 
 > 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
-> - (￣∇￣)[私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
+> - (￣∇￣) [私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
 > - 加入群聊一起吹水~ （[⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)；[🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)）
 > 
-> 若你的浏览器不支持特定 css 特性导致丧失可读性，或者是单纯喜欢更加简洁的阅读体验，可[访问此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
+> 若你的浏览器不支持某些 css 特性导致丧失可读性，或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 
 ------
 
+><note> </note>
+>
 > 收藏总数：154
 > 
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
@@ -27,30 +29,32 @@
 
 - [<fx> ⭐ 东方常用 </fx>](#-东方常用)
 - [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
-    - [<fx> 综合 ACG </fx>](#综合-acg)
-        - [<fx> 班固米 </fx>](#班固米)
-        - [<fx> 其他动画评分排名 </fx>](#其他动画评分排名)
-    - [<fx> 刊物 / 专栏 </fx>](#刊物--专栏)
+    - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用)
+        - [<fx> 📁 动画评分排名 </fx>](#-动画评分排名)
+            - [<fx> 📁 班固米 </fx>](#-班固米)
+                - [<fx> 📁 第三方工具 </fx>](#-第三方工具)
+            - [<fx> 📁 其他 </fx>](#-其他)
+    - [<fx> 📁 刊物 / 专栏 </fx>](#-刊物--专栏)
 - [<fx> 💬 东方 / ACG 论坛 </fx>](#-东方--acg-论坛)
-    - [<fx> 时泪 </fx>](#时泪)
-    - [<fx> 综合 ACG </fx>](#综合-acg-1)
+    - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用-1)
+    - [<fx> 📁 时泪 </fx>](#-时泪)
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
-    - [<fx> 随缘东方资源收录 </fx>](#随缘东方资源收录)
-    - [<fx> 网络安全 </fx>](#网络安全)
-        - [<fx> 网络代理（翻墙） </fx>](#网络代理翻墙)
-        - [<fx> 用于 Chrome 的隐私插件 </fx>](#用于-chrome-的隐私插件)
-        - [<fx> TOR\](洋葱网络) </fx>](#tor洋葱网络)
-    - [<fx> BT </fx>](#bt)
-        - [<fx> 动画BT资源 </fx>](#动画bt资源)
-        - [<fx> 影视 </fx>](#影视)
-        - [<fx> 字幕 </fx>](#字幕)<fx>
-        - [<fx> 电子书 </fx>](#电子书)
-    - [<fx> RSS </fx>](#rss)
-        - [<fx> 客户端 / 工具 </fx>](#客户端--工具)
-    - [<fx> 浏览器插件 </fx>](#浏览器插件)
-        - [<fx> 其他自用脚本 </fx>](#其他自用脚本)
+    - [<fx> 📁 东方资源收录 </fx>](#-东方资源收录)
+    - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
+        - [<fx> 📁 综合资源 </fx>](#-综合资源)
+        - [<fx> 📁 动画资源 </fx>](#-动画资源)
+        - [<fx> 📁 字幕 </fx>](#-字幕)
+        - [<fx> 📁 电子书 </fx>](#-电子书)
+            - [<fx> 📁 Z-Library </fx>](#-z-library)
+    - [<fx> 📁 网络安全 </fx>](#-网络安全)
+        - [<fx> 📁 网络代理 </fx>](#-网络代理)
+        - [<fx> 📁 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
+        - [<fx> 📁 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
+    - [<fx> 📁 实用浏览器插件 </fx>](#-实用浏览器插件)
+        - [<fx> TamperMonkey (油猴) </fx>](#tampermonkey-油猴)
+        - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
+    - [<fx> 📁 涩涩 </fx>](#-涩涩)
 - [<fx> 💭 Blog </fx>](#-blog)
-    - [<fx> 班固米优质用户日志 </fx>](#班固米优质用户日志)
 - [<fx> 👀 好玩的小东西 </fx>](#-好玩的小东西)
 
 ------
