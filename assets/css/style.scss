@@ -473,7 +473,7 @@ a fx gfw:hover {
 }
 
 a fx gfw:hover {
-    text-shadow: 10px 10px #dd4a;
+    text-shadow: 10px 10px #dd46;
 }
 
 p a fx {
@@ -656,8 +656,8 @@ gb::before {
 }
 
 p:hover jp::before, p:hover gb::before {
-    transition: 0ms 0ms;
-    left: 0.3rem !important;
+    transition: 0ms 0ms !important;
+    left: 0.4rem !important;
     filter: drop-shadow(10px 10px #44da)
 }
 
