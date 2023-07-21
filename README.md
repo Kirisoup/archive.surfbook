@@ -19,9 +19,11 @@
 ><note> </note>
 >
 > 收藏总数：154
-> 
+>  
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
 > 最近更新：2023/07/21 
+
+`test`
 
 ------
 
@@ -29,31 +31,31 @@
 
 - [<fx> ⭐ 东方常用 </fx>](#-东方常用)
 - [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
-    - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用)
-        - [<fx> 📁 动画评分排名 </fx>](#-动画评分排名)
-            - [<fx> 📁 班固米 </fx>](#-班固米)
-                - [<fx> 📁 第三方工具 </fx>](#-第三方工具)
-            - [<fx> 📁 其他 </fx>](#-其他)
-    - [<fx> 📁 刊物 / 专栏 </fx>](#-刊物--专栏)
+    - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用)
+        - [<fx> 动画评分排名 </fx>](#-动画评分排名)
+            - [<fx> 班固米 </fx>](#-班固米)
+                - [<fx> 第三方工具 </fx>](#-第三方工具)
+            - [<fx> 其他 </fx>](#-其他)
+    - [<fx> 刊物 / 专栏 </fx>](#-刊物--专栏)
 - [<fx> 💬 东方 / ACG 论坛 </fx>](#-东方--acg-论坛)
-    - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用-1)
-    - [<fx> 📁 时泪 </fx>](#-时泪)
+    - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用-1)
+    - [<fx> 时泪 </fx>](#-时泪)
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
-    - [<fx> 📁 东方资源收录 </fx>](#-东方资源收录)
-    - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
-        - [<fx> 📁 综合资源 </fx>](#-综合资源)
-        - [<fx> 📁 动画资源 </fx>](#-动画资源)
-        - [<fx> 📁 字幕 </fx>](#-字幕)
-        - [<fx> 📁 电子书 </fx>](#-电子书)
-            - [<fx> 📁 Z-Library </fx>](#-z-library)
-    - [<fx> 📁 网络安全 </fx>](#-网络安全)
-        - [<fx> 📁 网络代理 </fx>](#-网络代理)
-        - [<fx> 📁 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
-        - [<fx> 📁 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
-    - [<fx> 📁 实用浏览器插件 </fx>](#-实用浏览器插件)
-        - [<fx> TamperMonkey (油猴) </fx>](#tampermonkey-油猴)
-        - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
-    - [<fx> 📁 涩涩 </fx>](#-涩涩)
+    - [<fx> 东方资源收录 </fx>](#-东方资源收录)
+    - [<fx> BT (磁力) </fx>](#-bt-磁力)
+        - [<fx> 综合资源 </fx>](#-综合资源)
+        - [<fx> 动画资源 </fx>](#-动画资源)
+        - [<fx> 字幕 </fx>](#-字幕)
+        - [<fx> 电子书 </fx>](#-电子书)
+            - [<fx> Z-Library </fx>](#-z-library)
+    - [<fx> 网络安全 </fx>](#-网络安全)
+        - [<fx> 网络代理 </fx>](#-网络代理)
+        - [<fx> 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
+        - [<fx> TOR (洋葱网络) </fx>](#-tor-洋葱网络)
+    - [<fx> 实用浏览器插件 </fx>](#-实用浏览器插件)
+        - [<fx> TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
+        - [<fx> 其他自用脚本 </fx>](#-其他自用脚本)
+    - [<fx> 涩涩 </fx>](#-涩涩)
 - [<fx> 💭 Blog </fx>](#-blog)
 - [<fx> 👀 好玩的小东西 </fx>](#-好玩的小东西)
 
@@ -375,7 +377,7 @@
 >>
 >> [<fx> Wayback Machine - 网络的记忆 </fx>](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
 >>
->> ### TamperMonkey (油猴)
+>> ### 📁 TamperMonkey (油猴)
 >>
 >> [<fx> Tampermonkey - 用户脚本加载 </fx>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 >>
