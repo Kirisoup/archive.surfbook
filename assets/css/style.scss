@@ -113,7 +113,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main blockquote:has(> note) {
@@ -122,7 +122,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.9;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main a {
@@ -131,7 +131,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.1) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main h1,
@@ -320,6 +320,11 @@ hr {
 
 .site-footer {
     border-image: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) 1 !important;
+}
+
+blockquote hr {    
+    border-width: 0.15rem !important;
+    background: #CCDAFF63 !important;
 }
 
 /* Head line */
