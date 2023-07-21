@@ -634,7 +634,7 @@ jp, gb {
 }
 
 jp::before, gb::before {
-    transition: 350ms 100ms;
+    transition: 300ms 0ms !important;
     content: "";
     position: fixed;
     top: auto;
@@ -657,7 +657,7 @@ gb::before {
 
 p:hover jp::before, p:hover gb::before {
     transition: 0ms 0ms;
-    left: 0.4rem;
+    left: 0.3rem !important;
     filter: drop-shadow(10px 10px #44da)
 }
 
