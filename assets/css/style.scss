@@ -631,6 +631,8 @@ code {
     line-height: normal !important;
 }
 
+/* flags */
+
 jp, gb {
     display: inline-block;
     position: relative;
@@ -664,6 +666,15 @@ p:hover jp::before, p:hover gb::before {
     transition: 0ms 0ms !important;
     left: 0.4rem !important;
     filter: drop-shadow(10px 10px #44da)
+}
+
+/* image */
+
+img {
+    max-width: 80% !important;
+    position: relative;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
 }
 
 @import "{{ site.theme }}";
