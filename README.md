@@ -8,11 +8,37 @@
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
 > - (￣∇￣) [私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
-> - 加入群聊一起吹水~ （[⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)；[🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)）
+> - 加入群聊一起吹水~ （见[友链](#友链)）
 > 
 > 若你的浏览器不支持某些 css 特性导致丧失可读性，或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 > 
 > <note> </note>
+
+------
+
+## 友链
+
+> [⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)
+>
+> >一个崭新的车万群
+> > 
+> > 我们希望能共同维护一个纯粹友爱的环境，让所有热爱东方的人都能愉悦舒适地聊天讨论
+> > 
+> > 很高兴认识你
+> >
+> > <note> </note>
+> 
+>  [🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)
+>
+> > 露米娅归来！看博丽神社正在土崩瓦解，妖怪们出头之日已经到来！
+> >
+> > <note> </note>
+>
+> [🚃 幻想乡铁道乘车指南](https://guide.dreammatrix.cc/)
+>
+> > 此项目立志于为初入幻想乡的新人打造一本快速指南，让每个人都能快速、简洁的了解幻想乡
+> >
+> > <note> </note>
 
 ------
 
@@ -116,9 +142,17 @@
 
 [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
+> 详细介绍参见[前文](#--东方吧维基-)
+
 [<fx> <gb></gb> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 
+> 东方英文资料，主要用途应该是用来确定各种名称名词的翻译吧。
+> 
+> 对汉化组应该很有用
+
 [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
+
+>
 
 [<fx> <jp></jp> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 
