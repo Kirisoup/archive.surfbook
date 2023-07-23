@@ -67,7 +67,7 @@
 > >
 > > 最好的中文东方维基
 > > 
-> > ![thb](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'">
 > 
 > ---
 > 
@@ -77,16 +77,16 @@
 > >
 > > 非常好东方论坛
 > > 
-> > ![nyasama](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'">
 >
 > ---
-> ## <img class="ico" src="https://store.steampowered.com/favicon.ico_THISISERROR" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
+> ## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 > 
 > > <note> </note>
 > >
 > > 东方正作射击游戏正版购买
 > > 
-> > ![steam](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'">
 >
 > ---
 > 
@@ -96,7 +96,7 @@
 > >
 > > 正作游戏资源下载站（条件允许的话还请尽量于 Steam 购买正版）
 > > 
-> > ![lilycloud](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'">
 >
 > ---
 > 
@@ -106,7 +106,7 @@
 > >
 > > 不动的东方视频创作档案馆
 > > 
-> > ![patchyv](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'">
 > 
 > ---
 > 
@@ -116,7 +116,7 @@
 > >
 > > 成为弹幕大触之路上的不二之选
 > > 
-> > ![isndes](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png)
+> > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'">
 >
 > ---
 > 
