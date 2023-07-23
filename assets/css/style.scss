@@ -15,13 +15,11 @@ body {
     line-height: 1 !important;
 }
 
-.variable {
-    --weirdly-complicated-transition: scale 700ms, opacity 700ms,
-    color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-    filter 200ms 600ms !important;
+main {
+    position: relative !important;
+    min-width: 15rem !important;
+    margin-inline: auto !important;
 }
-
-
 
 @media screen and (orientation: landscape) {
     main {
@@ -113,7 +111,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main blockquote:has(> note) {
@@ -122,7 +120,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.9;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main a {
@@ -131,7 +129,7 @@ body {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main h1,
@@ -520,6 +518,7 @@ blockquote:has(> note) {
     transition-delay: 100ms;
     transition-duration: 400ms;
     display: block;
+    min-width: 10rem !important;
     margin-bottom: 1rem;
     margin-top: 0;
     margin-right: 0;
@@ -668,6 +667,21 @@ p:hover jp::before, p:hover gb::before {
     left: 0rem !important;
     height: 1.6rem;
     filter: drop-shadow(10px 10px #44da)
+}
+
+img {
+    transition-duration: 700ms;
+    position: relative;
+    min-width: 50vw !important; 
+    padding-inline: 1.5rem !important;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0.5;
+}
+
+img:hover {
+    transition-duration: 300ms;
+    opacity: 1;
 }
 
 @import "{{ site.theme }}";
