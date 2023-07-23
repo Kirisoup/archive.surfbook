@@ -518,7 +518,7 @@ blockquote:not(:has(> note)) {
     margin-right: -100vw !important;
 }
 
-main > blockquote {
+main > blockquote:not(:has(> note)) {
     padding-left: 0 !important;
 }
 
