@@ -339,7 +339,7 @@ hl {
     text-shadow: 10px 10px #44da;
 }
 
-blockquote h1 {
+blockquote blockquote h1 {
     margin-left: -2rem !important;
 }
 
@@ -394,12 +394,12 @@ blockquote h1 {
     text-shadow: 10px 10px #44da;
 }
 
-blockquote h1,
-blockquote h2,
-blockquote h3,
-blockquote h4,
-blockquote h5,
-blockquote h6 {
+blockquote blockquote h1,
+blockquote blockquote h2,
+blockquote blockquote h3,
+blockquote blockquote h4,
+blockquote blockquote h5,
+blockquote blockquote h6 {
     margin-left: -2rem !important;
 }
 
