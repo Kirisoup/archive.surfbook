@@ -518,6 +518,10 @@ blockquote:not(:has(> note)) {
     margin-right: -100vw !important;
 }
 
+main > blockquote {
+    padding-left: 0 !important;
+}
+
 /* blockquote note */
 note {
     visibility: hidden;
