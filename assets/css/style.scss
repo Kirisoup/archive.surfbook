@@ -105,13 +105,14 @@ main {
     main fx,
     main li,
     main span,
+    main hr,
     main gfw {
         transition: scale 700ms, opacity 700ms,
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main blockquote:has(> note) {
@@ -120,7 +121,12 @@ main {
         filter 200ms 600ms !important;
         scale: 0.9;
         opacity: 0.8 !important;
-        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
+    }
+    
+    main blockquote:has(> note) * {
+        filter: none !important;
+        scale: 1 !important;
     }
 
     main a {
@@ -129,11 +135,10 @@ main {
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
-        filter: contrast(0.5) sepia(1) hue-rotate(200deg) saturate(8);
+        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main h1,
-    main hr,
     main footer {
         transition: scale 700ms, opacity 700ms,
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
@@ -441,7 +446,6 @@ blockquote blockquote h6 {
 
 gfw {
     color: #dd4 !important;
-    display: block;
 }
 
 /* hyperlink */
@@ -563,63 +567,6 @@ main:hover blockquote:has(> note) {
 main:hover blockquote:hover:has(> note) {
     filter: none;
 }
-
-/*
-blockquote:has(> note) {
-    transition-delay: 100ms;
-    transition-duration: 400ms;
-    display: block;
-    min-width: 10rem !important;
-    margin-bottom: 1rem;
-    margin-top: 0;
-    margin-right: 0;
-    padding: 1rem;
-    padding-bottom: 1rem !important;
-    border-radius: 10px !important;
-    border: solid #CCDAFF63 3px !important;
-    line-height: normal !important;
-}
-
-blockquote:hover:has(> note) {
-    transition: scale 700ms !important;
-    transition-delay: 0ms;
-    transition-duration: 0ms;
-    border: solid #0000 3px !important;
-    scale: 1;
-}
-
-main:hover blockquote:has(> note) {
-    transition-duration: 700ms;
-    transition-property: filter;
-    transition-delay: 0ms !important;
-    scale: 0.95;
-    filter: none;
-}
-
-main:hover blockquote:hover:has(> note) {
-    scale: 1;
-    filter: none;
-}
-
-blockquote:has(> note)::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -100;
-    transition-duration: 700ms;
-    background: linear-gradient(90deg, #4444dd88, #19B2B277, #1dcc7466) !important;
-    border-radius: 10px !important;
-    opacity: 0;
-}
-
-blockquote:hover:has(> note)::before {
-    transition-duration: 0ms;
-    opacity: 1;
-}
-*/
 
 /* Highlight */
 pre.highlight {
