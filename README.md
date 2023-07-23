@@ -8,7 +8,7 @@
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
 > - (￣∇￣) [私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
-> - 加入群聊一起吹水~ （见[友链](#友链)）
+> - 加入群聊一起吹水~ （见[友链](#-友链)）
 > 
 > 若你的浏览器不支持某些 css 特性导致丧失可读性，或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 > 
@@ -16,9 +16,9 @@
 
 ------
 
-## 友链
+## 🎉 友链
 
-[⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)
+[<fx> ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)
 
 >一个崭新的车万群
 > 
@@ -28,13 +28,13 @@
 >
 > <note> </note>
 
- [🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)
+[<fx> 🌙 滇南アリス幻樂団 </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)
 
 > 露米娅归来！看博丽神社正在土崩瓦解，妖怪们出头之日已经到来！
 >
 > <note> </note>
 
-[🚃 幻想乡铁道乘车指南](https://guide.dreammatrix.cc/)
+[<fx> 🚃 幻想乡铁道乘车指南 </fx>](https://guide.dreammatrix.cc/)
 
 > 此项目立志于为初入幻想乡的新人打造一本快速指南，让每个人都能快速、简洁的了解幻想乡
 >
@@ -53,7 +53,7 @@
 
 ## 📑 目录
 
-- [<fx> ⭐ 东方常用 </fx>](#-东方常用)
+- [<fx> ⭐ 东方常用 </fx>](#--东方常用)
 - [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
     - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用)
         - [<fx> 动画评分排名 </fx>](#-动画评分排名)
@@ -143,28 +143,65 @@
 [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
 > 详细介绍参见[前文](#--东方吧维基-)
+>
+> <note> </note>
 
 [<fx> <gb></gb> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 
-> 东方英文资料，主要用途应该是用来确定各种名称名词的翻译吧。
+> 东方英文资料，主要用途应该是用来确定各种名称名词的翻译吧
 > 
 > 对汉化组应该很有用
+>
+> <note> </note>
 
 [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 
+> 一年一度的东方角色人气投票！
 >
+> 不要被大势所束缚，为心中的本命投票吧！
+>
+> <note> </note>
 
 [<fx> <jp></jp> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 
+> 刊载了有关东方Project官方及非官方相关的不同内容的杂志式东方Project官方网络媒体平台
+> 
+> 网站含中、日、英，及韩语，但日语以外的似乎比较欠维护
+
+> 
+
 [<fx> <gfw> <jp></jp> 日文东方Project人气投票 </gfw> </fx>](https://toho-vote.info/)
+
+> 日本的东方人气投票！
+>
+> <note> </note>
+
 
 [<fx> <gfw> <jp></jp> 东方四方山新闻 </gfw> </fx>](https://touhou-project.news/)
 
+> 由ZUN授权和监修的东方官方及授权二次创作新闻站
+>
+> <note> </note>
+
 [<fx> <gfw> <jp></jp> 東方編曲録 </gfw> </fx>](https://touhou.arrangement-chronicle.com/)
+
+> 东方同人曲档案馆
+>
+> <note> </note>
 
 [<fx> 英文东方圈术语对照表 </fx>](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 
+> 想参与英文东方圈的话会非常实用
+>
+> <note> </note>
+
 [<fx> 东方同人动画（班固米） </fx>](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
+
+> 班固米上面东方同人动画有关的条目
+>
+> 关于班固米详见[此处](#-班固米)
+>
+> <note> </note>
 
 > ## 📁 一般 ACG 用
 > 
