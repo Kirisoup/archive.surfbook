@@ -697,7 +697,7 @@ img:not(.ico) {
     opacity: 0.5;
 }
 
-img:not(.ico):hover {
+img:not(.ico):hover, blockquote:hover img:not(.ico) {
     transition-duration: 300ms;
     opacity: 1;
 }
