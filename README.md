@@ -167,8 +167,8 @@
 > 刊载了有关东方Project官方及非官方相关的不同内容的杂志式东方Project官方网络媒体平台
 > 
 > 网站含中、日、英，及韩语，但日语以外的似乎比较欠维护
-
-> 
+>
+> <note> </note>
 
 [<fx> <gfw> <jp></jp> 日文东方Project人气投票 </gfw> </fx>](https://toho-vote.info/)
 
