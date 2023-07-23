@@ -1,5 +1,3 @@
-> <note> </note>
-> 
 > 使用[目录](#目录)快速跳转到对应分类吧~
 > 
 > <gfw> 黄色标题代表网站被 GFW 封禁了，需使用特殊工具访问 :| </gfw>
@@ -13,19 +11,21 @@
 > - 加入群聊一起吹水~ （[⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)；[🌙 滇南アリス幻樂団](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)）
 > 
 > 若你的浏览器不支持某些 css 特性导致丧失可读性，或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
+> 
+> <note> </note>
 
 ------
 
-> <note> </note>
-> 
 > 收藏总数：154
 >  
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
 > 最近更新：2023/07/21 
+> 
+> <note> </note>
 
 ------
 
- ## 📑 目录
+## 📑 目录
 
 - [<fx> ⭐ 东方常用 </fx>](#-东方常用)
 - [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
@@ -35,7 +35,7 @@
                 - [<fx> 第三方工具 </fx>](#-第三方工具)
             - [<fx> 其他 </fx>](#-其他)
     - [<fx> 刊物 / 专栏 </fx>](#-刊物--专栏)
-- [<fx> 💬 东方 / ACG 论坛 </fx>](#-论坛)
+- [<fx> 💬 论坛 </fx>](#-论坛)
     - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用-1)
     - [<fx> 时泪 </fx>](#-时泪)
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
@@ -63,51 +63,51 @@
 
 ## <img class="ico" src="https://static.thwiki.cc/favicon.ico" width = 20> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
-> <note> </note>
->
 > 最好的中文东方维基
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'">
+> 
+> <note> </note>
 
 ## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" width = 20> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 
-> <note> </note>
->
 > 非常好东方论坛
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'">
+> 
+> <note> </note>
 
 ## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 
-> <note> </note>
->
 > 东方正作射击游戏正版购买
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'">
+> 
+> <note> </note>
 
 ## <img class="ico" src="https://thdog.moe/favicon.ico" width = 20> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 
-> <note> </note>
->
 > 正作游戏资源下载站（条件允许的话还请尽量于 Steam 购买正版）
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'">
+> 
+> <note> </note>
 
 ## <img class="ico" src="https://www.patchyvideo.com/favicon.png" width = 20>  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 
-> <note> </note>
->
 > 不动的东方视频创作档案馆
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'">
+> 
+> <note> </note>
 
 ## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="original not found" width = 20> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 
-> <note> </note>
->
 > 成为弹幕大触之路上的不二之选
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'">
+> 
+> <note> </note>
 
 
 ------
