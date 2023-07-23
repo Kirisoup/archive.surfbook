@@ -632,11 +632,15 @@ code {
 
 /* flags */
 
-jp, gb, ico {
+jp, gb {
     display: inline-block;
     position: relative;
     width: 1.2rem;
     height: 1.25rem;
+}
+
+.ico {
+    height: 1rem !important;
 }
 
 jp::before, gb::before {
@@ -669,7 +673,7 @@ p:hover jp::before, p:hover gb::before {
     filter: drop-shadow(10px 10px #44da)
 }
 
-img {
+img:not(.ico) {
     transition-duration: 700ms;
     position: relative;
     min-width: 50vw !important; 
@@ -679,7 +683,7 @@ img {
     opacity: 0.5;
 }
 
-img:hover {
+img:not(.ico):hover {
     transition-duration: 300ms;
     opacity: 1;
 }
