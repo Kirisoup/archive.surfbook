@@ -80,7 +80,7 @@
 > > ![nyasama](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png)
 >
 > ---
-> ## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
+> ## <img class="ico" src="https://store.steampowered.com/favicon.ico_THISISERROR" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 > 
 > > <note> </note>
 > >
