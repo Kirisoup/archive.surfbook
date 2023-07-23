@@ -61,7 +61,7 @@
 
 > # ⭐ 东方常用
 > 
-> ## [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
+> ## <img class="ico" src="https://static.thwiki.cc/favicon.ico"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
 > > <note> </note>
 > >
@@ -71,7 +71,7 @@
 > 
 > ---
 > 
-> ## [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
+> ## <img class="ico" src="https://bbs.nyasama.com/favicon.ico"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 > 
 > > <note> </note>
 > >
@@ -80,7 +80,7 @@
 > > ![nyasama](https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png)
 >
 > ---
-> ## [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
+> ## <img class="ico" src="https://store.steampowered.com/favicon.ico"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 > 
 > > <note> </note>
 > >
@@ -90,7 +90,7 @@
 >
 > ---
 > 
-> ## [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
+> ## <img class="ico" src="https://thdog.moe/favicon.ico"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 >
 > > <note> </note>
 > >
@@ -100,7 +100,7 @@
 >
 > ---
 > 
-> ## [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
+> ## <img class="ico" src="https://www.patchyvideo.com/favicon.png"> [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 > 
 > > <note> </note>
 > >
@@ -110,7 +110,7 @@
 > 
 > ---
 > 
-> ## [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
+> ## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="not not the actual!!"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 >
 > > <note> </note>
 > >
