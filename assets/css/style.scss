@@ -439,7 +439,7 @@ gfw {
 /* hyperlink */
 a {
     color: #87B6CC !important;
-    text-decoration: unset !important;
+    text-decoration: underline;
 }
 
 a:hover {
@@ -472,6 +472,7 @@ a fx gfw:hover {
     color: #fff !important;
     font-weight: bold;
     letter-spacing: 2px;
+    text-decoration: none !important;
     text-shadow: 10px 10px #44da;
 }
 
@@ -639,17 +640,12 @@ jp, gb {
     height: 1.25rem;
 }
 
-.ico {
-    height: 1rem !important;
-}
-
 jp::before, gb::before {
     transition: 500ms 100ms !important;
     content: "";
     position: fixed;
     top: 50%;
     right: 0;
-    bottom: unset; /**/
     left: 0;
     transform: translateY(-50%) !important;
     z-index: 0;
@@ -668,9 +664,15 @@ gb::before {
 
 p:hover jp::before, p:hover gb::before {
     transition: 0ms 0ms !important;
-    left: 0rem !important;
     height: 1.6rem;
     filter: drop-shadow(10px 10px #44da)
+}
+
+.ico {
+    position: relative !important;
+    height: 1.5rem !important;
+    
+    top: .25rem
 }
 
 img:not(.ico) {
