@@ -17,7 +17,7 @@ body {
 
 main {
     position: relative !important;
-    min-width: 15rem !important;
+    min-width: 60vw !important;
     margin-inline: auto !important;
 }
 
@@ -441,6 +441,7 @@ blockquote blockquote h6 {
 
 gfw {
     color: #dd4 !important;
+    display: block;
 }
 
 /* hyperlink */
