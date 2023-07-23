@@ -25,7 +25,7 @@
 
 ------
 
-> ## 📑 目录
+ ## 📑 目录
 
 - [<fx> ⭐ 东方常用 </fx>](#-东方常用)
 - [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
@@ -59,7 +59,7 @@
 
 ------
 
-> # ⭐ 东方常用
+# ⭐ 东方常用
 > 
 > ## <img class="ico" src="https://static.thwiki.cc/favicon.ico"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
@@ -123,7 +123,7 @@
 
 ------
 
-> # 🔎 维基 / 咨询 / 刊物
+# 🔎 维基 / 咨询 / 刊物
 > 
 > [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 >
@@ -203,7 +203,7 @@
 
 ------
 
-> # 💬 东方 / ACG 论坛
+# 💬 东方 / ACG 论坛
 > 
 > [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/)
 > 
@@ -259,7 +259,7 @@
 
 ------
 
-> # 🔑 工具 / 资源
+# 🔑 工具 / 资源
 > 
 > [<fx> thtk - 东方拆包工具 </fx>](https://github.com/thpatch/thtk)
 > 
@@ -466,7 +466,7 @@
 
 ------
 
-> # 💭 Blog
+# 💭 Blog
 > 
 > [<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
 > 
@@ -488,7 +488,7 @@
 
 ------
 
-> # 👀 好玩的小东西
+# 👀 好玩的小东西
 > 
 > [<fx> THFM - 随机原曲电台 </fx>](https://ximin.top/thfm/)
 > 
