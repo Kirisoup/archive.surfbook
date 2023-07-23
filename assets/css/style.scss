@@ -512,7 +512,7 @@ blockquote {
     padding-bottom: 0rem !important;
 }
 
-blockquote:not(:has(note)) {
+blockquote:not(:has(> note)) {
     padding-left: 2rem !important;
     padding-right: 100vw !important;
     margin-right: -100vw !important;
@@ -682,8 +682,7 @@ p:hover jp::before, p:hover gb::before {
 
 .ico {
     position: relative !important;
-    height: 1.5rem !important;
-    
+    width: 1.5rem !important;
     top: .25rem
 }
 
@@ -697,7 +696,7 @@ img:not(.ico) {
     opacity: 0.5;
 }
 
-img:not(.ico):hover, blockquote:has(> note):hover > img:not(.ico) {
+img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
     transition-duration: 300ms;
     opacity: 1;
 }
