@@ -69,8 +69,6 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'">
 
----
-
 ## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" width = 20> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 
 > <note> </note>
@@ -79,7 +77,6 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'">
 
----
 ## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 
 > <note> </note>
@@ -87,8 +84,6 @@
 > 东方正作射击游戏正版购买
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'">
-
----
 
 ## <img class="ico" src="https://thdog.moe/favicon.ico" width = 20> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 
@@ -98,8 +93,6 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'">
 
----
-
 ## <img class="ico" src="https://www.patchyvideo.com/favicon.png" width = 20>  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 
 > <note> </note>
@@ -108,8 +101,6 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'">
 
----
-
 ## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="original not found" width = 20> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 
 > <note> </note>
@@ -117,8 +108,6 @@
 > 成为弹幕大触之路上的不二之选
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'">
-
----
 
 
 ------
