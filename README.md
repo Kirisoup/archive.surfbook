@@ -53,36 +53,35 @@
 
 ## 📑 目录
 
-- [<fx> ⭐ 东方常用 </fx>](#--东方常用)
-- [<fx> 🔎 维基 / 咨询 / 刊物 </fx>](#-维基--咨询--刊物)
-    - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用)
-        - [<fx> 动画评分排名 </fx>](#-动画评分排名)
-            - [<fx> 班固米 </fx>](#-班固米)
-                - [<fx> 第三方工具 </fx>](#-第三方工具)
-            - [<fx> 其他 </fx>](#-其他)
-    - [<fx> 刊物 / 专栏 </fx>](#-刊物--专栏)
+- [<fx> ⭐ 东方常用 </fx>](#-东方常用)
+- [<fx> 🔎 维基 / 咨询 </fx>](#-维基--咨询)
+  - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用)
+    - [<fx> 📁 动画评分排名 </fx>](#-动画评分排名)
+      - [<fx> 📁 班固米 </fx>](#-班固米)
+        - [<fx> 📁 第三方工具 </fx>](#-第三方工具)
+      - [<fx> 📁 动画排名 </fx>](#-动画排名)
+- [<fx> 📁 刊物 / 专栏 </fx>](#-刊物--专栏)
 - [<fx> 💬 论坛 </fx>](#-论坛)
-    - [<fx> 一般 ACG 用 </fx>](#-一般-acg-用-1)
-    - [<fx> 时泪 </fx>](#-时泪)
+  - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用-1)
+  - [<fx> 📁 时泪 </fx>](#-时泪)
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
-    - [<fx> 东方资源收录 </fx>](#-东方资源收录)
-    - [<fx> BT (磁力) </fx>](#-bt-磁力)
-        - [<fx> 综合资源 </fx>](#-综合资源)
-        - [<fx> 动画资源 </fx>](#-动画资源)
-        - [<fx> 字幕 </fx>](#-字幕)
-        - [<fx> 电子书 </fx>](#-电子书)
-            - [<fx> Z-Library </fx>](#-z-library)
-    - [<fx> 网络安全 </fx>](#-网络安全)
-        - [<fx> 网络代理 </fx>](#-网络代理)
-        - [<fx> 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
-        - [<fx> TOR (洋葱网络) </fx>](#-tor-洋葱网络)
-    - [<fx> 实用浏览器插件 </fx>](#-实用浏览器插件)
-        - [<fx> TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
-        - [<fx> 其他自用脚本 </fx>](#-其他自用脚本)
-    - [<fx> 涩涩 </fx>](#-涩涩)
+  - [<fx> 📁 东方资源收录 </fx>](#-东方资源收录)
+  - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
+    - [<fx> 📁 综合资源 </fx>](#-综合资源)
+    - [<fx> 📁 动画资源 </fx>](#-动画资源)
+    - [<fx> 📁 字幕 </fx>](#-字幕)
+    - [<fx> 📁 电子书 </fx>](#-电子书)
+      - [<fx> 📁 Z-Library </fx>](#-z-library)
+  - [<fx> 📁 网络安全 </fx>](#-网络安全)
+    - [<fx> 📁 网络代理 </fx>](#-网络代理)
+    - [<fx> 📁 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
+    - [<fx> 📁 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
+  - [<fx> 📁 实用浏览器插件 </fx>](#-实用浏览器插件)
+    - [<fx> 📁 TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
+    - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
+  - [<fx> 📁 涩涩 </fx>](#-涩涩)
 - [<fx> 💭 Blog </fx>](#-blog)
 - [<fx> 👀 好玩的小东西 </fx>](#-好玩的小东西)
-
 ------
 
 # ⭐ 东方常用
@@ -138,11 +137,11 @@
 
 ------
 
-# 🔎 维基 / 咨询 / 刊物
+# 🔎 维基 / 咨询
 
 [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
-> 详细介绍参见[前文](#--东方吧维基-)
+> 见[上文](#--东方吧维基-)
 >
 > <note> </note>
 
@@ -206,56 +205,161 @@
 > ## 📁 一般 ACG 用
 > 
 > [<fx> 萌娘百科（经典镜像站） </fx>](https://moegirl.uk/)
+>
+> > 国内最常用的 ACG 维基
+> > 
+> > 注：萌娘百科之前大改了界面，导致浏览体验大幅下降。上面的链接为恢复经典界面的镜像网站，点此进入[萌百官方网站](https://zh.moegirl.org.cn)
+> > 
+> > <note> </note>
 > 
 > [<fx> Hpoi 手办维基 </fx>](https://www.hpoi.net/)
 > 
+> > 以手办、模型为主要内容的动漫周边资料协力编辑网站
+> >
+> > <note> </note>
+> 
 > [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
+>
+> > 非常好新番咨询 
+> >
+> > <note> </note>
 > 
 > [<fx> <gb></gb> SakugaBooru </fx>](https://sakugabooru.com/)
+>
+> > 动画作画卡档案馆
+> >
+> > <note> </note>
 > 
 > [<fx> <gfw> 糟糕岛维基 </gfw> </fx>](https://yuki.komica.org/)
+>
+> > 台湾匿名论坛 Komica（糟糕岛）的维基，可以当作台湾的萌娘百科使用
+> >
+> > <note> </note>
 > 
 > [<fx> <gfw> H萌娘 </gfw> </fx>](https://hmoegirl.info/)
+>
+> > 从萌百分裂出来的维基，主要用以收录不适合在萌百展示的内容（NSFW）
+> >
+> > <note> </note>
 > 
-> [<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=op)
+> [<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN)
+>
+> > 黄油评论测评（NSFW）
+> >
+> > 注：本网站的原始网址使用极其严格的ip过滤措施，日本以外的ip基本上不可能访问，上方链接使用谷歌网页翻译功能使得任何ip都能正常访问。
+> > 
+> > [点此访问网站原始链接](http://erogamescape.dyndns.org/)
+> >
+> > 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
+> >
+> > <note> </note>
 > 
 > [<fx> <gfw> <jp></jp> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
+>
+> > 日本的ACG百科，特别是对于了解以N站为中心的亚文化十分有用
+> >
+> > <note> </note>
 > 
 > [<fx> <gfw> <jp></jp> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
+>
+> > 日本的ACG百科，在特定角色的同人创作上有时会有很有意思的信息
+> > 
+> > <gb></gb> [英文版](https://dic.pixiv.net/en/)
+> >
+> > <note> </note>
 > 
 > [<fx> <gfw> <gb></gb> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
+>
+> > 欧美网络meme与潮流百科
+> >
+> > <note> </note>
+>
+> [<fx> <gfw> <gb></gb> Urban Dictionary </gfw> </fx>](https://www.urbandictionary.com/)
+>
+> > 英文网络用语词典
+> >
+> > <note> </note>
 > 
 > >  ### 📁 动画评分排名
 > > 
 > > > #### 📁 班固米
+> > >
 > > > 
 > > > [<fx> 班固米 Bangumi TV </fx>](https://bgm.tv/)
 > > > 
-> > > > ##### 📁 第三方工具
+> > > > 或许是华语最权威动画评分网站
+> > > > 
+> > > > 除了评分的主要功能外，动画wiki条目，讨论，用户日志中都有很多有用、有意思的内容
+> > > > 
+> > > > 拥有很纯粹的社区氛围和意外很活跃的用户群体（比如说极其丰富的第三方工具）
 > > > >
-> > > > [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
+> > > > <note> </note>
+> > > 
+> > > > ##### 📁 第三方工具
 > > > >
 > > > > [<fx> 班固米 - 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
 > > > >
+> > > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
+> > > > > 
+> > > > > <note> </note>
+> > > >
+> > > > [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
+> > > >
+> > > > > 比班固米原生的动画评分排名更加“科学”的排名系统
+> > > > > 
+> > > > > <note> </note>
+> > > >
 > > > > [<fx> 班固米 - 评分趋势 </fx>](https://netaba.re/)
+> > > > 
+> > > > > 动画的历史评分走向
+> > > > > 
+> > > > > <note> </note>
 > > > >
 > > > > [<fx> 班固米 - 标签搜索 </fx>](https://chii.ai/search)
+> > > >
+> > > > > 对动画条目进行多标签搜索
+> > > > > 
+> > > > > <note> </note>
+> > 
+> > [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
+> >  
+> > > 11区的动画评分
 > > > 
-> > > #### 📁 其他
+> > > <note> </note>
+> >
+> > [<fx> <gb></gb> AniDB </fx>](https://anidb.net/)
+> > 
+> > > 欧美的动画评分
+> > >
+> > > 面向欧美的动画评分站其实还有My Anime List，但水分太高故不在此推荐。
 > > > 
-> > > [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642)
+> > > <note> </note>
+> >
+> > > #### 📁 动画排名
 > > > 
 > > > [<fx> S1漫区投票统计 </fx>](http://s1vote.com/)
 > > > 
-> > > [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
+> > > > 华语动画婆罗门的动画排名x
+> > > > 
+> > > > <note> </note>
 > > > 
-> > > [<fx> <gb></gb> AniDB </fx>](https://anidb.net/)
+> > > [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642)
+> > > 
+> > > > 口味可能更加偏向一般动画爱好者
+> > > > 
+> > > > <note> </note>
 
-> ## 📁 刊物 / 专栏
-> 
-> [<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
-> 
-> [<fx> 炎上书屋 </fx>](https://firebook.store/books)
+------
+
+# 📁 刊物 / 专栏
+
+> 欠缺相关内容 0.0
+>
+> <note> </note>
+
+[<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
+
+[<fx> 炎上书屋 </fx>](https://firebook.store/books)
 
 ------
 
