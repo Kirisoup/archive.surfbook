@@ -14,7 +14,7 @@
 >
 > > 关于火狐：火狐缺乏对一个本网站目前高度依赖的css特性的支持，即 :has() pseudo，加上其他一些与 chromium 等浏览器不一致的特性，导致对火狐的完全适配超越了我的能力范围。所幸目前起码是保障了可读性，但是体验可能不如其他浏览器。Sorry Firefox lovers.
 > 
-> <note> </note>
+> <note></note>
 
 ------
 
@@ -28,19 +28,19 @@
 > 
 > 很高兴认识你
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 🌙 滇南アリス幻樂団 </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)
 
 > 露米娅归来！看博丽神社正在土崩瓦解，妖怪们出头之日已经到来！
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 🚃 幻想乡铁道乘车指南 </fx>](https://guide.dreammatrix.cc/)
 
 > 此项目立志于为初入幻想乡的新人打造一本快速指南，让每个人都能快速、简洁的了解幻想乡
 >
-> <note> </note>
+> <note></note>
 
 ------
 
@@ -49,7 +49,7 @@
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
 > 最近更新：2023/07/21 
 > 
-> <note> </note>
+> <note></note>
 
 ------
 
@@ -66,6 +66,8 @@
 - [<fx> 💬 论坛 </fx>](#-论坛)
   - [<fx> 📁 一般 ACG 用 </fx>](#-一般-acg-用-1)
   - [<fx> 📁 时泪 </fx>](#-时泪)
+- [<fx> 💭 Blog </fx>](#-博客)
+- [<fx> 👀 趣味 </fx>](#-趣味)
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
   - [<fx> 📁 东方资源收录 </fx>](#-东方资源收录)
   - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
@@ -82,8 +84,7 @@
     - [<fx> 📁 TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
     - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
   - [<fx> 📁 涩涩 </fx>](#-涩涩)
-- [<fx> 💭 Blog </fx>](#-blog)
-- [<fx> 👀 好玩的小东西 </fx>](#-好玩的小东西)
+
 ------
 
 # ⭐ 东方常用
@@ -94,7 +95,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'">
 > 
-> <note> </note>
+> <note></note>
 
 ## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" width = 20> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 
@@ -102,7 +103,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'">
 > 
-> <note> </note>
+> <note></note>
 
 ## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 
@@ -110,7 +111,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'">
 > 
-> <note> </note>
+> <note></note>
 
 ## <img class="ico" src="https://thdog.moe/favicon.ico" width = 20> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 
@@ -118,7 +119,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'">
 > 
-> <note> </note>
+> <note></note>
 
 ## <img class="ico" src="https://www.patchyvideo.com/favicon.png" width = 20>  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 
@@ -126,7 +127,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'">
 > 
-> <note> </note>
+> <note></note>
 
 ## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="original not found" width = 20> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 
@@ -134,7 +135,7 @@
 > 
 > <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'">
 > 
-> <note> </note>
+> <note></note>
 
 
 ------
@@ -149,7 +150,7 @@
 
 > 见[上文](#--东方吧维基-)
 >
-> <note> </note>
+> <note></note>
 
 [<fx> <gb></gb> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki)
 
@@ -157,7 +158,7 @@
 > 
 > 对汉化组应该很有用
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
 
@@ -165,7 +166,7 @@
 >
 > 不要被大势所束缚，为心中的本命投票吧！
 >
-> <note> </note>
+> <note></note>
 
 [<fx> <jp></jp> 東方我楽多叢誌 </fx>](https://touhougarakuta.com/)
 
@@ -173,32 +174,32 @@
 > 
 > 网站含中、日、英，及韩语，但日语以外的似乎比较欠维护
 >
-> <note> </note>
+> <note></note>
 
 [<fx> <gfw> <jp></jp> 日文东方Project人气投票 </gfw> </fx>](https://toho-vote.info/)
 
 > 日本的东方人气投票！
 >
-> <note> </note>
+> <note></note>
 
 
 [<fx> <gfw> <jp></jp> 东方四方山新闻 </gfw> </fx>](https://touhou-project.news/)
 
 > 由ZUN授权和监修的东方官方及授权二次创作新闻站
 >
-> <note> </note>
+> <note></note>
 
 [<fx> <gfw> <jp></jp> 東方編曲録 </gfw> </fx>](https://touhou.arrangement-chronicle.com/)
 
 > 东方同人曲档案馆
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 英文东方圈术语对照表 </fx>](https://github.com/wasupandceacar/Touhou_Jargon_CN)
 
 > 想参与英文东方圈的话会非常实用
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 东方同人动画（班固米） </fx>](https://bgm.tv/anime/tag/%E4%B8%9C%E6%96%B9)
 
@@ -206,9 +207,9 @@
 >
 > 关于班固米详见[此处](#-班固米)
 >
-> <note> </note>
+> <note></note>
 
-> ## 📁 一般 ACG 用
+> ## 📁 通常 ACG
 > 
 > [<fx> 萌娘百科（经典镜像站） </fx>](https://moegirl.uk/)
 >
@@ -216,37 +217,37 @@
 > > 
 > > 注：萌娘百科之前大改了界面，导致浏览体验大幅下降。上面的链接为恢复经典界面的镜像网站，点此进入[萌百官方网站](https://zh.moegirl.org.cn)
 > > 
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> Hpoi 手办维基 </fx>](https://www.hpoi.net/)
 > 
 > > 以手办、模型为主要内容的动漫周边资料协力编辑网站
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> YuC 的动画列表 </fx>](https://yuc.wiki/)
 >
 > > 非常好新番咨询 
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gb></gb> SakugaBooru </fx>](https://sakugabooru.com/)
 >
 > > 动画作画卡档案馆
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> 糟糕岛维基 </gfw> </fx>](https://yuki.komica.org/)
 >
 > > 台湾匿名论坛 Komica（糟糕岛）的维基，可以当作台湾的萌娘百科使用
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> H萌娘 </gfw> </fx>](https://hmoegirl.info/)
 >
 > > 从萌百分裂出来的维基，主要用以收录不适合在萌百展示的内容（NSFW）
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN)
 >
@@ -258,13 +259,13 @@
 > >
 > > 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> <jp></jp> NicoNico 大百科 </gfw> </fx>](https://dic.nicovideo.jp/)
 >
 > > 日本的ACG百科，特别是对于了解以N站为中心的亚文化十分有用
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> <jp></jp> Pixiv 百科事典 </gfw> </fx>](https://dic.pixiv.net/)
 >
@@ -272,19 +273,19 @@
 > > 
 > > [英文版](https://dic.pixiv.net/en/)
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > [<fx> <gfw> <gb></gb> Know Your Meme </gfw> </fx>](https://knowyourmeme.com/)
 >
 > > 欧美网络meme与潮流百科
 > >
-> > <note> </note>
+> > <note></note>
 >
 > [<fx> <gfw> <gb></gb> Urban Dictionary </gfw> </fx>](https://www.urbandictionary.com/)
 >
 > > 英文网络用语词典
 > >
-> > <note> </note>
+> > <note></note>
 > 
 > > ### 📁 动画评分排名
 > > 
@@ -299,7 +300,7 @@
 > > > > 
 > > > > 拥有很纯粹的社区氛围和意外很活跃的用户群体（比如说极其丰富的第三方工具）
 > > > >
-> > > > <note> </note>
+> > > > <note></note>
 > > > 
 > > > > ##### 📁 第三方工具
 > > > >
@@ -307,31 +308,31 @@
 > > > >
 > > > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
 > > > > > 
-> > > > > <note> </note>
+> > > > > <note></note>
 > > > >
 > > > > [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
 > > > >
 > > > > > 比班固米原生的动画评分排名更加“科学”的排名系统
 > > > > > 
-> > > > > <note> </note>
+> > > > > <note></note>
 > > > >
 > > > > [<fx> 班固米 - 评分趋势 </fx>](https://netaba.re/)
 > > > > 
 > > > > > 动画的历史评分走向
 > > > > > 
-> > > > > <note> </note>
+> > > > > <note></note>
 > > > >
 > > > > [<fx> 班固米 - 标签搜索 </fx>](https://chii.ai/search)
 > > > >
 > > > > > 对动画条目进行多标签搜索
 > > > > > 
-> > > > > <note> </note>
+> > > > > <note></note>
 > > 
 > > [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
 > >  
 > > > 11区的动画评分
 > > > 
-> > > <note> </note>
+> > > <note></note>
 > >
 > > [<fx> <gb></gb> AniDB </fx>](https://anidb.net/)
 > > 
@@ -339,7 +340,7 @@
 > > >
 > > > 面向欧美的动画评分站其实还有My Anime List，但水分太高故不在此推荐。
 > > > 
-> > > <note> </note>
+> > > <note></note>
 > >
 > > > #### 📁 动画排名
 > > > 
@@ -347,13 +348,13 @@
 > > > 
 > > > > 华语动画婆罗门的动画排名x
 > > > > 
-> > > > <note> </note>
+> > > > <note></note>
 > > > 
 > > > [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642)
 > > > 
 > > > > 口味可能更加偏向一般动画爱好者
 > > > > 
-> > > > <note> </note>
+> > > > <note></note>
 
 ------
 
@@ -361,7 +362,7 @@
 
 > 欠缺相关内容 0.0
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
 
@@ -373,59 +374,201 @@
 
 > 真正人人平等的交流环境，互联网不再繁荣的那片净土
 >
-> <note> </note>
+> <note></note>
 
 [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/)
 
+> 见[上文](#--喵玉殿论坛-)
+>
+> <note></note>
+
 [<fx> A岛东方板块 </fx>](https://www.nmbxd1.com/f/%E4%B8%9C%E6%96%B9Project)
+
+> 从A站（AcFun）分裂出来的匿名论坛，模仿日本的2ch（关于2ch的介绍请见下文）
+> 
+> 拥有着相比大众论坛来说比较独特的规则规范，也因此维持了一个较为纯粹的社区氛围
+>
+> 此前A岛内部产生过一些分歧，原A岛（[adnmb.com](adnmb.com)）下沉后分裂成了由三酱维护的X岛（即上述链接）与ATM维护的[阿苇岛](https://aweidao1.com/)。因为ATM此前的行为我不太认可，故对阿苇岛不做推荐。
+>
+> <note></note>
 
 [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/)
 
+> 从囧仙的个人博客开始，变成一个类似论坛之存在的网站。虽然囧这个人争议很多，但是这里确实有很多有意思的贴文。 
+>
+> 大概已不再更新
+> 
+> <note></note>
+
 [<fx> <gb></gb> Maidens of the Kaleidoscope </fx>](https://www.shrinemaiden.com/)
+
+> 应该是英文东方圈最大论坛了。如今的用户群体依旧还算活跃，不乏有趣的贴文待各位发掘
+> 
+> <note></note>
 
 [<fx> <gb></gb> Warosu /jp/ </fx>](https://warosu.org/jp)
 
-[<fx> <gb></gb> EndChan /2hu/ </fx>](https://endchan.net/2hu/)
+> 欧美的匿名论坛。按理说欧美最大匿名论坛板应该是[4chan](https://www.4chan.org/)，但是这里特别推荐 Warosu，是因为其东方浓度要高上很多，而且似乎对一些欧美东方众而言有着特殊的意义。
+>
+> 注：上方链接的页面虽然是“御宅文化”板块，但是东方浓度很高。
+> 
+> <note></note>
 
 [<fx> <gfw> 巴哈姆特哈啦板 - 东方板块 </gfw> </fx>](https://forum.gamer.com.tw/B.php?bsn=10039)
 
+> 巴哈姆特，台湾最著名的ACG网站之一，包括ACG资讯、社群，以及动画番剧等功能。
+> 
+> <note></note>
+
 [<fx> <gfw> Komica糟糕岛 - 东方板块 </gfw> </fx>](https://2cat.org/~touhou/)
 
-[<fx> <gfw> 批踢踢 - 东方板块 </gfw> </fx>](https://www.ptt.cc/bbs/Touhou/)
+> K岛、糟糕岛，仿2ch的繁体中文匿名论坛
+>
+> 注：K岛不同页面使用了不同域名。首页[由此访问](https://www.komica.org/)
 
-[<fx> <gfw> <jp></jp> 2ch - 东方板块 </gfw> </fx>](https://fate.5ch.net/touhou/)
+[<fx> <gfw> 批踢踢实业坊 - 东方板块 </gfw> </fx>](https://www.ptt.cc/bbs/Touhou/)
 
-[<fx> <gfw> <gb></gb> r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
+> 台湾知名~~瞎眼论坛~~。很有意思的地方，网站使用独特的纯文字BBS模式，并基于此发展出了独特的 ANSI Art（字符画，但是有别于我们更加熟悉的Ascii Art - 若想更多了解 ANSI Art，请访问 [👀 趣味](#-趣味) 分类下的`東方 Ascii Art 保管库`）
+> 
+> <note></note>
+
+[<fx> <gfw> 2ch - 东方板块 </gfw> </fx>](https://2ch.sc/2ch.html/)
+
+> 曾经的“日本最受欢迎的网络社区，每天用户数约有1000万人，世上最大型的文字讨论板，用户每天平均建立约250万篇贴文[2]，年收入约为1亿日元”
+>
+> 因为持有权的纠纷，2ch 分裂成了创始人的 [2ch.sc](https://2ch.sc/2ch.html) 和实际持有权拥有者的 [5channel](https://www2.5ch.net/5ch.html)。
+> 
+> 上面展示的链接是2ch.sc下的东方板块，浏览 5channel 的东方板块可[访问此处](https://fate.5ch.net/touhou/)。
+> >
+> > <note></note>
+
+[<fx> <gfw> <gb></gb> Reddit r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
+
+> Reddit，被戏称为“外国贴吧”的地方（实际上内容的丰富性和质量和氛围我个人觉得比贴吧好太多）。
+> 
+> 因最近 Reddit 管理层频频逆天操作，诞生了更加自由开放的 [Burggit](https://burggit.moe/)，但依旧不改 Reddit 起码目前还可能是互联网最好的综合论坛的事实。
+>
+> 其他有趣的东方板块（Subreddit / Sub）：
+>
+> - [<fx> r/TrueTouhou </fx>](https://www.reddit.com/r/TrueTouhou/) 更加偏向于原作STG讨论的 Sub
+> - [<fx> r/GensokyoLife </fx>](https://www.reddit.com/r/GensokyoLife/) 类似 r/Touhou 的东方综合 Sub（会分享很多质量不错或者很萌的同人插画）
+> - [<fx> r/Fumofumo </fx>](https://www.reddit.com/r/Fumofumo/) ふもふも~
+> - [<fx> r/2hujerk </fx>](https://www.reddit.com/r/2hujerk/) 东方梗图、Shitposting 等等（实际上可以看作是一个规则更宽松的 r/Touhou）；同类型的还有 [r/Touhoujerk](https://www.reddit.com/r/Touhoujerk/)
+> - [<fx> r/TouhouArt </fx>](https://www.reddit.com/r/TouhouArt/) 东方同人插画推荐分享 Sub
+> - [<fx> r/UnexpectedTouhou </fx>](https://www.reddit.com/r/UnexpectedTouhou/) 发现各种奇奇怪怪地方的越共 - 或者单纯是幻视
+> - [<fx> r/touhou_irl </fx>](https://www.reddit.com/r/touhou_irl/) 东方，但是“我去，这根本就是我”
+> - [<fx> r/touhou_yuri </fx>](https://www.reddit.com/r/touhou_yuri/) 百合东方
+> - [<fx> r/Touhou_NSFW/ </fx>](https://www.reddit.com/r/Touhou_NSFW/) 涩涩东方（此 Sub 目前正在迁移至上面提到的 Burggit，新链接可访问[此处](https://burggit.moe/c/touhou_nsfw)）
+> 
+> <note></note>
 
 > ## 📁 一般 ACG 用
 > 
 > [<fx> 爱撕衣 </fx>](https://bbs.saraba1st.com/)
+>
+> > Stage1，S1，冻鳗婆罗门论坛（毕竟婆罗门这个典故就是从这里出来的）
+> >
+> > <note></note>
 > 
 > [<fx> 班固米小组 </fx>](https://bgm.tv/group)
-> 
-> *动画条目讨论
+>
+> > 纯粹的小地方。主要是阿宅们讨论生活相关和技术相关的话题。
+> >
+> > 班固米的动画条目讨论也是值得一看的地方噢
+> >
+> > <note></note>
 > 
 > [<fx> 南+ </fx>](https://www.south-plus.net/)
+>
+> > 对于寻找ACG资源（尤其是老资源）很有用
+> >
+> > 注：各种魂+、北+、南+、白+、Lv+、夏+、春+、雪+，其实都是一个网站，只是不同的域名罢了
+> >
+> > <note></note>
 > 
-> [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
-> 
-> [<fx> SOS团 </fx>](https://www.sosg.net/)
-> 
-> [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
-> 
-> [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
-> 
-> [<fx> 動漫向上推廣協會 </fx>](https://www.facebook.com/groups/acgup/)
-> 
-> [<fx> 机核 GCORES（游戏） </fx>](https://www.gcores.com/)
-
 > ## 📁 时泪
 > 
+> > 被时代所抛弃的存在，却正因如此而依旧保持着最初的那份纯真，有些可能已经不再维护了，有的网站会时而抽风，而还有些则还保持着难得的活跃用户群体。
+> > 
+> > 收录这些网站不为别的，只为了当闲着没事的时候，可以静下心来翻一翻那些积了灰的贴文，感叹一下现在越来越封闭、不平等、魔怔、对立的不再美好的互联网。
+> >
+> > 无妨，幻想乡永远美好 =v=
+> 
+> [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
+>
+> > 不温不热，但是意外地时不时会有新帖子的论坛
+> >
+> > <note></note>
+> 
+> [<fx> SOS团 </fx>](https://www.sosg.net/)
+>
+> > 16年历史的论坛，还十分的活跃，非常的难得。让世界更加热闹起来吧！
+> >
+> > <note></note>
+> 
+> [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
+>
+> > 拥有19年历史的论坛，每天依然有几十条新帖的程度！
+> >
+> > <note></note>
+> 
+> [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
+>
+> > 如题，由Key社作品爱好者建立的论坛站
+> >
+> > <note></note>
+>
 > [<fx> 动漫渔场 </fx>](http://www.comicfishing.com/touhou/)
+>
+> > 国内第一家东方论坛，对东方Project在中文圈的发展具有重大意义
+> >
+> > <note></note>
 > 
 > [<fx> 優質の幻想鄉 </fx>](https://155384.co/forum.php?gid=131)
+>
+> > 台湾的东方论坛
+> >
+> > <note></note>
 > 
 > [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
+>
+> > 编写这条介绍的时候这个网站处于无法访问的状态，不知是暂时抽风还是关停了
+
+------
+
+# 💭 博客
+
+[<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
+
+[<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
+
+[<fx> Measure Zero </fx>](https://shiina18.github.io/)
+
+[<fx> <jp></jp> Paradism </fx>](https://shirooo305.hatenablog.com/)
+
+[<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
+
+[<fx> 北雁云依的博客 </fx>](https://stblog.penclub.club/)
+
+[<fx> 编程随想的博客 </fx>](https://program-think.blogspot.com/)
+
+[<fx> iyouport </fx>](https://iyouport.substack.com/)
+
+[<fx> 李老师不是你老师 </fx>](https://lilaoshibushinilaoshi.com/)
+
+------
+
+# 👀 趣味
+
+[<fx> THFM - 随机原曲电台 </fx>](https://ximin.top/thfm/)
+
+[<fx> TOUHOU Medle - 听节奏猜旋律 </fx>](https://medle.akashiya.top/)
+
+[<fx> 東方 Ascii Art 保管库 </fx>](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
+
+[<fx> 东方 ANSI Art（批踢踢）</fx>](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
+
+[<fx> Ascii Art 汉字生成器 </fx>](https://magiconch.com/fontfont/)
 
 ------
 
@@ -433,7 +576,7 @@
 
 > 我们高举海盗旗，击碎巨头的垄断。为自由！
 >
-> <note> </note>
+> <note></note>
 
 ## 注意！
 
@@ -441,10 +584,10 @@
 > 
 > 在网络上来路不明的地方（种子站、论坛等）下载的
 > 
-> - 运行文件（*.exe .bat .ps1 .jar .py* 等）
-> - 注册表 (*.reg*)
-> - 压缩包（*.zip .rar .7z .tar.gz* 等）
-> - 文档（*.pdf .doc(x) .ppt(x) .xls(x)* 等）
+> - 运行文件（`.exe` `.bat` `.ps1` `.jar` `.py` 等）
+> - 注册表 (`.reg`)
+> - 压缩包（`.zip` `.rar` `.7z` `.tar` `.gz` 等）
+> - 文档（`.pdf`` .doc(x)` `.ppt(x)` `.xls(x)` 等）
 > - 第三方补丁（*.dll* 等）
 > - 需要可疑的专用软件运行的其他文件格式
 > - 其他任何你觉得无法信任的文件
@@ -466,7 +609,7 @@
 > 
 > 不要点击进入任何广告页面 / 请使用去广告插件
 >
-> <note> </note>
+> <note></note>
 
 [<fx> thtk - 东方拆包工具 </fx>](https://github.com/thpatch/thtk)
 
@@ -670,39 +813,3 @@
 > 
 > [<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
 
-
-------
-
-# 💭 Blog
-
-[<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
-
-[<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
-
-[<fx> Measure Zero </fx>](https://shiina18.github.io/)
-
-[<fx> <jp></jp> Paradism </fx>](https://shirooo305.hatenablog.com/)
-
-[<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
-
-[<fx> 北雁云依的博客 </fx>](https://stblog.penclub.club/)
-
-[<fx> 编程随想的博客 </fx>](https://program-think.blogspot.com/)
-
-[<fx> iyouport </fx>](https://iyouport.substack.com/)
-
-[<fx> 李老师不是你老师 </fx>](https://lilaoshibushinilaoshi.com/)
-
-------
-
-# 👀 好玩的小东西
-
-[<fx> THFM - 随机原曲电台 </fx>](https://ximin.top/thfm/)
-
-[<fx> TOUHOU Medle - 听节奏猜旋律 </fx>](https://medle.akashiya.top/)
-
-[<fx> 東方 Ascii Art 保管库 </fx>](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
-
-[<fx> 东方 ANSI Art（批踢踢）</fx>](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
-
-[<fx> Ascii Art 汉字生成器 </fx>](https://magiconch.com/fontfont/)
