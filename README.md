@@ -284,7 +284,7 @@
 > >
 > > <note> </note>
 > 
-> >  ### 📁 动画评分排名
+> > ### 📁 动画评分排名
 > > 
 > > > #### 📁 班固米
 > > >
@@ -470,7 +470,7 @@
 
 [<fx> blog 数款二游资源解包 </fx>](https://estertion.win/)
 
----
+> ---
 
 [<fx> <gfw> Yande.re - 图站 </gfw> </fx>](https://yande.re/)
 
@@ -482,7 +482,7 @@
 
 [<fx> ⭐ 笨蛋倾情推荐⭐ Dagobah </fx>](https://dagobah.net/)
 
----
+> ---
 
 [<fx> SauceNAO - 插画反向搜索 </fx>](https://saucenao.com/)
 
@@ -492,7 +492,7 @@
 
 [<fx> Trace.moe - 动画反向搜索 </fx>](https://trace.moe/)
 
- ---
+> ---
 
 [<fx> r/FreeMediaHeckYeah Megathread </fx>](https://fmhy.pages.dev/)
 
