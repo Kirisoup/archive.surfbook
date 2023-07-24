@@ -433,8 +433,8 @@
 > 因为持有权的纠纷，2ch 分裂成了创始人的 [2ch.sc](https://2ch.sc/2ch.html) 和实际持有权拥有者的 [5channel](https://www2.5ch.net/5ch.html)。
 > 
 > 上面展示的链接是2ch.sc下的东方板块，浏览 5channel 的东方板块可[访问此处](https://fate.5ch.net/touhou/)。
-> >
-> > <note></note>
+>
+> <note></note>
 
 [<fx> <gfw> <gb></gb> Reddit r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
 
