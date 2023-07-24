@@ -113,7 +113,7 @@ main {
     main h5,
     main h6 {
         transition: scale 700ms, opacity 700ms,
-        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
+        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, border-bottom 700ms,
         filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.8 !important;
@@ -312,6 +312,12 @@ hr {
     background: #CCDAFF63 !important;
 }
 
+blockquote hr {
+    margin-block: 1rem !important;
+    background: #CCDAFF63    !important;
+    height: 2px !important
+}
+
 .site-footer {
     border-image: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) 1 !important;
 }
@@ -458,6 +464,7 @@ a fx gfw {
     letter-spacing: 0.5px;
     font-size: unset !important;
     line-height: 1.5 !important;
+    white-space: nowrap !important;
     padding-block: 0.85rem !important;
     padding-right: 100vw;
     margin-right: -100vw !important;
@@ -483,12 +490,28 @@ a fx gfw:hover {
     text-shadow: 10px 10px #dd46;
 }
 
-p a fx {
-    border-radius: 10px;
-}
-
 p a fx:hover {
     padding-left: 0.5rem !important;
+}
+
+p a fx::before{
+    transition: 700ms 300ms;
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-block: 1rem !important;
+    z-index: -100;
+    border-bottom: solid 2px;
+    border-image: linear-gradient(90deg, #CCDAFF00, #CCDAFF23 10%, #CCDAFF00) 1;
+    opacity: 1
+}
+p a fx:hover::before{
+    transition: 0ms 0ms;
+    border-image: linear-gradient(90deg, #CCDAFF00 1%, #CCDAFF23, #CCDAFF00) 1;
+    opacity: 0
 }
 
 /* blockquote */
@@ -522,10 +545,9 @@ blockquote:has(> note) {
     min-width: 10rem !important;
     margin-bottom: 1rem;
     margin-top: 0;
-    margin-right: 0;
-    margin-left: 0;
+    margin-inline: 0;
     padding: 1rem;
-    padding-top: .8rem !important;
+    padding-top: 0.8rem !important;
     padding-bottom: 0.2rem !important;
     border-left: solid 4px !important;
     border-color: #CCDAFF31 !important;
@@ -535,8 +557,8 @@ blockquote:has(> note) {
 
 blockquote:hover:has(> note) {
     transition: margin-left 0ms !important;
-    margin-left: 1rem;
-    margin-right: -1rem !important;
+    margin-left: 0.8rem;
+    margin-right: -0.8rem !important;
     border-color: #CCDAFF !important;
 }
 
@@ -665,11 +687,15 @@ p:hover jp::before, p:hover gb::before {
     filter: drop-shadow(10px 10px #44da)
 }
 
+/* favicon */
+
 .ico {
     position: relative !important;
     width: 1.5rem !important;
     top: .25rem
 }
+
+/* image */
 
 img:not(.ico) {
     transition-duration: 700ms;
