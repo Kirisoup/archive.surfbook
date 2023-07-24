@@ -268,7 +268,7 @@
 >
 > > 日本的ACG百科，在特定角色的同人创作上有时会有很有意思的信息
 > > 
-> > <gb></gb> [英文版](https://dic.pixiv.net/en/)
+> > [英文版](https://dic.pixiv.net/en/)
 > >
 > > <note> </note>
 > 
