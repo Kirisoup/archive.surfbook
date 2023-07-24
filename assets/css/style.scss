@@ -514,6 +514,12 @@ p a fx:hover::before{
     opacity: 0
 }
 
+/* list */
+
+li {
+    margin-block: 0.4rem !important
+}
+
 /* blockquote */
 blockquote {
     color: #CCD5ED !important;
@@ -648,6 +654,9 @@ code {
     color: #87B6CC !important;
     font-family: SimHei !important;
     line-height: normal !important;
+    background-color: #0000 !important;
+    border: solid #CCDAFF88 1px;
+    margin-left: 0.2rem !important
 }
 
 /* flags */
