@@ -13,6 +13,8 @@
 > 若你的浏览器不支持某些 css 特性导致丧失可读性（比如火狐浏览器 - 详情见下文），或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 >
 > > 关于火狐：火狐缺乏对一个本网站目前高度依赖的css特性的支持，即 :has() 功能，加上其他一些与 chromium 等浏览器不一致的特性，导致对火狐的完全适配超越了我的能力范围。所幸目前起码是保障了可读性，但是体验可能不如其他浏览器。Sorry Firefox lovers.
+> >
+> > <note></note>
 > 
 > <note></note>
 
@@ -1039,4 +1041,3 @@
 > [<fx> <gfw> 东京图书馆 </gfw> </fx>](https://www.tokyotosho.info/)
 > 
 > [<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
-
