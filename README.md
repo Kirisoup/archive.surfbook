@@ -451,7 +451,9 @@
 > 因最近 Reddit 管理层频频逆天操作，诞生了更加自由开放的 [Burggit](https://burggit.moe/)，但依旧不改 Reddit 起码目前还可能是互联网最好的综合论坛的事实。
 >
 > 其他有趣的东方板块（Subreddit / Sub）：
->
+> 
+> <note></note>
+
 > - [<fx> r/TrueTouhou </fx>](https://www.reddit.com/r/TrueTouhou/) 更加偏向于原作STG讨论的 Sub
 > - [<fx> r/GensokyoLife </fx>](https://www.reddit.com/r/GensokyoLife/) 类似 r/Touhou 的东方综合 Sub（会分享很多质量不错或者很萌的同人插画）
 > - [<fx> r/Fumofumo </fx>](https://www.reddit.com/r/Fumofumo/) ふもふも~
@@ -461,8 +463,6 @@
 > - [<fx> r/touhou_irl </fx>](https://www.reddit.com/r/touhou_irl/) 东方，但是“我去，这根本就是我”
 > - [<fx> r/touhou_yuri </fx>](https://www.reddit.com/r/touhou_yuri/) 百合东方
 > - [<fx> r/Touhou_NSFW/ </fx>](https://www.reddit.com/r/Touhou_NSFW/) 涩涩东方（此 Sub 目前正在迁移至上面提到的 Burggit，新链接可访问[此处](https://burggit.moe/c/touhou_nsfw)）
-> 
-> <note></note>
 
 > ## 📁 一般 ACG 用
 > 
@@ -660,7 +660,7 @@
 >
 > 在编写这条介绍的时候，似乎网站已经关停了…… 在 github 翻阅了一圈后，勉强发现了 [SleepyAsh0191/medle](https://medle.whksoft.cn/001) 这个还算可以访问的网站，但是每日谜题在 2022/9/13 就停止更新了，所以也就是只能体验一下玩法的程度了……
 >
-> 另外[原版Medle](https://medle.ayu.land/)还是正常运行的哦，也是很有意思的！
+> 另外 [原版Medle](https://medle.ayu.land/) 还是正常运行的哦，也是很有意思的！
 > 
 > <note></note>
 
@@ -714,6 +714,8 @@
 
 > 各种脑洞大开的网页游戏
 >
+> <note></note>
+
 > [<fx> The Password Game </fx>](https://neal.fun/password-game/)
 >
 > > 密码游戏 - 令人欲罢不能又脑溢血的小游戏，还可以当作检索与文本操作能力的练习
@@ -737,8 +739,10 @@
 > > 分享本页面 - 以各种方式千奇百怪的方式分享页面
 > >
 > > <note></note>
->
+
 > 更多奇怪的小游戏就请各位自行前往网站体验~
+>
+> <note></note>
 
 [<fx> ProjectSekai 表情包生成 </fx>](https://st.ayaka.one/)
 
@@ -762,6 +766,8 @@
 
 > 各种神经病的网页工具游戏，以及超多V家
 >
+> <note></note>
+
 > [<fx> Nyan Cat Crazy </fx>](https://aidn.jp/nyancrazy/)
 > 
 > > 越来越疯狂的彩虹猫
@@ -785,12 +791,10 @@
 > > ![ugomoji.gif](https://daniwell.com/shared/main/img/contents/web/ugomoji.gif)
 > >
 > > <note></note>
->
-> <note></note>
 
 [<fx> Bokete </fx>](https://bokete.jp/)
 
-> 日式沙雕图片配文
+> 日式图片沙雕配文
 >
 > <note></note>
 
