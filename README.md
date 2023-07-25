@@ -7,14 +7,12 @@
 > 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
 > 
 > - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
-> - (￣∇￣) [私聊](https://wpa.qq.com/wpa_jump_page?v=3&uin=1963336235)雾雨蘑菇汤~
 > - 加入群聊一起吹水~ （见[友链](#-友链)）
+> - (￣∇￣) 私聊[雾雨蘑菇汤（Telegram）](https://t.me/kirisoup)~
 > 
 > 若你的浏览器不支持某些 css 特性导致丧失可读性（比如火狐浏览器 - 详情见下文），或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 >
 > > 关于火狐：火狐缺乏对一个本网站目前高度依赖的css特性的支持，即 :has() pseudo，加上其他一些与 chromium 等浏览器不一致的特性，导致对火狐的完全适配超越了我的能力范围。所幸目前起码是保障了可读性，但是体验可能不如其他浏览器。Sorry Firefox lovers.
-> >
-> > <note></note>
 > 
 > <note></note>
 
@@ -49,7 +47,7 @@
 > 收藏总数：154
 >  
 > [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
-> 最近更新：2023/07/25
+> 最近更新：2023/07/21 
 > 
 > <note></note>
 
@@ -145,6 +143,8 @@
 # 🔎 维基 / 咨询
 
 人类知识的网络系统。
+
+> ---
 
 [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
@@ -362,6 +362,8 @@
 
 目前极其欠缺相关内容 0.0
 
+> ---
+
 [<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
 
 [<fx> 炎上书屋 </fx>](https://firebook.store/books)
@@ -370,7 +372,9 @@
 
 # 💬 论坛
 
-真正人人平等的交流环境，互联网不再繁荣的那片净土
+真正以观点为主，平等的交流环境
+
+> ---
 
 [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/)
 
@@ -529,28 +533,110 @@
 > [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
 >
 > > 编写这条介绍的时候这个网站处于无法访问的状态，不知是暂时抽风还是关停了
+> >
+> > <note></note>
 
 ------
 
 # 💭 博客
 
+与论坛相比，博客的重心显然是撰写博客的人；与微博相比，博客更加纯粹，没有转发、点赞、关注这些功能的博客可以更加专注于个人的表达。
+
+阅读厉害的博客，也是一种学习
+
+> ---
+
 [<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/)
+
+> 2un 自己的博客
+> 
+> <note></note>
 
 [<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
 
+> 主要为漫评的博客
+>
+> [<fx> 《从作画vs脚本的争吵，到客栈眼中的辩论思维》 </fx>](https://bitinn.net/11354/)
+> 
+> <note></note>
+
 [<fx> Measure Zero </fx>](https://shiina18.github.io/)
+
+> 主要为技术向博客，有很多特别酷贴文
+>
+> [<fx> 《动画资料杂录》 </fx>](https://shiina18.github.io/anime/2020/07/11/anime-misc/)
+>
+> [<fx> 《动画演出分析杂录》 </fx>](https://shiina18.github.io/anime/2021/02/18/ensyutsu-misc/)
+> 
+> <note></note>
 
 [<fx> <jp></jp> Paradism </fx>](https://shirooo305.hatenablog.com/)
 
+> 很厉害的动画演出分析
+>
+> [<fx> 《『小林さんちのメイドラゴン』5話の演出について》 </fx>](https://shirooo305.hatenablog.com/entry/2017/02/09/233000)
+> 
+> <note></note>
+
+[<fx> <jp></jp>テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
+
+> 技术宅
+>
+> 没什么特别的原因，单纯是因为网页设计真的很酷
+>
+> <note></note>
+
 [<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
+
+> 技术向博客
+>
+> [解包了很多个二次元手游的资源](https://estertion.win/category/%e7%a8%8b%e5%ba%8f%e7%8c%bf/%e6%8b%86%e8%85%bb%e6%ad%bb-%e9%80%86%e5%90%91/)
+>
+> [<fx> 《“拆”腻死 - 逆向 \| 东方弹幕神乐》 </fx>](https://estertion.win/2021/08/%e4%b8%9c%e6%96%b9%e5%bc%b9%e5%b9%95%e7%a5%9e%e4%b9%90/)
+> 
+> <note></note>
 
 [<fx> 北雁云依的博客 </fx>](https://stblog.penclub.club/)
 
+> 十分佩服的一个博客，写的评论文章每一篇都能引起深刻的思考。orz
+> 
+> [<fx> 《帝国主义化的互联网——互联网产出萎缩的根本原因》 </fx>](https://stblog.penclub.club/posts/imperialism/)
+>
+> [<fx> 《神的幼儿园》 </fx>](https://stblog.penclub.club/posts/kindergartenOfGod/)
+> 
+> <note></note>
+
 [<fx> 编程随想的博客 </fx>](https://program-think.blogspot.com/)
+
+> “2023年2月10日，编程随想被当局以“涉及国家秘密”理由遭到不公开审判，被当局一审以煽动颠覆国家政权罪判刑七年、剥夺政治权利两年”
+>
+> 致敬勇敢的灵魂
+>
+> [<fx> 《时间与人生——跨入本世纪20年代的随想》 </fx>](https://program-think.blogspot.com/2019/12/Time-and-Life.html)
+> 
+> <note></note>
 
 [<fx> iyouport </fx>](https://iyouport.substack.com/)
 
+> DIGITAL SECURITY AND ACTIVISM 安全防身技术、行动主义技巧、政治经济知识、时事分析、培训教程……
+>
+> [<fx> 《为什么说全球化是人类历史上最成功的失败》 </fx>](https://iyouport.substack.com/p/3f8)
+> 
+> <note></note>
+
 [<fx> 李老师不是你老师 </fx>](https://lilaoshibushinilaoshi.com/)
+
+> 时事，实事
+>
+> 另见[推特：李老师不是你老师](https://twitter.com/whyyoutouzhele)
+> 
+> <note></note>
+
+[<fx> 积薪 </fx>](https://firewood.news/)
+
+> 优秀中文独立博客导航站。
+> 
+> <note></note>
 
 ------
 
@@ -558,13 +644,154 @@
 
 [<fx> THFM - 随机原曲电台 </fx>](https://ximin.top/thfm/)
 
+> 东方同人音乐电台！
+>
+> 拥有切换热门 / 冷门歌曲的厉害功能
+>
+> 相似的还有国外的 [GensokyoRadio 幻想乡电台](https://gensokyoradio.net/playing/)
+> 
+> <note></note>
+
 [<fx> TOUHOU Medle - 听节奏猜旋律 </fx>](https://medle.akashiya.top/)
+
+> 受到纽约时报的 Wordle 谜题的借鉴而诞生的游戏玩法，基于 Medle 诞生的东方Medle游戏，根据节奏猜东方原曲的旋律，可以用来测试自己对东方曲的熟悉程度w
+>
+> 在编写这条介绍的时候，似乎网站已经关停了…… 在 github 翻阅了一圈后，勉强发现了 [SleepyAsh0191/medle](https://medle.whksoft.cn/001) 这个还算可以访问的网站，但是每日谜题在 2022/9/13 就停止更新了，所以也就是只能体验一下玩法的程度了……
+>
+> 另外[原版Medle](https://medle.ayu.land/)还是正常运行的哦，也是很有意思的！
+> 
+> <note></note>
 
 [<fx> 東方 Ascii Art 保管库 </fx>](http://anime.ja.utf8art.com/tag/%e6%9d%b1%e6%96%b9)
 
+> Ascii Art 字符画，在那个大多数论坛还不能发图的时代流行起来的艺术形式
+> 
+> <note></note>
+
 [<fx> 东方 ANSI Art（批踢踢）</fx>](https://www.ptt.cc/man/Touhou/DCE/DEB1/D6C3/index.html)
 
+> 类似 Ascii Art，但是使用了不同的文本格式，因为支持多种文字前景色与背景色而比起 Ascii Art 更加灵活，比较有代表性的应该是批踢踢上的 ANSI art
+> 
+> <note></note>
+
 [<fx> Ascii Art 汉字生成器 </fx>](https://magiconch.com/fontfont/)
+
+> 基于字符的像素点阵图生成的AA，因此理论上可以支持除了emoji以外任何你电脑可以渲染的字符
+>
+> [<fx> ASCII Text Art Generator </fx>](https://fsymbols.com/generators/carty/) 只支持罗马字符，但是拥有很多字体的AA生成器
+>
+> [<fx> ASCII Art Generator </fx>](https://asciiart.club/) 图片转AA
+>
+> 不过最具有灵魂的AA肯定还是手动创作的AA啦
+> 
+> <note></note>
+
+> 放一只可爱小老帝在这里 =v=
+> 
+>     　　　　　,.—､         __
+>     　　　　,' 　  !──‐─,‘   ヽ
+>     　　　 /' 　,ﾍ  |::::ﾉ　   ＼
+>     　　 ／　　 /:::::::::',　  ',
+>     　　〈　　 /::/‐/ ｉ L:!　 　|
+>     　　 ヽ__,ｲ 7ｲ`ﾄ　 ﾚ'ｧ/\   /:|
+>     　　　　!〈:iゞ’　´i_r八ゝ—'::!
+>     　　　　):入"　  .　,,〈:/:::λ
+>     　　　　 /ヽﾚヽ､_　_,イ::ﾉ:/
+>     　　　　　     |k_７_ﾚヽ,
+>     　　　　 　   /i〈|/  i ﾍ
+>     　　　　     / / i：  ﾍ! `、
+>     　 　 　    ! >､ 八  , ﾍ　_/、
+>     　　　　     `/｀T ´、＼`7ｰ-’
+>     　　　　    ヽL__|__|_,-ン
+>     　　　 　　  　ﾄ、/ |__／
+>     　　　  　  　 ｰ-`　!_/ 
+> 
+> <note></note>
+
+[<fx> NEAL.FUN </fx>](https://neal.fun/)
+
+> 各种脑洞大开的网页游戏
+>
+> [<fx> The Password Game </fx>](https://neal.fun/password-game/)
+>
+> > 密码游戏 - 令人欲罢不能又脑溢血的小游戏，还可以当作检索与文本操作能力的练习
+> >
+> > <note></note>
+> 
+> [<fx> Wonders of Street view </fx>](https://neal.fun/wonders-of-street-view/)
+>
+> > 街景奇遇 - 随机参观谷歌街景收录的各种奇奇怪怪的地方或者奇奇怪怪的瞬间（你知道吗：国际空间站中也有谷歌街景哦）
+> >
+> > <note></note>
+> 
+> [<fx> Let's Settle This </fx>](https://neal.fun/lets-settle-this/)
+>
+> > 让我们解决这个问题 - 裙子的颜色是白金还是黑蓝？通过投票的方式解决各种互联网旷世大争论
+> >
+> > <note></note>
+> 
+> [<fx> Share This Page </fx>](https://neal.fun/share-this-page/)
+>
+> > 分享本页面 - 以各种方式千奇百怪的方式分享页面
+> >
+> > <note></note>
+>
+> 更多奇怪的小游戏就请各位自行前往网站体验~
+
+[<fx> ProjectSekai 表情包生成 </fx>](https://st.ayaka.one/)
+
+> 生成你自己的啤酒烧烤表情包吧
+>
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png'" width= 200>
+> 
+> <note></note>
+
+[<fx> Ciallo～(∠・ω< )⌒☆ </fx>](https://ciallo.cc/)
+
+> 打开他，将会收获大量 Ciallo～(∠・ω< )⌒☆
+>
+> 点击他，你会收获大量 Ciallo～(∠・ω< )⌒☆
+>
+> 摸摸他，你会收获大量 Ciallo～(∠・ω< )⌒☆
+>
+> <note></note>
+
+[<fx> AIDN </fx>]()
+
+> 各种神经病的网页工具游戏，以及超多V家
+>
+> [<fx> Nobasu </fx>]()
+> [<fx> Nyan Cat Crazy </fx>](https://aidn.jp/nyancrazy/)
+> 
+> > 越来越疯狂的彩虹猫
+> >
+> > ![nyancrazy.gif](https://daniwell.com/shared/main/img/contents/web/nyancrazy.gif)
+> >
+> > <note></note>
+> 
+> > 拉——长————！
+> > 
+> > ![nobasu.gif](https://daniwell.com/shared/main/img/contents/web/nobasu.gif)
+> >
+> > <note></note>
+>
+> [<fx> Ugomoji </fx>](https://aidn.jp/ugomoji/)
+> 
+> > 抖动字体动图生成
+> >
+> > ![ugomoji.gif](https://daniwell.com/shared/main/img/contents/web/ugomoji.gif)
+> >
+> > <note></note>
+>
+> <note></note>
+
+[<fx> Bokete </fx>](https://bokete.jp/)
+
+> 日式沙雕图片配文
+>
+> <note></note>
+
+
 
 ------
 
@@ -592,6 +819,7 @@
 >
 > - [<fx> VirusTotal </fx>](https://www.virustotal.com/)
 > - [<fx> Hybrid Analysis </fx>](https://hybrid-analysis.com/)
+> - [<fx> Kaspersky Cloud </fx>](https://opentip.kaspersky.com//)
 > 
 > 数据无价，**不要贪图一时的方便，造成不可挽回的代价**！
 >
@@ -630,6 +858,10 @@
 [<fx> waifu2x - AI图片放大 </fx>](https://waifu2x.udp.jp/)
 
 [<fx> Trace.moe - 动画反向搜索 </fx>](https://trace.moe/)
+
+> ---
+
+[<fx> 自动漫画内嵌翻译 </fx>](https://cotrans.touhou.ai/)
 
 > ---
 
@@ -761,13 +993,7 @@
 
 > ## 📁 实用浏览器插件
 > 
-> [<fx> pakku - 合并B站弹幕 </fx>](https://chrome.google.com/webstore/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh)
-> 
-> [<fx> Twitch Chat Danmaku - 老鼠台弹幕 </fx>](https://chrome.google.com/webstore/detail/twitch-chat-danmaku/koiphfkghjgmncbkcpfnegnbcbomlchg)
-> 
-> [<fx> SponsorBlock - 跳过油管视频内宣传 </fx>](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone/related)
-> 
-> [<fx> Flow Chat for... - 油管直播弹幕 </fx>](https://chrome.google.com/webstore/detail/flow-chat-for-youtube-liv/elfdpkmfllnhhgnicaaeacbilcallpbd)
+> [<fx> Privacy Pass - 自动解决人机检测问题 </fx>](https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi)
 > 
 > [<fx> OneTab - 拯救开启五百个网页的习惯 </fx>](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 > 
@@ -806,4 +1032,3 @@
 > [<fx> <gfw> 东京图书馆 </gfw> </fx>](https://www.tokyotosho.info/)
 > 
 > [<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
-
