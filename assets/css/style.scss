@@ -169,23 +169,7 @@ main {
     main:hover fx,
     main:hover span,
     main:hover gfw,
-    main:hover footer,
-
-    body:has(> div:hover) main div,
-    body:has(> div:hover) main h1,
-    body:has(> div:hover) main h2,
-    body:has(> div:hover) main h3,
-    body:has(> div:hover) main h4,
-    body:has(> div:hover) main h5,
-    body:has(> div:hover) main h6,
-    body:has(> div:hover) main hr,
-    body:has(> div:hover) main li,
-    body:has(> div:hover) main p,
-    body:has(> div:hover) main a,
-    body:has(> div:hover) main fx,
-    body:has(> div:hover) main span,
-    body:has(> div:hover) main gfw,
-    body:has(> div:hover) main footer {
+    main:hover footer {
         transition-duration: 700ms;
         transition-property: filter;
         transition-delay: 0ms !important;
@@ -608,9 +592,12 @@ blockquote:hover:has(> note)::before {
     opacity: 1;
 }
 
-main:hover blockquote:has(> note),
-body:has(> div:hover) main blockquote:has(> note) {
+main:hover blockquote:has(> note) {
     scale: 1;
+    filter: none;
+}
+
+main:hover blockquote:hover:has(> note) {
     filter: none;
 }
 
