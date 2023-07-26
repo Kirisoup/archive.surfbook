@@ -635,20 +635,17 @@
 
 > ## 📁 网站设计酷炫到爆的个人网站
 >
-> [<fx> <jp></jp>テクニカル諏訪子  </fx>](https://technicalsuwako.moe/)
+> [<fx> <jp></jp> テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
 > 
-> https://dimden.dev/
+> [<fx> <gb></gb> Dimden.dev </fx>](https://dimden.dev/)
 > 
-> https://melankorin.net/
+> [<fx> <gb></gb> Melankorin.net </fx>](https://melankorin.net/)
 > 
-> https://natu.moe/
+> [<fx> <gb></gb> natu.moe </fx>](https://natu.moe/)
 > 
-> https://melps.neocities.org/
+> [<fx> <gb></gb> Melps </fx>](https://melps.neocities.org/main)
 > 
-> 
-> https://fauux.neocities.org/
-> 
-> https://roachette.neocities.org/main
+> [<fx> <gb></gb> Fauux </fx>](https://fauux.neocities.org/)
 > 
 
 ------
@@ -719,6 +716,14 @@
 >     　　　 　　  　ﾄ、/ |__／
 >     　　　  　  　 ｰ-`　!_/ 
 > 
+> <note></note>
+
+[<fx> CHEEEEEEEEEEEEEEEEEEEEEEEEN </fx>](https://cheeeeeeeen.neocities.org/)
+
+> CHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEN
+>
+> \*Honk Honk\*
+>
 > <note></note>
 
 [<fx> NEAL.FUN </fx>](https://neal.fun/)
