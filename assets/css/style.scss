@@ -61,7 +61,8 @@ main {
     }
 
 
-    main:hover::before {
+    main:hover::before,
+    body:has(> div:hover) main::before {
         content: "";
         transition-duration: 1500ms;
         transition-delay: 150ms;
@@ -89,7 +90,8 @@ main {
         opacity: 0.3;
     }
 
-    main:hover::after {
+    main:hover::after,
+    body:has(> div:hover) main::after {
         transition-delay: 0ms !important;
         transition-duration: 700ms !important;
         opacity: 0;
@@ -167,7 +169,23 @@ main {
     main:hover fx,
     main:hover span,
     main:hover gfw,
-    main:hover footer {
+    main:hover footer,
+
+    body:has(> div:hover) main div,
+    body:has(> div:hover) main h1,
+    body:has(> div:hover) main h2,
+    body:has(> div:hover) main h3,
+    body:has(> div:hover) main h4,
+    body:has(> div:hover) main h5,
+    body:has(> div:hover) main h6,
+    body:has(> div:hover) main hr,
+    body:has(> div:hover) main li,
+    body:has(> div:hover) main p,
+    body:has(> div:hover) main a,
+    body:has(> div:hover) main fx,
+    body:has(> div:hover) main span,
+    body:has(> div:hover) main gfw,
+    body:has(> div:hover) main footer {
         transition-duration: 700ms;
         transition-property: filter;
         transition-delay: 0ms !important;
@@ -215,7 +233,8 @@ main {
         scale: 1;
     }
 
-    main:hover::before {
+    main:hover::before,
+    body:has(> div:hover) main::before {
         scale: 1.3;
         opacity: 0.1 !important;
     }
@@ -241,7 +260,8 @@ main {
         opacity: 0.1 !important;
     }
 
-    main:hover::before {
+    main:hover::before,
+    body:has(> div:hover) main::before {
         content: "";
         position: fixed;
         top: 0;
@@ -309,13 +329,15 @@ hr,
 }
 
 hr {
-    background: #CCDAFF63 !important;
+    background: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) !important;
 }
 
-blockquote hr {
-    margin-block: 1rem !important;
-    background: #CCDAFF63    !important;
-    height: 2px !important
+blockquote:not(:has(> note)) hr {
+    margin-block: 2rem !important;
+    background: linear-gradient(90deg, #CCDAFF11 1%, #CCDAFF63, #CCDAFF11) !important;
+    height: 2px !important;
+    width: 160vw !important;
+    margin-left: -60vw !important;
 }
 
 .site-footer {
@@ -586,12 +608,9 @@ blockquote:hover:has(> note)::before {
     opacity: 1;
 }
 
-main:hover blockquote:has(> note) {
+main:hover blockquote:has(> note),
+body:has(> div:hover) main blockquote:has(> note) {
     scale: 1;
-    filter: none;
-}
-
-main:hover blockquote:hover:has(> note) {
     filter: none;
 }
 
