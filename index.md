@@ -1,35 +1,41 @@
-> 使用[目录](#目录)快速跳转到对应分类吧~
+> **快速跳转**：[<fx> 目录 </fx>](#目录) | [<fx> 正文 </fx>](#-东方常用) | [<fx> 使用须知 </fx>](#-使用须知) | [<fx> 友链 </fx>](#-友链)
+
+> ## Hey there! 这里是雾雨蘑菇汤~
+>
+> 很高兴见到或许是车车人、或许又不是的你，欢迎来到雾雨蘑菇汤的 **Ethernet Wormhole**！
+>
+> 本网站建立的初心，是在帮助东方新人熟悉那些有用的东方网站的同时，让大家领略互联网的美好。祝大家有一个美好的冲浪体验！
 > 
-> <gfw> 黄色标题代表网站被 GFW 封禁了，需使用特殊工具访问 :| </gfw>
+> 本收藏夹持续更新，如果你发现了任何实用有趣的网站想要加入本网页、或者有关于网站外观、排版、bug 等的建议与反馈、亦或单纯只是想要一起聊天吹水，欢迎：
 > 
-> 网站前的国旗代表了网站的显示语言~
-> 
-> 本收藏夹持续更新，如果有任何你觉得实用有趣的网站待补充、或是关于网站外观排版等的建议、亦或单纯只是想要闲聊，欢迎：
-> 
-> - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈（需要github账号）
+> - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈
 > - 加入群聊一起吹水~ （见[友链](#-友链)）
 > - (￣∇￣) 私聊[雾雨蘑菇汤（Telegram）](https://t.me/kirisoup)~
 > 
-> 若你的浏览器不支持某些 css 特性导致丧失可读性（比如火狐浏览器 - 详情见下文），或者是单纯喜欢更加简洁的阅读体验，请[跳转此处](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
+> <note></note> 
+
+> ## ❓ 使用须知：
+> 
+> 使用 [目录](#目录) 快速跳转至对应分类
+> 
+> <gfw> 黄色标题代表网站被 GFW 封禁了，需使用特殊工具访问 :| </gfw>
+> 
+> 网站前的国旗代表了网站的显示语言
+> 
+> 若你的浏览器不支持某些 css 特性，导致丧失可读性（比如火狐浏览器 - 见下文），或者是单纯喜欢更加简洁的阅读体验，请 [转至此处阅读](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 >
-> > 关于火狐：火狐缺乏对一个本网站目前高度依赖的css特性的支持，即 :has() 功能，加上其他一些与 chromium 等浏览器不一致的特性，导致对火狐的完全适配超越了我的能力范围。所幸目前起码是保障了可读性，但是体验可能不如其他浏览器。Sorry Firefox lovers.
-> >
-> > <note></note>
+> > 关于火狐：火狐缺乏对一个本网站目前高度依赖的css特性的支持，即 :has() 功能，再加上其他一些与 chromium 等浏览器不一致的特性，导致对火狐的完全适配超越了我的能力范围。所幸目前起码是保障了可读性，但是体验可能不如其他浏览器。Sorry Firefox enjoyers :(
 > 
 > <note></note>
-
+</fx>
 ------
 
 ## 🎉 友链
 
 [<fx> ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)
 
->一个崭新的车万群
-> 
 > 我们希望能共同维护一个纯粹友爱的环境，让所有热爱东方的人都能愉悦舒适地聊天讨论
 > 
-> 很高兴认识你
->
 > <note></note>
 
 [<fx> 🌙 滇南アリス幻樂団 </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=Ho3tCjgyMTh7BtqOY9H8LXKccMHjAqtk)
@@ -42,15 +48,6 @@
 
 > 此项目立志于为初入幻想乡的新人打造一本快速指南，让每个人都能快速、简洁的了解幻想乡
 >
-> <note></note>
-
-------
-
-> 收藏总数：154
->  
-> [更新记录](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) | 
-> 最近更新：2023/07/21 
-> 
 > <note></note>
 
 ------
@@ -642,19 +639,15 @@
 > 
 > https://melankorin.net/
 > 
-> https://dokode.moe/
-> 
 > https://natu.moe/
 > 
 > https://melps.neocities.org/
 > 
-> https://cinni.net/
 > 
 > https://fauux.neocities.org/
 > 
 > https://roachette.neocities.org/main
 > 
-> https://pocl.vip/
 
 ------
 
