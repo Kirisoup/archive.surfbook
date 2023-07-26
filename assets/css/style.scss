@@ -118,8 +118,8 @@ main {
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, border 700ms, border-bottom 700ms,
         filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.8 !important;
-        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
+        opacity: 0.6 !important;
+        filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main blockquote:has(> note) {
@@ -127,8 +127,8 @@ main {
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms, margin-right 700ms, border-color 700ms, 
         filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.8 !important;
-        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
+        opacity: 0.6 !important;
+        filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
     
     main blockquote:has(> note) * {
@@ -141,8 +141,8 @@ main {
         color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
         filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.8 !important;
-        filter: contrast(0.3) sepia(1) hue-rotate(200deg) saturate(8);
+        opacity: 0.6 !important;
+        filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
 
     main h1,
@@ -151,7 +151,7 @@ main {
         color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
         filter 200ms 600ms !important;
         scale: 0.95;
-        opacity: 0.8 !important;
+        opacity: 0.6 !important;
         filter: brightness(2);
     }
 
