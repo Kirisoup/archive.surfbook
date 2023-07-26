@@ -1,4 +1,4 @@
-> ## **快速跳转**：[<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+> ## **快速跳转**：<p>[<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)</p>
 
 > ## Hey there! 这里是雾雨蘑菇汤~
 
