@@ -1,7 +1,7 @@
-> **快速跳转**：[<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+## **快速跳转**：[<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
 
-> ## Hey there! 这里是雾雨蘑菇汤~
->
+## Hey there! 这里是雾雨蘑菇汤~
+
 > 很高兴见到或许是车车人、或许又不是的你，欢迎来到雾雨蘑菇汤的 **Ethernet Wormhole**！
 >
 > 本网站建立的初心，是在帮助东方新人熟悉那些有用的东方网站的同时，让大家领略互联网的美好。祝大家有一个美好的冲浪体验！
