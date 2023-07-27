@@ -1,4 +1,6 @@
-> ## **快速跳转**：<p>[<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)</p>
+> ## **快速跳转**：
+> 
+> [<fx> 目录 </fx>](#目录) \| [<fx> 正文 </fx>](#-东方常用) \| [<fx> 使用须知 </fx>](#-使用须知) \| [<fx> 友链 </fx>](#-友链) \| [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
 
 > ## Hey there! 这里是雾雨蘑菇汤~
 
@@ -46,7 +48,7 @@
 >
 > <note></note>
 
-[<fx> 🚃 幻想乡铁道乘车指南 </fx>](https://guide.dreammatrix.cc/)
+[<fx> 🚃 幻想乡铁道乘车指南 </fx>](https://guide2.dreammatrix.cc//)
 
 > 此项目立志于为初入幻想乡的新人打造一本快速指南，让每个人都能快速、简洁的了解幻想乡
 >
