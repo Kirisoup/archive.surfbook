@@ -5,6 +5,20 @@
     --bg-img: 
         url(https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg),               
         url(https://ghproxy.com/https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg);
+    --banner-gradient-0: #4444dd00;
+    --banner-gradient-1: #1dcc7400;
+}
+
+@property --banner-gradient-0 {
+  syntax: '<color>';
+  initial-value: #4444dd00;
+  inherits: false;
+}
+
+@property --banner-gradient-1 {
+  syntax: '<color>';
+  initial-value: #1dcc7400;
+  inherits: false;
 }
 
 html,
@@ -75,12 +89,16 @@ main {
     }
     
     body .page-header {
-        transition-delay: 600ms !important;
-        background: #0000 !important;
+        transition: --banner-gradient-0 600ms, --banner-gradient-1 600ms !important;
+        background: linear-gradient(120deg, 
+            var(--banner-gradient-0), 
+            var(--banner-gradient-1)) !important;
     }
     
     body:has(main:hover) .page-header {
-        background: linear-gradient(120deg, #4444dd88, #1dcc7466) !important;
+        transition: --banner-gradient-0 600ms, --banner-gradient-1 600ms !important;
+        --banner-gradient-0: #4444dd88;
+        --banner-gradient-1: #1dcc7466;
     }
     
 }
@@ -307,7 +325,6 @@ main {
 
 .page-header {
     line-height: 2;
-    background: linear-gradient(120deg, #4444dd88, #1dcc7466);
 }
 
 .project-name,
