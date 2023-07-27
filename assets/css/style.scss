@@ -2,7 +2,9 @@
 ---
 
 :root {
-    --bg-img: url(https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg), url(https://ghproxy.com/https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg);
+    --bg-img: 
+        url(https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg),               
+        url(https://ghproxy.com/https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg);
 }
 
 html,
@@ -61,7 +63,7 @@ main {
         background-attachment: fixed !important;
         background-size: cover;
         scale: 1;
-        opacity: 0.2 !important;
+        opacity: 0.3 !important;
     }
 
 
@@ -95,29 +97,25 @@ main {
         left: 0;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(120deg, #22226E, #12804966) !important;
+        background: linear-gradient(120deg, #44d, #1dcc7466) !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        opacity: 0.5;
+        opacity: 0.2;
     }
 
     main:hover::after,
     body:has(> div:hover) main::after {
         transition-delay: 200ms !important;
         transition-duration: 700ms !important;
+        background: linear-gradient(120deg, #44d, #1dcc7466), #000a !important;
         opacity: 0;
     }
-
-    main::before {
-        opacity: 0.4 !important;
-    }
-
+    
     /* content animation */
     main div,
     main p,
     main fx,
-    main li,
     main span,
     main hr,
     main gfw,
@@ -132,6 +130,11 @@ main {
         scale: 0.95;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
+    }
+    
+    main li {
+        opacity: 1 !important;
+        filter: none !important;
     }
 
     main blockquote:has(> note) {
@@ -302,11 +305,10 @@ main {
 
 
 
-header {
+.page-header {
     line-height: 2;
     background: linear-gradient(120deg, #4444dd88, #1dcc7466);
 }
-
 
 .project-name,
 .project-tagline {
