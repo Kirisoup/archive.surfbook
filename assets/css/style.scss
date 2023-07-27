@@ -97,19 +97,19 @@ main {
         left: 0;
         height: 100lvh !important;
         z-index: -100;
-        background: linear-gradient(120deg, #44d, #1dcc7466) !important;
+        background: #000 !important;
         background-position: center center !important;
         background-attachment: fixed !important;
         background-size: cover;
-        opacity: 0.2;
+        opacity: 0;
     }
 
     main:hover::after,
     body:has(> div:hover) main::after {
         transition-delay: 200ms !important;
         transition-duration: 700ms !important;
-        background: linear-gradient(120deg, #44d, #1dcc7466), #000a !important;
-        opacity: 0;
+        background: #000 !important;
+        opacity: 0.3;
     }
     
     /* content animation */
@@ -727,8 +727,6 @@ img:not(.ico) {
     transition-duration: 700ms;
     position: relative;
     min-width: 50vw !important; 
-    left: 50%;
-    transform: translateX(-50%);
     opacity: 0.5;
 }
 
