@@ -103,7 +103,7 @@
 	  intensity[N]=5+Math.random()*4;
 	  for (i=N*sparks; i<(N+1)*sparks; i++) {
 	    Xpos[i]=x;
-	    Ypos[i]=y-5;
+	    Ypos[i]=y /*-5*/ ;
 	    dY[i]=(Math.random()-0.5)*intensity[N];
 	    dX[i]=(Math.random()-0.5)*(intensity[N]-Math.abs(dY[i]))*1.25;
 	    decay[i]=16+Math.floor(Math.random()*16);
