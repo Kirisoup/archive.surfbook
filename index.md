@@ -10,8 +10,6 @@
 >
 > 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
 
----
-
 ## ⚠ 看这里：
 
 [<fx> *跳过* </fx>](#传送门)
@@ -24,8 +22,6 @@
 > 
 > <note></note> 
 
----
-
 ## **传送门**：
 > 
 > [<fx> 使用须知 </fx>](#-使用须知) \| 
@@ -33,8 +29,6 @@
 > [<fx> 正文 </fx>](#-东方常用) \| 
 > [<fx> 友链 </fx>](#-友链) \| 
 > [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-
----
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
@@ -49,8 +43,6 @@
 > - (￣∇￣) 私聊[雾雨蘑菇汤（Telegram）](https://t.me/kirisoup)~
 > 
 > <note></note> 
-
----
 
 ## ❓ 使用须知：
  
