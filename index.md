@@ -803,7 +803,10 @@
 
 > 生成你自己的啤酒烧烤表情包吧
 >
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png'" width= 200>
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png'" 
+> width = 200 
+> loading = "lazy">
 > 
 > <note></note>
 
@@ -825,7 +828,7 @@
 > 
 > > 越来越疯狂的彩虹猫
 > >
-> > ![nyancrazy.gif](https://daniwell.com/shared/main/img/contents/web/nyancrazy.gif)
+> > <img src = "https://daniwell.com/shared/main/img/contents/web/nyancrazy.gif" alt = "nyancrazy.gif" loading = "lazy">
 > >
 > > <note></note>
 > 
@@ -833,7 +836,7 @@
 > 
 > > 拉——长————！
 > > 
-> > ![nobasu.gif](https://daniwell.com/shared/main/img/contents/web/nobasu.gif)
+> > <img src = "https://daniwell.com/shared/main/img/contents/web/nobasu.gif" alt = "nobasu.gif" loading = "lazy">
 > >
 > > <note></note>
 >
@@ -841,7 +844,7 @@
 > 
 > > 抖动字体动图生成
 > >
-> > ![ugomoji.gif](https://daniwell.com/shared/main/img/contents/web/ugomoji.gif)
+> > <img src = "https://daniwell.com/shared/main/img/contents/web/ugomoji.gif" alt = "ugomoji.gif" loading = "lazy">
 > >
 > > <note></note>
 
