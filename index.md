@@ -347,6 +347,8 @@
 > > > > 对动画条目进行多标签搜索
 > > > > 
 > > > > <note></note>
+> >
+> > <note></note>
 >
 > [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/)
 >  
@@ -476,8 +478,6 @@
 > >
 > > 其他有趣的东方板块（Subreddit / Sub）：
 > > 
-> > <note></note>
-> 
 > > - [<fx> r/TrueTouhou </fx>](https://www.reddit.com/r/TrueTouhou/) 更加偏向于原作STG讨论的 Sub
 > > - [<fx> r/GensokyoLife </fx>](https://www.reddit.com/r/GensokyoLife/) 类似 r/Touhou 的东方综合 Sub（会分享很多质量不错或者很萌的同人插画）
 > > - [<fx> r/Fumofumo </fx>](https://www.reddit.com/r/Fumofumo/) ふもふも~
@@ -487,6 +487,7 @@
 > > - [<fx> r/touhou_irl </fx>](https://www.reddit.com/r/touhou_irl/) 东方，但是“我去，这根本就是我”
 > > - [<fx> r/touhou_yuri </fx>](https://www.reddit.com/r/touhou_yuri/) 百合东方
 > > - [<fx> r/Touhou_NSFW/ </fx>](https://www.reddit.com/r/Touhou_NSFW/) 涩涩东方（此 Sub 目前正在迁移至上面提到的 Burggit，新链接可访问[此处](https://burggit.moe/c/touhou_nsfw)）
+> > <note></note>
 
 [<fx> 爱撕衣 </fx>](https://bbs.saraba1st.com/)
 
@@ -765,8 +766,6 @@
 
 > 各种脑洞大开的网页游戏
 >
-> <note></note>
-
 > [<fx> The Password Game </fx>](https://neal.fun/password-game/)
 >
 > > 密码游戏 - 令人欲罢不能又脑溢血的小游戏，还可以当作检索与文本操作能力的练习
@@ -790,7 +789,7 @@
 > > 分享本页面 - 以各种方式千奇百怪的方式分享页面
 > >
 > > <note></note>
-
+>
 > 更多奇怪的小游戏就请各位自行前往网站体验~
 >
 > <note></note>
@@ -817,8 +816,6 @@
 
 > 各种神经病的网页工具游戏，以及超多V家
 >
-> <note></note>
-
 > [<fx> Nyan Cat Crazy </fx>](https://aidn.jp/nyancrazy/)
 > 
 > > 越来越疯狂的彩虹猫
