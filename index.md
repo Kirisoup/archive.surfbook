@@ -132,61 +132,66 @@
 
 # ⭐ 东方常用
 
-## <img class="ico" src="https://static.thwiki.cc/favicon.ico" alt = "thb icon" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
+## <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
 > 最好的中文东方维基
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" 
+> <img alt = "thbwiki.png" 
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'"
 > loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" alt = "nyasama icon" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
+## <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 
 > 非常好东方论坛
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" 
+> <img alt = "nyasama.png" 
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'"
 > loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://store.steampowered.com/favicon.ico" alt = "steam icon" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
+## <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 
 > 东方正作射击游戏正版购买
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" 
+> <img alt = "steam.png" 
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'"
 > loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://thdog.moe/favicon.ico" alt = "lilycloud icon" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
+## <img class="ico" alt = "lilycloud icon" src="https://thdog.moe/favicon.ico" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 
 > 正作游戏资源下载站（条件允许的话还请尽量于 Steam 购买正版）
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" 
+> <img alt = "lilycloud.png"
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'"
 > loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://www.patchyvideo.com/favicon.png" alt="patchy icon" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
+## <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 
 > 不动的东方视频创作档案馆
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" 
+> <img alt = "patchyv.png"
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'"
 > loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="isndes icon" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
+## <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 
 > 成为弹幕大触之路上的不二之选
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" 
+> <img alt = "isndes.png" src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'"
 > loading = "lazy">
 > 
@@ -803,7 +808,8 @@
 
 > 生成你自己的啤酒烧烤表情包吧
 >
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" 
+> <img alt = "pjsksticker.png" 
+> src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" 
 > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png'" 
 > width = 200 
 > loading = "lazy">
@@ -828,7 +834,7 @@
 > 
 > > 越来越疯狂的彩虹猫
 > >
-> > <img src = "https://daniwell.com/shared/main/img/contents/web/nyancrazy.gif" alt = "nyancrazy.gif" loading = "lazy">
+> > <img alt = "nyancrazy.gif" src = "https://daniwell.com/shared/main/img/contents/web/nyancrazy.gif" loading = "lazy">
 > >
 > > <note></note>
 > 
@@ -836,7 +842,7 @@
 > 
 > > 拉——长————！
 > > 
-> > <img src = "https://daniwell.com/shared/main/img/contents/web/nobasu.gif" alt = "nobasu.gif" loading = "lazy">
+> > <img alt = "nobasu.gif" src = "https://daniwell.com/shared/main/img/contents/web/nobasu.gif" loading = "lazy">
 > >
 > > <note></note>
 >
@@ -844,7 +850,7 @@
 > 
 > > 抖动字体动图生成
 > >
-> > <img src = "https://daniwell.com/shared/main/img/contents/web/ugomoji.gif" alt = "ugomoji.gif" loading = "lazy">
+> > <img alt = "ugomoji.gif" src = "https://daniwell.com/shared/main/img/contents/web/ugomoji.gif" loading = "lazy">
 > >
 > > <note></note>
 
