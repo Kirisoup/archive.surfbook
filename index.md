@@ -125,7 +125,8 @@
   - [<fx> 📁 浏览器插件 </fx>](#-浏览器插件)
     - [<fx> 📁 TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
     - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
-  - [<fx> 📁 涩涩 </fx>](#-涩涩)
+
+- [<fx> 📁 涩涩 </fx>](#-涩涩)
 
 ------
 
@@ -273,18 +274,6 @@
 [<fx> <gfw> H萌娘 </gfw> </fx>](https://hmoegirl.info/)
 
 > 从萌百分裂出来的维基，主要用以收录不适合在萌百展示的内容（NSFW）
->
-> <note></note>
-
-[<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN)
-
-> 黄油评论测评（NSFW）
->
-> 注：本网站的原始网址使用极其严格的ip过滤措施，日本以外的ip基本上不可能访问，上方链接使用谷歌网页翻译功能使得任何ip都能正常访问。
-> 
-> [点此访问网站原始链接](http://erogamescape.dyndns.org/)
->
-> 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
 >
 > <note></note>
 
@@ -1045,10 +1034,6 @@
 > > [<fx> sci-hub </fx>](https://sci-hub.ru/)
 > > 
 > > [<fx> 無產階級圖書館 </fx>](https://library.proletarian.me/)
-> > 
-> > & [<fx> 缪缪收藏的图书网址信息 </fx>](https://bgme.me/@Camus/109284118369473526) &
-> > 
-
 
 > ## 📁 网络安全
 > 
@@ -1101,23 +1086,33 @@
 > [<fx> 缩写去世器 </fx>](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
 > 
 > [<fx> 片假名去世器 </fx>](https://greasyfork.org/en/scripts/33268-katakana-terminator)
-> 
-> > ### 📁 其他自用脚本
-> > 
-> > [<fx> 中国知网CNKI硕博论文PDF下载 </fx>](https://greasyfork.org/en/scripts/389343-%E4%B8%AD%E5%9B%BD%E7%9F%A5%E7%BD%91cnki%E7%A1%95%E5%8D%9A%E8%AE%BA%E6%96%87pdf%E4%B8%8B%E8%BD%BD)
-> > 
-> > [<fx> 文库下载器 </fx>](https://greasyfork.org/en/scripts/437609-%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8)
 
-> ## 📁 涩涩
+---
+
+# 🍦 涩涩
+
+[<fx> <gfw> E-Hentai - ＂动作漫画＂网站 </gfw> </fx>](https://e-hentai.org/)
+
+[<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN)
+
+> 黄油评论测评
+>
+> 注：本网站的原始网址使用极其严格的ip过滤措施，日本以外的ip基本上不可能访问，上方链接使用谷歌网页翻译功能使得任何ip都能正常访问。
 > 
-> [<fx> <gfw> E-Hentai - ＂动作漫画＂网站 </gfw> </fx>](https://e-hentai.org/)
-> 
-> [<fx> <gfw> Kemono - Onlyfans / Patreon 付费资源公开 </gfw> </fx>](https://kemono.party/)
-> 
-> [<fx> <gfw> ＂健康宅男偶像＂以图搜图 </gfw> </fx>](https://xslist.org/zh)
-> 
-> [<fx> 1969-2022 里番全收录 </fx>](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf)
-> 
-> [<fx> <gfw> 东京图书馆 </gfw> </fx>](https://www.tokyotosho.info/)
-> 
-> [<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
+> [点此访问网站原始链接](http://erogamescape.dyndns.org/)
+>
+> 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
+>
+> <note></note>
+
+[<fx> <gfw> Kemono - Onlyfans / Patreon 付费资源公开 </gfw> </fx>](https://kemono.party/)
+
+[<fx> <gfw> ＂健康宅男偶像＂以图搜图 </gfw> </fx>](https://xslist.org/zh)
+
+[<fx> Nyaa（里站） </fx>](https://sukebei.nyaa.si/)
+
+[<fx> 1969-2022 里番全收录 </fx>](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf)
+
+[<fx> <gfw> 东京图书馆 </gfw> </fx>](https://www.tokyotosho.info/)
+
+[<fx> 班固米 - 里番收录 </fx>](https://bangumi.tv/blog/286840)
