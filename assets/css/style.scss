@@ -1,6 +1,63 @@
 ---
 ---
 
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+html {
+  line-height: 1; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: block;
+}
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+a {
+  background-color: transparent;
+}
+
+abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+img {
+  border-style: none;
+}
+
+template {
+  display: none;
+}
+
+[hidden] {
+  display: none;
+}
+
+/*
+   ========================================================================== */
+
 :root {
     --bg-img: 
         url(https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg),               
@@ -392,7 +449,7 @@ blockquote blockquote h1 {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     padding-inline: 1rem;
-    font-weight: bold;
+    font-weight: bolder;
     color: #fff !important;
     letter-spacing: 2px;
     text-shadow: none;
@@ -488,7 +545,7 @@ blockquote blockquote h6 {
 .main-content h6:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
-    font-weight: bold;
+    font-weight: bolder;
     color: #fff !important;
     letter-spacing: 2px;
     padding-inline: 1rem !important;
@@ -542,7 +599,7 @@ a fx gfw:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     color: #fff !important;
-    font-weight: bold;
+    font-weight: bolder;
     letter-spacing: 2px;
     text-shadow: 10px 10px #44da;
 }
