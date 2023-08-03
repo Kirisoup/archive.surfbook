@@ -132,51 +132,63 @@
 
 # ⭐ 东方常用
 
-## <img class="ico" src="https://static.thwiki.cc/favicon.ico" width = 20> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
+## <img class="ico" src="https://static.thwiki.cc/favicon.ico" alt = "thb icon" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/)
 
 > 最好的中文东方维基
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" width = 20> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
+## <img class="ico" src="https://bbs.nyasama.com/favicon.ico" alt = "nyasama icon" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/)
 
 > 非常好东方论坛
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
+## <img class="ico" src="https://store.steampowered.com/favicon.ico" alt = "steam icon" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3)
 
 > 东方正作射击游戏正版购买
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://thdog.moe/favicon.ico" width = 20> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
+## <img class="ico" src="https://thdog.moe/favicon.ico" alt = "lilycloud icon" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/)
 
 > 正作游戏资源下载站（条件允许的话还请尽量于 Steam 购买正版）
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://www.patchyvideo.com/favicon.png" width = 20>  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
+## <img class="ico" src="https://www.patchyvideo.com/favicon.png" alt="patchy icon" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/)
 
 > 不动的东方视频创作档案馆
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
-## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="original not found" width = 20> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
+## <img class="ico" src="https://icon.horse/icon/www.isndes.com" alt="isndes icon" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/)
 
 > 成为弹幕大触之路上的不二之选
 > 
-> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'">
+> <img src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" 
+> onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'"
+> loading = "lazy">
 > 
 > <note></note>
 
@@ -939,7 +951,7 @@
 > >
 > > <note></note>
 >
-> ### [<fx> ImgOps（原图搜索） </fx>](https://imgops.com/)
+> ### [<fx> ImgOps - 原图搜索 </fx>](https://imgops.com/)
 > 
 > > 
 > > 最好的图片搜索工具，聚合了大量图片搜索服务（包括谷歌图片这种综合搜索、SauceNao这种专用搜索）
@@ -972,13 +984,27 @@
 > >
 > > <note></note>
 >
-> ### [<fx> Waifu2x </fx>](https://waifu2x.udp.jp/)
+> [<fx> Waifu2x - 图片放大 </fx>](https://waifu2x.udp.jp/)
 >
 > > 基于AI的图片放大工具（适合ACG插画）
 > > 
 > > 上述网站在服务端处理，因此上限为2倍比率；基于本地处理的 [Unlimited Waifu2x](https://unlimited.waifu2x.net/) 可支持到4倍比率的放大（但是更加可能会出现莫名其妙的bug）
 > >
 > > <note></note>
+>
+> [<fx> FotoForensics - 图片处理痕迹 </fx>](https://fotoforensics.com/)
+>
+> > 使用某种黑科技探测图片上哪些地方可能被编辑过
+> >
+> > <note></note>
+>
+> [<fx> **W**hat**T**he**F**ont - 图片字体检测 </fx>](https://www.myfonts.com/pages/whatthefont)
+>
+> > 检测图片中文字所使用的的字体
+> >
+> > 同类网站：[<fx> What Font Is </fx>](https://www.whatfontis.com/)
+ 
+[<fx>  </fx>]()
 
 > ## 📁 BT (磁力)
 > 
