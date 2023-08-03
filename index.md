@@ -954,7 +954,7 @@
 > >
 > > Booru 类网站大全（或许过时）：
 > > 
-> > #### [<fx> Overbooru (Archive) </fx>](https://web.archive.org/web/20121026005558/http://overbooru.pinochan.net/)
+> > [<fx> Overbooru (Archive) </fx>](https://web.archive.org/web/20121026005558/http://overbooru.pinochan.net/)
 > >
 > > <note></note>
 >
