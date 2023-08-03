@@ -5,20 +5,6 @@
     --bg-img: 
         url(https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg),               
         url(https://ghproxy.com/https://github.com/Kirisoup/Kirisoup.github.io/blob/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg);
-    --banner-gradient-0: #4444dd00;
-    --banner-gradient-1: #1dcc7400;
-}
-
-@property --banner-gradient-0 {
-  syntax: '<color>';
-  initial-value: #4444dd00;
-  inherits: false;
-}
-
-@property --banner-gradient-1 {
-  syntax: '<color>';
-  initial-value: #1dcc7400;
-  inherits: false;
 }
 
 html,
@@ -30,9 +16,14 @@ body {
 
 body {
     background-color: #1e1e22 !important;
-    color: #CCD5ED !important;
+    color: #AFB7CC !important;
     font-family: SimHei !important;
     line-height: 1 !important;
+}
+
+body .page-header {
+        transition: 600ms !important;
+        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
 }
 
 main {
@@ -87,20 +78,6 @@ main {
         transition-delay: 200ms;
         scale: 1.3;
     }
-    
-    body .page-header {
-        transition: --banner-gradient-0 600ms, --banner-gradient-1 600ms !important;
-        background: linear-gradient(120deg, 
-            var(--banner-gradient-0), 
-            var(--banner-gradient-1)) !important;
-    }
-    
-    body:has(main:hover) .page-header {
-        transition: --banner-gradient-0 600ms, --banner-gradient-1 600ms !important;
-        --banner-gradient-0: #4444dd88;
-        --banner-gradient-1: #1dcc7466;
-    }
-    
 }
 
 @media (any-pointer: fine) {
@@ -210,6 +187,7 @@ main {
         filter: none;
         opacity: 1 !important;
     }
+
 }
 
 @media screen and (orientation: portrait) {
@@ -253,7 +231,6 @@ main {
     main:hover::before,
     body:has(> div:hover) main::before {
         scale: 1.3;
-        opacity: 0.1 !important;
     }
 }
 
@@ -273,29 +250,17 @@ main {
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1;
-        filter: brightness(2);
-        opacity: 0.1 !important;
+        filter: none !important;
+        opacity: 0.3 !important;
     }
 
     main:hover::before,
     body:has(> div:hover) main::before {
-        content: "";
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        height: 100lvh !important;
-        z-index: -100;
-        background-image: var(--bg-img) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
-        background-size: cover;
         transition-duration: 1500ms;
         scale: 1;
-        filter: brightness(2);
-        opacity: 0.1 !important;
+        opacity: 0.3 !important;
     }
-
+    
     /* content animation */
     main div,
     main h1,
@@ -313,6 +278,9 @@ main {
         transition-duration: 700ms;
         scale: 1;
         filter: none;
+        opacity: 1 !important;
+    }
+    img:not(.ico) {
         opacity: 1 !important;
     }
 }
@@ -349,10 +317,17 @@ hr {
 
 blockquote:not(:has(> note)) hr {
     margin-block: 2rem !important;
-    background: linear-gradient(90deg, #CCDAFF11 1%, #CCDAFF63, #CCDAFF11) !important;
+    background: #CCDAFF63 !important;
     height: 2px !important;
     width: 160vw !important;
     margin-left: -60vw !important;
+}
+
+blockquote:has(> note) hr {
+    margin-block: 2rem !important;
+    background: #CCDAFF63 !important;
+    height: 2px !important;
+    width: 160vw !important;
 }
 
 .site-footer {
@@ -365,12 +340,13 @@ hl {
 }
 
 .main-content h1 {
-    border-radius: 5px !important;
+    border-radius: 0px !important;
     margin-block: 2.3rem !important;
-    padding-inline: 1rem;
+    padding-inline: 0rem;
     padding-block: 0.7rem;
     color: #1DCC74 !important;
     text-shadow: 10px 10px #44da;
+    
 }
 
 blockquote blockquote h1 {
@@ -392,9 +368,30 @@ blockquote blockquote h1 {
     opacity: 0;
 }
 
+.main-content h1::after{
+    transition: 700ms 300ms;
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-block: 1rem !important;
+    z-index: -100;
+    border-bottom: solid 4px;
+    border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
+    opacity: 1
+}
+.main-content h1:hover::after{
+    transition: 0ms 0ms;
+    border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
+    opacity: 0
+}
+
 .main-content h1:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
+    padding-inline: 1rem;
     font-weight: bold;
     color: #fff !important;
     letter-spacing: 2px;
@@ -426,6 +423,34 @@ blockquote blockquote h1 {
     padding-block: 0.7rem;
     color: #1DCC74 !important;
     text-shadow: 10px 10px #44da !important;
+}
+
+.main-content h2:not(:has(> fx))::after,
+.main-content h3:not(:has(> fx))::after,
+.main-content h4:not(:has(> fx))::after,
+.main-content h5:not(:has(> fx))::after,
+.main-content h6:not(:has(> fx))::after {
+    transition: 700ms 300ms;
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-block: 1rem !important;
+    z-index: -100;
+    border-bottom: solid 3px;
+    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
+    opacity: 1
+}
+.main-content h2:not(:has(> fx)):hover::after,
+.main-content h3:not(:has(> fx)):hover::after,
+.main-content h4:not(:has(> fx)):hover::after,
+.main-content h5:not(:has(> fx)):hover::after,
+.main-content h6:not(:has(> fx)):hover::after {
+    transition: 0ms 0ms;
+    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
+    opacity: 0
 }
 
 blockquote blockquote h1,
@@ -560,7 +585,7 @@ li {
 blockquote {
     color: #CCD5ED !important;
     border: none !important;
-    margin-block: 1rem 2rem !important;
+    margin-block: 2rem 2rem !important;
     margin-right: 0 !important;
     padding-bottom: 0rem !important;
 }
@@ -569,6 +594,10 @@ blockquote:not(:has(> note)) {
     padding-left: 2rem !important;
     padding-right: 100vw !important;
     margin-right: -100vw !important;
+}
+
+blockquote:has(> note) > blockquote:not(:has(> note)) {
+    margin-block: 0 !important;
 }
 
 /* blockquote note */
@@ -595,6 +624,10 @@ blockquote:has(> note) {
     border-color: #CCDAFF31 !important;
     border-radius: 2px !important;
     line-height: normal !important;
+}
+
+blockquote:has(> note) fx {
+    font-size: 1rem !important;
 }
 
 blockquote:hover:has(> note) {
@@ -624,6 +657,7 @@ blockquote:hover:has(> note)::before {
 
 main:hover blockquote:has(> note) {
     scale: 1;
+    opacity: 1 !important;
     filter: none;
 }
 
@@ -743,12 +777,13 @@ p:hover jp::before, p:hover gb::before {
 img:not(.ico) {
     transition-duration: 700ms;
     position: relative;
+    z-index: -100 !important;
     min-width: 50vw !important; 
     opacity: 0.5;
 }
 
 blockquote:has(> note) img:not(.ico) {
-    padding-right: 10vw
+    padding-inline: 6vw
 }
 
 img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
