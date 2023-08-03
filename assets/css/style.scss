@@ -808,11 +808,13 @@ jp::before, gb::before {
 }
 
 jp::before {
-    background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg);
+    background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg), 
+        url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/jp.svg);
 }
 
 gb::before {
-    background-image: url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg);
+    background-image: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg), 
+        url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/flag/gb.svg);
 }
 
 p:hover jp::before, p:hover gb::before {
