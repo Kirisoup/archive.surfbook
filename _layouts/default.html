@@ -31,7 +31,7 @@
 	    let shigh = 600;
 	    let sleft = 0;
 	    let sdown = 0;
-	    let count = 4;
+	    let count = 0;
 	
 	    function addLoadEvent(funky) {
 	      const oldonload = window.onload;
@@ -101,7 +101,7 @@
 	    function eksplode(e) {
 	      const x = e ? e.pageX : event.x + sleft;
 	      const y = e ? e.pageY : event.y + sdown;
-	      const N = ++count % bangs;
+	      const N = (++count +5) % bangs;
 	      const M = Math.floor(Math.random() * 3 * colours.length);
 	      intensity[N] = 5 + Math.random() * 4;
 	      for (let i = N * sparks; i < (N + 1) * sparks; i++) {
