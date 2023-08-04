@@ -110,9 +110,11 @@
 	            decay[i]--;
 	          } else A++;
 	        }
-	        if (A !== sparks) timers[N] = setTimeout(function () {
-	          animate();
-	        }, 0);
+	        if (A !== sparks) {
+	          // Some sparks still exist, continue the animation
+	          requestAnimationFrame(animate);
+	          return;
+	        }
 	      }
 	    }
 	
@@ -135,8 +137,7 @@
 	        Z.fontSize = '13px';
 	        Z.visibility = 'visible';
 	      }
-	      clearTimeout(timers[N]);
-	      animate();
+	      requestAnimationFrame(animate);
 	    }
 	
 	    function set_width() {
@@ -185,11 +186,11 @@
 	    function resumeAnimation() {
 	      isPaused = false;
 	      lastTime = performance.now();
-	      animate();
+	      requestAnimationFrame(animate);
 	    }
 	
 	    // External event handlers to pause and resume the animation
-	    const hoverElement = document.getElementById('blockquote');
+	    const hoverElement = document.getElementById('your-hover-element-id');
 	    hoverElement.addEventListener('mouseenter', pauseAnimation);
 	    hoverElement.addEventListener('mouseleave', resumeAnimation);
 	
