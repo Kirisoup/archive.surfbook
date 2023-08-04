@@ -10,155 +10,179 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" onload="this.media='all'">
     {% include head-custom.html %} 
 
-	<script type="text/javascript">
-	  (function () {
-	    'use strict';
-	
-	    const sparks = 25;
-	    const speed = 23;
-	    const bangs = 5;
-	    const colours = ['#8ff', '#88f', '#8f8', '#8ff', '#88f', '#8f8', '#1dcc74', '#1dcc74', '#fff'];
-	
-	    const intensity = new Array();
-	    let Xpos = new Array();
-	    let Ypos = new Array();
-	    let dX = new Array();
-	    let dY = new Array();
-	    let stars = new Array();
-	    let decay = new Array();
-	    let timers = new Array();
-	    let swide = 800;
-	    let shigh = 600;
-	    let sleft = 0;
-	    let sdown = 0;
-	    let count = 0;
-	
-	    function addLoadEvent(funky) {
-	      const oldonload = window.onload;
-	      if (typeof oldonload !== 'function') {
-	        window.onload = funky;
-	      } else {
-	        window.onload = function () {
-	          if (oldonload) oldonload();
-	          funky();
-	        };
-	      }
-	    }
-	
-	    addLoadEvent(clicksplode);
-	
-	    function clicksplode() {
-	      if (document.getElementById) {
-	        window.addEventListener('scroll', set_scroll);
-	        window.addEventListener('resize', set_width);
-	        document.addEventListener('click', eksplode);
-	        set_width();
-	        set_scroll();
-	        for (let i = 0; i < bangs; i++) {
-	          for (let j = sparks * i; j < sparks + sparks * i; j++) {
-	            stars[j] = createDiv('★', 13);
-	            document.body.appendChild(stars[j]);
-	          }
-	        }
-	      }
-	    }
-	
-	    function createDiv(char, size) {
-	      const div = document.createElement('div');
-	      const sty = div.style;
-	      sty.font = size + 'px monospace';
-	      sty.position = 'absolute';
-	      sty.backgroundColor = 'transparent';
-	      sty.visibility = 'hidden';
-	      sty.zIndex = '-99';
-	      div.appendChild(document.createTextNode(char));
-	      return div;
-	    }
-	
-	    function bang(N) {
-	      let A = 1;
-	      for (let i = sparks * N; i < sparks * (N + 1); i++) {
-	        if (decay[i]) {
-	          const Z = stars[i].style;
-	          Xpos[i] += dX[i];
-	          Ypos[i] += (dY[i] += 1.25 / intensity[N]);
-	          if (Xpos[i] >= swide || Xpos[i] < 0 || Ypos[i] >= shigh + sdown || Ypos[i] < 0) decay[i] = 1;
-	          else {
-	            Z.left = Xpos[i] + 'px';
-	            Z.top = Ypos[i] + 'px';
-	          }
-	          if (decay[i] === 15) Z.fontSize = '7px';
-	          else if (decay[i] === 7) Z.fontSize = '2px';
-	          else if (decay[i] === 1) Z.visibility = 'hidden';
-	          decay[i]--;
-	        } else A++;
-	      }
-	      if (A !== sparks) timers[N] = setTimeout(function () {
-	        bang(N);
-	      }, speed);
-	    }
-	
-	    function eksplode(e) {
-	      const x = e ? e.pageX : event.x + sleft;
-	      const y = e ? e.pageY : event.y + sdown;
-	      const N = ++count % bangs;
-	      const M = Math.floor(Math.random() * 3 * colours.length);
-	      intensity[N] = 5 + Math.random() * 4;
-	      for (let i = N * sparks; i < (N + 1) * sparks; i++) {
-	        Xpos[i] = x;
-	        Ypos[i] = y;
-	        dY[i] = (Math.random() - 0.5) * intensity[N];
-	        dX[i] = (Math.random() - 0.5) * (intensity[N] - Math.abs(dY[i])) * 1.25;
-	        decay[i] = 16 + Math.floor(Math.random() * 16);
-	        const Z = stars[i].style;
-	        if (M < colours.length) Z.color = colours[i % 2 ? count % colours.length : M];
-	        else if (M < 2 * colours.length) Z.color = colours[count % colours.length];
-	        else Z.color = colours[i % colours.length];
-	        Z.fontSize = '13px';
-	        Z.visibility = 'visible';
-	      }
-	      clearTimeout(timers[N]);
-	      bang(N);
-	    }
-	
-	    function set_width() {
-	      let sw_min = 999999;
-	      let sh_min = 999999;
-	      const docElement = document.documentElement;
-	      const docBody = document.body;
-	
-	      if (docElement.clientWidth > 0) sw_min = docElement.clientWidth;
-	      if (docElement.clientHeight > 0) sh_min = docElement.clientHeight;
-	      if (self.innerWidth > 0 && self.innerWidth < sw_min) sw_min = self.innerWidth;
-	      if (self.innerHeight > 0 && self.innerHeight < sh_min) sh_min = self.innerHeight;
-	      if (docBody.clientWidth > 0 && docBody.clientWidth < sw_min) sw_min = docBody.clientWidth;
-	      if (docBody.clientHeight > 0 && docBody.clientHeight < sh_min) sh_min = docBody.clientHeight;
-	
-	      if (sw_min === 999999 || sh_min === 999999) {
-	        sw_min = 800;
-	        sh_min = 600;
-	      }
-	      swide = sw_min - 7;
-	      shigh = sh_min - 7;
-	    }
-	
-	    function set_scroll() {
-	      if (self.pageYOffset !== undefined) {
-	        sdown = self.pageYOffset;
-	        sleft = self.pageXOffset;
-	      } else if (docBody && (docBody.scrollTop || docBody.scrollLeft)) {
-	        sdown = docBody.scrollTop;
-	        sleft = docBody.scrollLeft;
-	      } else if (docElement && (docElement.scrollTop || docElement.scrollLeft)) {
-	        sleft = docElement.scrollLeft;
-	        sdown = docElement.scrollTop;
-	      } else {
-	        sdown = 0;
-	        sleft = 0;
-	      }
-	    }
-	  })();
-	</script>
+<script type="text/javascript">
+  (function () {
+    'use strict';
+
+    const sparks = 25;
+    const speed = 23;
+    const bangs = 5;
+    const colours = ['#8ff', '#88f', '#8f8', '#8ff', '#88f', '#8f8', '#1dcc74', '#1dcc74', '#fff'];
+
+    const intensity = new Array();
+    let Xpos = new Array();
+    let Ypos = new Array();
+    let dX = new Array();
+    let dY = new Array();
+    let stars = new Array();
+    let decay = new Array();
+    let timers = new Array();
+    let swide = 800;
+    let shigh = 600;
+    let sleft = 0;
+    let sdown = 0;
+    let count = 0;
+
+    // Flag to track if the specified element is being hovered
+    let isHovering = false;
+
+    function addLoadEvent(funky) {
+      const oldonload = window.onload;
+      if (typeof oldonload !== 'function') {
+        window.onload = funky;
+      } else {
+        window.onload = function () {
+          if (oldonload) oldonload();
+          funky();
+        };
+      }
+    }
+
+    addLoadEvent(clicksplode);
+
+    function clicksplode() {
+      if (document.getElementById) {
+        window.addEventListener('scroll', set_scroll);
+        window.addEventListener('resize', set_width);
+
+        // Listen for mouseenter and mouseleave events on the specified element
+        const hoverElement = document.getElementById('main');
+        hoverElement.addEventListener('mouseenter', handleHoverEnter);
+        hoverElement.addEventListener('mouseleave', handleHoverLeave);
+
+        document.addEventListener('click', eksplode);
+        set_width();
+        set_scroll();
+        for (let i = 0; i < bangs; i++) {
+          for (let j = sparks * i; j < sparks + sparks * i; j++) {
+            stars[j] = createDiv('★', 13);
+            document.body.appendChild(stars[j]);
+          }
+        }
+      }
+    }
+
+    function handleHoverEnter() {
+      isHovering = true;
+    }
+
+    function handleHoverLeave() {
+      isHovering = false;
+    }
+
+    function createDiv(char, size) {
+      const div = document.createElement('div');
+      const sty = div.style;
+      sty.font = size + 'px monospace';
+      sty.position = 'absolute';
+      sty.backgroundColor = 'transparent';
+      sty.visibility = 'hidden';
+      sty.zIndex = '-99';
+      div.appendChild(document.createTextNode(char));
+      return div;
+    }
+
+    function bang(N) {
+      let A = 1;
+      for (let i = sparks * N; i < sparks * (N + 1); i++) {
+        if (decay[i]) {
+          const Z = stars[i].style;
+          Xpos[i] += dX[i];
+          Ypos[i] += (dY[i] += 1.25 / intensity[N]);
+
+          // Pause the animation when hovering
+          if (isHovering) {
+            clearTimeout(timers[N]);
+            return;
+          }
+
+          if (Xpos[i] >= swide || Xpos[i] < 0 || Ypos[i] >= shigh + sdown || Ypos[i] < 0) decay[i] = 1;
+          else {
+            Z.left = Xpos[i] + 'px';
+            Z.top = Ypos[i] + 'px';
+          }
+          if (decay[i] === 15) Z.fontSize = '7px';
+          else if (decay[i] === 7) Z.fontSize = '2px';
+          else if (decay[i] === 1) Z.visibility = 'hidden';
+          decay[i]--;
+        } else A++;
+      }
+      if (A !== sparks) timers[N] = setTimeout(function () {
+        bang(N);
+      }, speed);
+    }
+
+    function eksplode(e) {
+      const x = e ? e.pageX : event.x + sleft;
+      const y = e ? e.pageY : event.y + sdown;
+      const N = ++count % bangs;
+      const M = Math.floor(Math.random() * 3 * colours.length);
+      intensity[N] = 5 + Math.random() * 4;
+      for (let i = N * sparks; i < (N + 1) * sparks; i++) {
+        Xpos[i] = x;
+        Ypos[i] = y;
+        dY[i] = (Math.random() - 0.5) * intensity[N];
+        dX[i] = (Math.random() - 0.5) * (intensity[N] - Math.abs(dY[i])) * 1.25;
+        decay[i] = 16 + Math.floor(Math.random() * 16);
+        const Z = stars[i].style;
+        if (M < colours.length) Z.color = colours[i % 2 ? count % colours.length : M];
+        else if (M < 2 * colours.length) Z.color = colours[count % colours.length];
+        else Z.color = colours[i % colours.length];
+        Z.fontSize = '13px';
+        Z.visibility = 'visible';
+      }
+      clearTimeout(timers[N]);
+      bang(N);
+    }
+
+    function set_width() {
+      let sw_min = 999999;
+      let sh_min = 999999;
+      const docElement = document.documentElement;
+      const docBody = document.body;
+
+      if (docElement.clientWidth > 0) sw_min = docElement.clientWidth;
+      if (docElement.clientHeight > 0) sh_min = docElement.clientHeight;
+      if (self.innerWidth > 0 && self.innerWidth < sw_min) sw_min = self.innerWidth;
+      if (self.innerHeight > 0 && self.innerHeight < sh_min) sh_min = self.innerHeight;
+      if (docBody.clientWidth > 0 && docBody.clientWidth < sw_min) sw_min = docBody.clientWidth;
+      if (docBody.clientHeight > 0 && docBody.clientHeight < sh_min) sh_min = docBody.clientHeight;
+
+      if (sw_min === 999999 || sh_min === 999999) {
+        sw_min = 800;
+        sh_min = 600;
+      }
+      swide = sw_min - 7;
+      shigh = sh_min - 7;
+    }
+
+    function set_scroll() {
+      if (self.pageYOffset !== undefined) {
+        sdown = self.pageYOffset;
+        sleft = self.pageXOffset;
+      } else if (docBody && (docBody.scrollTop || docBody.scrollLeft)) {
+        sdown = docBody.scrollTop;
+        sleft = docBody.scrollLeft;
+      } else if (docElement && (docElement.scrollTop || docElement.scrollLeft)) {
+        sleft = docElement.scrollLeft;
+        sdown = docElement.scrollTop;
+      } else {
+        sdown = 0;
+        sleft = 0;
+      }
+    }
+  })();
+</script>
 	 
   </head>
   <body>
