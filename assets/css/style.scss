@@ -851,4 +851,4 @@ img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
     opacity: 1;
 }
 
-@import "{{ site.theme }}";
+@import "{{ '_sass/jekyll-theme-cayman.scss?v=' | relative_url }}";
