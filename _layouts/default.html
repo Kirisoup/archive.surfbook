@@ -101,7 +101,7 @@
 	    function eksplode(e) {
 	      const x = e ? e.pageX : event.x + sleft;
 	      const y = e ? e.pageY : event.y + sdown;
-	      const N = (++count +5) % bangs;
+	      const N = (++count + 4) % bangs;
 	      const M = Math.floor(Math.random() * 3 * colours.length);
 	      intensity[N] = 5 + Math.random() * 4;
 	      for (let i = N * sparks; i < (N + 1) * sparks; i++) {
