@@ -22,11 +22,11 @@
 
 ## **传送门**：
 > 
-> [<fx> 使用须知 </fx>](#-使用须知) \| 
-> [<fx> 目录 </fx>](#-目录) \| 
-> [<fx> 正文 </fx>](#-东方常用) \| 
-> [<fx> 友链 </fx>](#-友链) \| 
-> [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+> - [<fx> 使用须知 </fx>](#-使用须知)
+> - [<fx> 目录 </fx>](#-目录)
+> - [<fx> 正文 </fx>](#-东方常用)
+> - [<fx> 友链 </fx>](#-友链)
+> - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
@@ -328,31 +328,31 @@
 > > > 
 > > > 拥有很纯粹的社区氛围和意外很活跃的用户群体（比如说极其丰富的第三方工具）
 > > >
-> > > 第三方工具：
-> > > >
-> > > > [<fx> 班固米 - 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
-> > > >
-> > > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
-> > > > > 
-> > > > > <note></note>
-> > > >
-> > > > [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
-> > > >
-> > > > > 比班固米原生的动画评分排名更加“科学”的排名系统
-> > > > > 
-> > > > > <note></note>
-> > > >
-> > > > [<fx> 班固米 - 评分趋势 </fx>](https://netaba.re/)
+> > > ### 第三方工具：
+> > > 
+> > > [<fx> 班固米 - 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
+> > > 
+> > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
 > > > > 
-> > > > > 动画的历史评分走向
-> > > > > 
-> > > > > <note></note>
-> > > >
-> > > > [<fx> 班固米 - 标签搜索 </fx>](https://chii.ai/search)
-> > > >
-> > > > > 对动画条目进行多标签搜索
-> > > > > 
-> > > > > <note></note>
+> > > > <note></note>
+> > > 
+> > > [<fx> 班固米 - 科学排名 </fx>](https://chii.ai/)
+> > > 
+> > > > 比班固米原生的动画评分排名更加“科学”的排名系统
+> > > > 
+> > > > <note></note>
+> > > 
+> > > [<fx> 班固米 - 评分趋势 </fx>](https://netaba.re/)
+> > > 
+> > > > 动画的历史评分走向
+> > > > 
+> > > > <note></note>
+> > > 
+> > > [<fx> 班固米 - 标签搜索 </fx>](https://chii.ai/search)
+> > > 
+> > > > 对动画条目进行多标签搜索
+> > > > 
+> > > > <note></note>
 > > >
 > > > <note></note>
 > >
@@ -842,14 +842,14 @@
 > > > <img alt = "ugomoji.gif" src = "https://daniwell.com/shared/main/img/contents/web/ugomoji.gif" loading = "lazy">
 > > >
 > > > <note></note>
+> >
+> > <note></note>
 > 
 > [<fx> Bokete </fx>](https://bokete.jp/)
 > 
 > > 日式图片沙雕配文
 > >
 > > <note></note>
-
-
 
 ------
 
@@ -941,7 +941,7 @@
 > > >
 > > > [<fx> Konachan（特点是高分辨率） </fx>](https://konachan.com/)
 > > >
-> > > Booru 类网站大全（或许过时）：
+> > > #### Booru 类网站大全（或许过时）：
 > > > 
 > > > [<fx> Overbooru (Archive) </fx>](https://web.archive.org/web/20121026005558/http://overbooru.pinochan.net/)
 > > >
@@ -993,11 +993,14 @@
 > > >
 > > > <note></note>
 > >
-> > [<fx> **W**hat**T**he**F**ont - 图片字体检测 </fx>](https://www.myfonts.com/pages/whatthefont)
+> > [<fx> WhatTheFont - 图片字体检测 </fx>](https://www.myfonts.com/pages/whatthefont)
 > >
 > > > 检测图片中文字所使用的的字体
 > > >
-> > > 同类网站：[<fx> What Font Is </fx>](https://www.whatfontis.com/)
+> > > 同类网站：
+> > > [<fx> What Font Is </fx>](https://www.whatfontis.com/)
+> > >
+> > > <note></note>
 > 
 > > ## 📁 BT (磁力)
 > > 
@@ -1092,19 +1095,19 @@
 > > 
 > > [<fx> OneTab - 拯救同时开启五百个网页的坏习惯 </fx>](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
 > > 
-> > ### 📁 TamperMonkey (油猴)
-> > 
-> > [<fx> Tampermonkey - 用户脚本加载 </fx>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-> > 
-> > [<fx> Greasy Fork - 用户脚本检索 </fx>](https://greasyfork.org/)
-> > 
-> > [<fx> 网盘直链下载助手 </fx>](https://www.youxiaohou.com/install.html)
-> > 
-> > [<fx> Bilibili 旧播放页 </fx>](https://greasyfork.org/en/scripts/394296-bilibili-%E6%97%A7%E6%92%AD%E6%94%BE%E9%A1%B5)
-> > 
-> > [<fx> 缩写去世器 </fx>](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
-> > 
-> > [<fx> 片假名去世器 </fx>](https://greasyfork.org/en/scripts/33268-katakana-terminator)
+> > > ### 📁 TamperMonkey (油猴)
+> > > 
+> > > [<fx> Tampermonkey - 用户脚本加载 </fx>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+> > > 
+> > > [<fx> Greasy Fork - 用户脚本检索 </fx>](https://greasyfork.org/)
+> > > 
+> > > [<fx> 网盘直链下载助手 </fx>](https://www.youxiaohou.com/install.html)
+> > > 
+> > > [<fx> Bilibili 旧播放页 </fx>](https://greasyfork.org/en/scripts/394296-bilibili-%E6%97%A7%E6%92%AD%E6%94%BE%E9%A1%B5)
+> > > 
+> > > [<fx> 缩写去世器 </fx>](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
+> > > 
+> > > [<fx> 片假名去世器 </fx>](https://greasyfork.org/en/scripts/33268-katakana-terminator)
 
 ---
 
