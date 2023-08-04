@@ -35,6 +35,7 @@
 	
 	    // Flag to track if the animation is currently paused
 	    let isPaused = false;
+	    let lastTime = 0;
 	
 	    function addLoadEvent(funky) {
 	      const oldonload = window.onload;
@@ -63,6 +64,7 @@
 	            document.body.appendChild(stars[j]);
 	          }
 	        }
+	        lastTime = performance.now();
 	        animate();
 	      }
 	    }
@@ -86,13 +88,17 @@
 	        return;
 	      }
 	
+	      const now = performance.now();
+	      const elapsed = now - lastTime;
+	      lastTime = now;
+	
 	      let A = 1;
 	      for (let N = 0; N < bangs; N++) {
 	        for (let i = sparks * N; i < sparks * (N + 1); i++) {
 	          if (decay[i]) {
 	            const Z = stars[i].style;
-	            Xpos[i] += dX[i];
-	            Ypos[i] += (dY[i] += 1.25 / intensity[N]);
+	            Xpos[i] += dX[i] * (elapsed / speed);
+	            Ypos[i] += (dY[i] += 1.25 / intensity[N]) * (elapsed / speed);
 	            if (Xpos[i] >= swide || Xpos[i] < 0 || Ypos[i] >= shigh + sdown || Ypos[i] < 0) decay[i] = 1;
 	            else {
 	              Z.left = Xpos[i] + 'px';
@@ -106,7 +112,7 @@
 	        }
 	        if (A !== sparks) timers[N] = setTimeout(function () {
 	          animate();
-	        }, speed);
+	        }, 0);
 	      }
 	    }
 	
@@ -178,11 +184,12 @@
 	    // Function to resume the animation externally
 	    function resumeAnimation() {
 	      isPaused = false;
+	      lastTime = performance.now();
 	      animate();
 	    }
 	
 	    // External event handlers to pause and resume the animation
-	    const hoverElement = document.getElementById('main');
+	    const hoverElement = document.getElementById('img');
 	    hoverElement.addEventListener('mouseenter', pauseAnimation);
 	    hoverElement.addEventListener('mouseleave', resumeAnimation);
 	
