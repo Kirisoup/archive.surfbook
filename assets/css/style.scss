@@ -1,6 +1,63 @@
 ---
 ---
 
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+html {
+  line-height: 1; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  display: block;
+}
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+a {
+  background-color: transparent;
+}
+
+abbr[title] {
+  border-bottom: none; /* 1 */
+  text-decoration: underline; /* 2 */
+  text-decoration: underline dotted; /* 2 */
+}
+
+b,
+strong {
+  font-weight: bolder;
+}
+
+code,
+kbd,
+samp {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
+
+img {
+  border-style: none;
+}
+
+template {
+  display: none;
+}
+
+[hidden] {
+  display: none;
+}
+
+/*
+   ========================================================================== */
+
 :root {
     --bg-img: 
         url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.jpg),               
@@ -111,6 +168,7 @@ main {
     main div,
     main p,
     main fx,
+    main li,
     main span,
     main hr,
     main gfw,
@@ -120,8 +178,8 @@ main {
     main h5,
     main h6 {
         transition: scale 700ms, opacity 200ms 600ms,
-        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, border 700ms, border-bottom 700ms,
-        filter 200ms 600ms !important;
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, border 700ms, border-bottom 700ms, margin-left 700ms 700ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
@@ -134,8 +192,8 @@ main {
 
     main blockquote:has(> note) {
         transition: scale 700ms, opacity 200ms 600ms,
-        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms, margin-right 700ms, border-color 700ms, 
-        filter 200ms 600ms !important;
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms, margin-right 700ms, border-color 700ms, 
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
@@ -148,8 +206,8 @@ main {
 
     main a {
         transition: scale 700ms, opacity 200ms 600ms,
-        color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-        filter 200ms 600ms !important;
+            color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
@@ -158,8 +216,8 @@ main {
     main h1,
     main footer {
         transition: scale 700ms, opacity 200ms 600ms,
-        color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms,
-        filter 200ms 600ms !important;
+            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms,
+            filter 200ms 600ms !important;
         scale: 0.95;
         opacity: 0.6 !important;
         filter: brightness(2);
@@ -314,6 +372,7 @@ hr,
 
 hr {
     background: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) !important;
+    border: none !important;
 }
 
 blockquote:not(:has(> note)) hr {
@@ -524,6 +583,7 @@ a fx gfw {
     transition-delay: 100ms;
     transition-duration: 700ms;
     color: #87B6CC !important;
+    font-size: 1.25rem!important;
     letter-spacing: 0.5px;
     line-height: 1.5 !important;
     white-space: nowrap !important;
@@ -548,7 +608,7 @@ a fx gfw:hover {
     text-shadow: 10px 10px #44da;
 }
 
-a fx gfw:hover {
+a fx gfw:hover{
     text-shadow: 10px 10px #dd46;
 }
 
@@ -556,7 +616,7 @@ p a fx:hover {
     padding-left: 0.5rem !important;
 }
 
-p a fx::before{
+:not(li) > p a fx::before{
     transition: 700ms 300ms;
     content: "";
     position: fixed;
@@ -570,6 +630,7 @@ p a fx::before{
     border-image: linear-gradient(90deg, #CCDAFF00, #CCDAFF23 10%, #CCDAFF00) 1;
     opacity: 1
 }
+
 p a fx:hover::before{
     transition: 0ms 0ms;
     border-image: linear-gradient(90deg, #CCDAFF00 1%, #CCDAFF23, #CCDAFF00) 1;
@@ -586,14 +647,19 @@ li {
 blockquote {
     color: #CCD5ED !important;
     border: none !important;
-    margin-block: 2rem 2rem !important;
+    margin-block: 1rem 1rem !important;
     margin-right: 0 !important;
     padding-bottom: 0rem !important;
 }
 
 blockquote:not(:has(> note)) {
-    padding-left: 2rem !important;
+    padding-left: 0rem !important;
+    margin-left: 0rem;
+}
+
+blockquote blockquote:not(:has(> note)) {
     padding-right: 100vw !important;
+    margin-left: 2rem !important;
     margin-right: -100vw !important;
 }
 
@@ -619,8 +685,8 @@ blockquote:has(> note) {
     margin-top: 0;
     margin-inline: 0;
     padding: 1rem;
-    padding-top: 0.8rem !important;
-    padding-bottom: 0.2rem !important;
+    padding-top: 0.1rem !important;
+    padding-bottom: 0.1rem !important;
     border-left: solid 4px !important;
     border-color: #CCDAFF31 !important;
     border-radius: 2px !important;
@@ -628,14 +694,21 @@ blockquote:has(> note) {
 }
 
 blockquote:has(> note) fx {
-    font-size: 1rem !important;
+    font-size: 1.2rem !important;
 }
 
 blockquote:hover:has(> note) {
     transition: margin-left 0ms !important;
-    margin-left: 0.8rem;
-    margin-right: -0.8rem !important;
+    margin-left: 0rem;
+    margin-right: 0rem !important;
     border-color: #CCDAFF !important;
+}
+
+blockquote:hover:has(> note) > :not(blockquote):not(note) {
+    transition-delay: 0ms !important;
+    transition-duration: 0ms !important;
+    margin-left: 0.5rem !important;
+    margin-right: -0.5rem !important;
 }
 
 blockquote:has(> note)::before {
@@ -780,13 +853,15 @@ p:hover jp::before, p:hover gb::before {
 img:not(.ico) {
     transition-duration: 700ms;
     position: relative;
-    z-index: -100 !important;
-    min-width: 50vw !important; 
+    min-width: 0vw !important; 
+    max-width: 80vw !important;
+    min-height: 0vh !important;
+    max-height: 30vh !important;
     opacity: 0.5;
 }
 
 blockquote:has(> note) img:not(.ico) {
-    padding-inline: 6vw
+    padding-inline: 0vw
 }
 
 img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
@@ -794,4 +869,4 @@ img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
     opacity: 1;
 }
 
-@import url('../_sass/jekyll-theme-cayman.scss');
+@import url(https://github.com/Kirisoup/Kirisoup.github.io/raw/main/_sass/jekyll-theme-cayman.scss);
