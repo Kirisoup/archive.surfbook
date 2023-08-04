@@ -79,8 +79,9 @@ body {
 }
 
 body .page-header {
-        transition: 600ms !important;
-        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
+    margin-top: -1rem!important;
+    transition: 600ms !important;
+    background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
 }
 
 main {
@@ -704,7 +705,7 @@ blockquote:hover:has(> note) {
     border-color: #CCDAFF !important;
 }
 
-blockquote:hover:has(> note) > :not(blockquote):not(note) {
+blockquote:hover:has(> note) > :not(blockquote):not(note):not(p:has(img)) {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     margin-left: 0.5rem !important;
@@ -857,11 +858,11 @@ img:not(.ico) {
     max-width: 80vw !important;
     min-height: 0vh !important;
     max-height: 30vh !important;
-    opacity: 0.5;
+    opacity: 0.3;
 }
 
 blockquote:has(> note) img:not(.ico) {
-    padding-inline: 0vw
+    padding-inline: 0.5rem
 }
 
 img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
