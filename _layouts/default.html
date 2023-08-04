@@ -19,12 +19,14 @@
 	    const bangs = 5;
 	    const colours = ['#8ff', '#88f', '#8f8', '#8ff', '#88f', '#8f8', '#1dcc74', '#1dcc74', '#fff'];
 	
-	    let Xpos = [];
-	    let Ypos = [];
-	    let dX = [];
-	    let dY = [];
-	    let stars = [];
-	    let decay = [];
+	    const intensity = new Array();
+	    let Xpos = new Array();
+	    let Ypos = new Array();
+	    let dX = new Array();
+	    let dY = new Array();
+	    let stars = new Array();
+	    let decay = new Array();
+	    let timers = new Array();
 	    let swide = 800;
 	    let shigh = 600;
 	    let sleft = 0;
@@ -79,7 +81,7 @@
 	        if (decay[i]) {
 	          const Z = stars[i].style;
 	          Xpos[i] += dX[i];
-	          Ypos[i] += (dY[i] += 1.25 / intensity(N));
+	          Ypos[i] += (dY[i] += 1.25 / intensity[N]);
 	          if (Xpos[i] >= swide || Xpos[i] < 0 || Ypos[i] >= shigh + sdown || Ypos[i] < 0) decay[i] = 1;
 	          else {
 	            Z.left = Xpos[i] + 'px';
@@ -91,7 +93,7 @@
 	          decay[i]--;
 	        } else A++;
 	      }
-	      if (A !== sparks) setTimeout(function () {
+	      if (A !== sparks) timers[N] = setTimeout(function () {
 	        bang(N);
 	      }, speed);
 	    }
@@ -101,12 +103,12 @@
 	      const y = e ? e.pageY : event.y + sdown;
 	      const N = ++count % bangs;
 	      const M = Math.floor(Math.random() * 3 * colours.length);
-	      const intensity = 5 + Math.random() * 4;
+	      intensity[N] = 5 + Math.random() * 4;
 	      for (let i = N * sparks; i < (N + 1) * sparks; i++) {
 	        Xpos[i] = x;
 	        Ypos[i] = y;
-	        dY[i] = (Math.random() - 0.5) * intensity;
-	        dX[i] = (Math.random() - 0.5) * (intensity - Math.abs(dY[i])) * 1.25;
+	        dY[i] = (Math.random() - 0.5) * intensity[N];
+	        dX[i] = (Math.random() - 0.5) * (intensity[N] - Math.abs(dY[i])) * 1.25;
 	        decay[i] = 16 + Math.floor(Math.random() * 16);
 	        const Z = stars[i].style;
 	        if (M < colours.length) Z.color = colours[i % 2 ? count % colours.length : M];
@@ -115,9 +117,8 @@
 	        Z.fontSize = '13px';
 	        Z.visibility = 'visible';
 	      }
-	      setTimeout(function () {
-	        bang(N);
-	      }, 0);
+	      clearTimeout(timers[N]);
+	      bang(N);
 	    }
 	
 	    function set_width() {
@@ -156,13 +157,9 @@
 	        sleft = 0;
 	      }
 	    }
-	
-	    function intensity(N) {
-	      return 5 + Math.random() * 4;
-	    }
 	  })();
 	</script>
- 
+	 
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
