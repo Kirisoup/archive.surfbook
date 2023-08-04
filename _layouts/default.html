@@ -165,8 +165,8 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-	<h1 class="project-name">幻想乡冲浪大手册 ~ The Gensokyo Surfing Guidebook</h1>
-	<h2 class="project-tagline">“天亦3G实在是太快了！” 终于，互联网的插头也随着这过时的网络系统接入了幻想乡。想必，面对这份全新而又复杂的存在，各位幻想之中、时代之外的少年少女们或许都有些一头雾水吧？萨，就由我这西洋的东方魔法使☆雾雨·蘑菇汤☆，引领各位踏上这激动人心的赛博之旅~~</h2>
+	<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+	<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 	{% if site.github.is_project_page %}
 		<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
 	{% endif %}
