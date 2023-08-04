@@ -443,13 +443,16 @@ blockquote blockquote h1 {
     border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
     opacity: 1
 }
-.main-content h1:hover::after{
+
+.main-content h1:hover::after,
+.main-content h1:has(+ blockquote:hover)::after {
     transition: 0ms 0ms;
     border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
     opacity: 0
 }
 
-.main-content h1:hover {
+.main-content h1:hover,
+.main-content h1:has(+ blockquote:hover) {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     padding-inline: 1rem;
@@ -459,7 +462,8 @@ blockquote blockquote h1 {
     text-shadow: none;
 }
 
-.main-content h1:hover::before {
+.main-content h1:hover::before, 
+.main-content h1:has(+ blockquote:hover)::before {
     content: "";
     position: fixed;
     top: 0;
@@ -484,34 +488,6 @@ blockquote blockquote h1 {
     padding-block: 0.7rem;
     color: #1DCC74 !important;
     text-shadow: 10px 10px #44da !important;
-}
-
-.main-content h2:not(:has(> fx))::after,
-.main-content h3:not(:has(> fx))::after,
-.main-content h4:not(:has(> fx))::after,
-.main-content h5:not(:has(> fx))::after,
-.main-content h6:not(:has(> fx))::after {
-    transition: 700ms 300ms;
-    content: "";
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding-block: 1rem !important;
-    z-index: -100;
-    border-bottom: solid 3px;
-    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
-    opacity: 1
-}
-.main-content h2:not(:has(> fx)):hover::after,
-.main-content h3:not(:has(> fx)):hover::after,
-.main-content h4:not(:has(> fx)):hover::after,
-.main-content h5:not(:has(> fx)):hover::after,
-.main-content h6:not(:has(> fx)):hover::after {
-    transition: 0ms 0ms;
-    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
-    opacity: 0
 }
 
 blockquote blockquote h1,
@@ -546,7 +522,12 @@ blockquote blockquote h6 {
 .main-content h3:hover,
 .main-content h4:hover,
 .main-content h5:hover,
-.main-content h6:hover {
+.main-content h6:hover,
+blockquote:hover > h2,
+blockquote:hover > h3,
+blockquote:hover > h4,
+blockquote:hover > h5,
+blockquote:hover > h6 {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     font-weight: bolder;
@@ -560,19 +541,58 @@ blockquote blockquote h6 {
 .main-content h3:hover::before,
 .main-content h4:hover::before,
 .main-content h5:hover::before,
-.main-content h6:hover::before {
+.main-content h6:hover::before,
+blockquote:hover > h2::before,
+blockquote:hover > h3::before,
+blockquote:hover > h4::before,
+blockquote:hover > h5::before,
+blockquote:hover > h6::before {
     transition-duration: 0ms !important;
     opacity: 1;
 }
 
-gfw {
-    color: #dd4 !important;
+.main-content h2:not(:has(fx))::after,
+.main-content h3:not(:has(fx))::after,
+.main-content h4:not(:has(fx))::after,
+.main-content h5:not(:has(fx))::after,
+.main-content h6:not(:has(fx))::after {
+    transition: 700ms 300ms;
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-block: 1rem !important;
+    z-index: -100;
+    border-bottom: solid 3px;
+    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
+    opacity: 1
+}
+
+.main-content h2:not(:has(fx)):hover::after,
+.main-content h3:not(:has(fx)):hover::after,
+.main-content h4:not(:has(fx)):hover::after,
+.main-content h5:not(:has(fx)):hover::after,
+.main-content h6:not(:has(fx)):hover::after,
+blockquote:hover > h2:not(:has(fx))::after,
+blockquote:hover > h3:not(:has(fx))::after,
+blockquote:hover > h4:not(:has(fx))::after,
+blockquote:hover > h5:not(:has(fx))::after,
+blockquote:hover > h6:not(:has(fx))::after {
+    transition: 0ms 0ms;
+    border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
+    opacity: 0
 }
 
 /* hyperlink */
 a {
     color: #87B6CC !important;
     text-decoration: none !important;
+}
+
+gfw {
+    color: #dd4 !important;
 }
 
 a:hover {
@@ -648,7 +668,7 @@ li {
 blockquote {
     color: #CCD5ED !important;
     border: none !important;
-    margin-block: 1rem 1rem !important;
+    margin-block: 1rem !important;
     margin-right: 0 !important;
     padding-bottom: 0rem !important;
 }
@@ -686,8 +706,7 @@ blockquote:has(> note) {
     margin-top: 0;
     margin-inline: 0;
     padding: 1rem;
-    padding-top: 0.1rem !important;
-    padding-bottom: 0.1rem !important;
+    padding-block: 0.1rem !important;
     border-left: solid 4px !important;
     border-color: #CCDAFF31 !important;
     border-radius: 2px !important;
@@ -721,7 +740,7 @@ blockquote:has(> note)::before {
     left: 0;
     z-index: -100;
     transition-duration: 700ms;
-    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
+    background: linear-gradient(90deg, #CCDAFF23, #CCDAFF00) !important;
     opacity: 0;
 }
 
@@ -870,4 +889,4 @@ img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
     opacity: 1;
 }
 
-@import url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/_sass/jekyll-theme-cayman.scss);
+@import url(https://github.com/Kirisoup/Kirisoup.github.io/raw/main/_sass/jekyll-theme-cayman.scss);
