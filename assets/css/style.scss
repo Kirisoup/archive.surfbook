@@ -490,12 +490,12 @@ blockquote blockquote h1 {
     text-shadow: 10px 10px #44da !important;
 }
 
-blockquote blockquote h1,
-blockquote blockquote h2,
-blockquote blockquote h3,
-blockquote blockquote h4,
-blockquote blockquote h5,
-blockquote blockquote h6 {
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h1,
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h2,
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h3,
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h4,
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h5,
+blockquote:not(:has(> note)) blockquote:not(:has(> note)) h6 {
     margin-left: -2rem !important;
 }
 
