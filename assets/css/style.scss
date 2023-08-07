@@ -1,6 +1,3 @@
----
----
-
 html {
   line-height: 1; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -87,6 +84,7 @@ body .page-header {
 main {
     position: relative !important;
     min-width: 60vw !important;
+    max-width: 70vw;
     margin-inline: auto !important;
 }
 
@@ -139,6 +137,26 @@ main {
 }
 
 @media (any-pointer: fine) {
+
+    
+    iframe {
+        transition: opacity 400ms 0ms, right 0ms 400ms;
+        right: -20rem;
+        opacity: 0
+    }
+
+    html:hover iframe {
+        transition: opacity 700ms 1000ms, right 700ms 1000ms;
+        right: 0rem;
+        opacity: 1;
+    }
+
+    body:hover main:hover ~ iframe {
+        transition: opacity 400ms 0ms, right 0ms 400ms;
+        right: -20rem;
+        opacity: 0;
+    }
+    
     main::after {
         transition-delay: 100ms !important;
         transition-duration: 1000ms !important;
@@ -295,6 +313,12 @@ main {
 }
 
 @media (any-pointer: coarse) {
+    
+    iframe {
+        transition: opacity 400ms 0ms, right 0ms 400ms;
+        right: -20rem;
+        opacity: 0
+    }
 
     main::before {
         content: "";
@@ -344,12 +368,6 @@ main {
         opacity: 1 !important;
     }
 }
-
-#skip-to-content {
-    visibility: hidden !important;
-}
-
-
 
 .page-header {
     line-height: 2;
@@ -817,8 +835,14 @@ div.language-plaintext.highlighter-rouge:hover {
 code {
     color: #fff !important;
     line-height: normal !important;
-    background-color: #0000 !important;
+    padding: 0.05rem 0.2rem;
+    border-radius: 5px;
+    background-color: #000 !important;
     margin-left: 0.2rem !important
+}
+
+.highlight > code {
+    background-color: #0000 !important;
 }
 
 /* favicon */
@@ -848,4 +872,14 @@ blockquote:has(> note) img:not(.ico) {
 img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
     transition-duration: 300ms;
     opacity: 1;
+}
+
+/* Chat box */
+
+iframe {
+    position: fixed;
+    bottom: 0;
+    height: 100ch;
+    width: 15rem; 
+    max-width: 50vw;
 }
