@@ -10,9 +10,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" onload="this.media='all'">
     {% include head-custom.html %} 
 
-<script type="text/javascript">
-  document.querySelector('iframe').contentDocument.body.style.backgroundColor = '#00ffff';
-</script>
+    <script>
+	window.onload = function () {
+	var test =
+	document.querySelector('iframe').contentWindow.document.getElementsByTagName('body');
+	test.style.background = "#0ff";
+	}
+    </script>
 	  
   </head>
   <body>
