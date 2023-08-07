@@ -186,8 +186,9 @@
     </main>
     <iframe src="https://www3.cbox.ws/box/?boxid=3530749&boxtag=Txc0kj" width="100%" height="450" allowtransparency="true" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
 
-    <scritp>
-	var iframe = top.querySelector('iframe[src="https://www3.cbox.ws/box/?boxid=3530749&boxtag=Txc0kj"]').document;
+    <script>
+	var iframe = document.getElementById('externalIframe');
+
 	var css = '' +
         	'<style type="text/css">' +
         	'html,body{background:transparent;}.msg{margin:0.75rem;border-radius:5px;padding:0.75rem;}a[href="https://www.cbox.ws/?r=3-3530749"],a[href="https://www.cbox.ws/upgrade?uname=KirisameSoup&ref=box"],#btnSmilies{visibility:hidden;width:0;height:0;margin:0;}div.body{padding-left:3.25rem}.pic{margin-right:0.75rem;}input[name="nme"]{padding-top:1rem!important}input[name="nme"],textarea[name="pst"]{padding-inline:0.75rem;padding-block:0.75rem;}button,#btnRefresh{min-width:40px;padding:0}.bar.Warn>button{padding-left:0.75rem}' +
@@ -195,7 +196,7 @@
 	iframe.open();
 	iframe.write(css);
 	iframe.close();
-    </scritp>
+    </script>
   
   </body>
 </html>
