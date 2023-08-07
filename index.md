@@ -12,9 +12,9 @@
 >
 > 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
 
-## <gfw> ⚠ 看这里 </gfw>：
+## <gfw> ⚠ 如果你的页面翻不动了 </gfw>：
 
-> **<u>如果你的页面翻不动了</u>**，这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
+> 这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
 > 
 > 想要解开搅在一起的法术，需要屏幕前的读者，也就是你，**<u>在页面空白处点击五下</u>** 吧——拜托了，这是只有你才能做到的魔法！
 >
@@ -134,9 +134,9 @@
 > 
 > > 最好的中文东方维基
 > > 
-> > <img alt = "thbwiki.png" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.png'"
+> > <img alt = "thbwiki.webp" 
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -145,9 +145,9 @@
 > 
 > > 非常好东方论坛
 > > 
-> > <img alt = "nyasama.png" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.png'"
+> > <img alt = "nyasama.webp" 
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -156,9 +156,9 @@
 > 
 > > 东方正作射击游戏正版购买
 > > 
-> > <img alt = "steam.png" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.png'"
+> > <img alt = "steam.webp" 
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -168,8 +168,8 @@
 > > 正作游戏资源下载站（条件允许的话还请尽量于 Steam 购买正版）
 > > 
 > > <img alt = "lilycloud.png"
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.png'"
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -179,8 +179,8 @@
 > > 不动的东方视频创作档案馆
 > > 
 > > <img alt = "patchyv.png"
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.png'"
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -189,8 +189,9 @@
 > 
 > > 成为弹幕大触之路上的不二之选
 > > 
-> > <img alt = "isndes.png" src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.png'"
+> > <img alt = "isndes.webp"
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp'"
 > > loading = "lazy">
 > > 
 > > <note></note>
@@ -797,9 +798,9 @@
 > 
 > > 生成你自己的啤酒烧烤表情包吧
 > >
-> > <img alt = "pjsksticker.png" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.png'" 
+> > <img alt = "pjsksticker.webp" 
+> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.webp" 
+> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/pjsksticker.webp'" 
 > > width = 200 
 > > loading = "lazy">
 > > 
@@ -1049,9 +1050,9 @@
 > > > > 
 > > > > [<fx> Z-Library </fx>](https://singlelogin.me/)
 > > > > 
-> > > > [<fx> 如何继续使用 Z-Library </fx>](https://luterngun.github.io/archive/2022/11/24/zlib.html)
+> > > > [<fx> 继续使用 Z-Library </fx>](https://luterngun.github.io/archive/2022/11/24/zlib.html)
 > > > > 
-> > > > [<fx> How to access zLibrary on... </fx>](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
+> > > > [<fx> How to access zLibrary   </fx>](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
 > > > 
 > > > [<fx> sci-hub </fx>](https://sci-hub.ru/)
 > > > 
