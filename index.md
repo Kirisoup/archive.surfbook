@@ -1,3 +1,46 @@
+<style>
+
+  /* flags */
+  
+  jp, gb {
+      display: inline-block;
+      position: relative;
+      width: 1.2rem;
+      height: 1.25rem;
+  }
+  
+  jp::before, gb::before {
+      transition: 500ms 100ms !important;
+      content: "";
+      position: fixed;
+      top: 50%;
+      right: 0;
+      left: 0;
+      transform: translateY(-50%) !important;
+      z-index: -100;
+      background-position-y: top;
+      background-repeat: no-repeat;
+      height: 1.2rem;
+  }
+  
+  jp::before {
+      background-image: url(https://raw.githubusercontent.com/Kirisoup/ Kirisoup.github.io/main/assets/flag/jp.svg), 
+          url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/ Kirisoup.github.io/main/assets/flag/jp.svg);
+  }
+  
+  gb::before {
+      background-image: url(https://raw.githubusercontent.com/Kirisoup/ Kirisoup.github.io/main/assets/flag/gb.svg), 
+          url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/ Kirisoup.github.io/main/assets/flag/gb.svg);
+  }
+  
+  p:hover jp::before, p:hover gb::before {
+      transition: 0ms 0ms !important;
+      height: 1.6rem;
+      filter: drop-shadow(10px 10px #44da)
+  }
+
+</style>
+
 　
 
 # Hey there！
