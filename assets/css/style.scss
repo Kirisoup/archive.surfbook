@@ -144,19 +144,19 @@ main {
     
     cbox {
         transition: opacity 400ms 0ms, right 0ms 400ms;
-/*        right: -20rem; */
+        right: -20rem; 
         opacity: 0
     }
 
     html:hover cbox {
-        transition: opacity 700ms 1000ms, right 700ms 1000ms;
+        transition: opacity 600ms 1000ms, right 600ms 1000ms;
         right: 0rem;
         opacity: 1;
     }
 
     body:hover main:hover ~ cbox {
         transition: opacity 400ms 0ms, right 0ms 400ms;
-/*        right: -20rem; */
+        right: -20rem; 
         opacity: 0;
     }
     
@@ -317,7 +317,7 @@ main {
 
 @media (any-pointer: coarse) {
     
-    iframe {
+    cbox {
         transition: opacity 400ms 0ms, right 0ms 400ms;
         right: -20rem;
         opacity: 0
@@ -880,25 +880,35 @@ img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
 /* Chat box */
 
 cbox {
+    display: flex;
+    flex-direction: column;
     position: fixed;
     bottom: 0;
-    height: 100ch;
+    height: 100%;
     width: 15rem; 
     max-width: 50vw;
 }
 
-iframe {
-    height: 100%;
+b:has(iframe), iframe {
+    flex-grow: 1;
+    position: unset;
+    bottom: unset;
+    height: unset;
     width: 100%; 
 }
 
 @import url("https://www3.cbox.ws/box/?boxid=3530749&boxtag=Txc0kj&sec=css&theme=7464&v=1691550615&h=ff04eb4b");
 
-#top {
+#top.msg {
     display: block;
-    position: absolute;
+    position: relative;
     top: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(90deg, #4444dd88, #19B2B277, #1dcc7466), #0008;
+    left: unset;
+    right: unset;
+    margin-block: 0;
+    background: linear-gradient(90deg, #4444dd88, #19B2B277, #1dcc7466), #000;
+}
+
+cbox #top.msg img {
+    opacity: 1 !important;
 }
