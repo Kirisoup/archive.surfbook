@@ -238,21 +238,21 @@ main {
         filter: brightness(2);
     }
 
-    body:has(#cboxTg input:not(:checked)) main:hover div,
-    body:has(#cboxTg input:not(:checked)) main:hover h1,
-    body:has(#cboxTg input:not(:checked)) main:hover h2,
-    body:has(#cboxTg input:not(:checked)) main:hover h3,
-    body:has(#cboxTg input:not(:checked)) main:hover h4,
-    body:has(#cboxTg input:not(:checked)) main:hover h5,
-    body:has(#cboxTg input:not(:checked)) main:hover h6,
-    body:has(#cboxTg input:not(:checked)) main:hover hr,
-    body:has(#cboxTg input:not(:checked)) main:hover li,
-    body:has(#cboxTg input:not(:checked)) main:hover p,
-    body:has(#cboxTg input:not(:checked)) main:hover a,
-    body:has(#cboxTg input:not(:checked)) main:hover fx,
-    body:has(#cboxTg input:not(:checked)) main:hover span,
-    body:has(#cboxTg input:not(:checked)) main:hover gfw,
-    body:has(#cboxTg input:not(:checked)) main:hover footer {
+    main:hover:not(:has(~ #cboxTg input:checked)) div,
+    main:hover:not(:has(~ #cboxTg input:checked)) h1,
+    main:hover:not(:has(~ #cboxTg input:checked)) h2,
+    main:hover:not(:has(~ #cboxTg input:checked)) h3,
+    main:hover:not(:has(~ #cboxTg input:checked)) h4,
+    main:hover:not(:has(~ #cboxTg input:checked)) h5,
+    main:hover:not(:has(~ #cboxTg input:checked)) h6,
+    main:hover:not(:has(~ #cboxTg input:checked)) hr,
+    main:hover:not(:has(~ #cboxTg input:checked)) li,
+    main:hover:not(:has(~ #cboxTg input:checked)) p,
+    main:hover:not(:has(~ #cboxTg input:checked)) a,
+    main:hover:not(:has(~ #cboxTg input:checked)) fx,
+    main:hover:not(:has(~ #cboxTg input:checked)) span,
+    main:hover:not(:has(~ #cboxTg input:checked)) gfw,
+    main:hover:not(:has(~ #cboxTg input:checked)) footer {
         transition-duration: 700ms;
         transition-property: filter, opacity;
         transition-delay: 0ms !important;
@@ -985,8 +985,13 @@ button:active {
 
 /* Chat box toggle */
 
+body:has(main:hover) #cboxTg.toggle {
+    transition: 600ms !important;
+    opacity: 0;
+}
+
 #cboxTg.toggle {
-    transition-duration: 600ms;
+    transition: 600ms;
     position: fixed;
     display: inline-block;
     width: 3rem;
@@ -996,7 +1001,7 @@ button:active {
 }
 
 #cboxTg.toggle:has(> input:checked) {
-    transition: 600ms 1000ms;
+    transition: 600ms;
     right: min(16rem, calc(100vw - 4rem))
 }
 
@@ -1050,9 +1055,10 @@ button:active {
 }
 
 #cboxTg input:checked + .content::after {
-    transition-duration: 600ms;
+    transition: 600ms;
     content: "x";
     color: #000;
     font-size: 2rem;
     opacity: 1;
 }
+
