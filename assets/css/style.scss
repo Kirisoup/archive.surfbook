@@ -1007,8 +1007,8 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     transition: top 0ms, left 0ms, backdrop-filter 700ms, background-color 700ms;
     top: 0;
     left: 0;
-    backdrop-filter: blur(4px);
-    background-color: #0004
+    backdrop-filter: blur(2px);
+    background-color: #0008
 }
 
 #cboxTg.toggle input {
