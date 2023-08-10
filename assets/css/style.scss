@@ -75,6 +75,7 @@ body {
     color: #AFB7CC !important;
     font-family: SimHei !important;
     line-height: 1 !important;
+
 }
 
 body .page-header {
@@ -138,19 +139,6 @@ main {
 }
 
 @media (any-pointer: fine) {
-
-    
-    cbox {
-        transition: opacity 400ms 0ms, right 0ms 400ms;
-        right: -20rem; 
-        opacity: 0
-    }
-
-    cbox:has(~ #cboxTg input:checked) {
-        transition: opacity 600ms 1000ms, right 600ms 1000ms;
-        right: 0rem;
-        opacity: 1;
-    }
     
     main::after {
         transition-delay: 100ms !important;
@@ -163,6 +151,7 @@ main {
         left: 0;
         height: 100lvh !important;
         z-index: -100;
+        pointer-events: none;
         background: #000 !important;
         background-position: center center !important;
         background-attachment: fixed !important;
@@ -878,12 +867,25 @@ cbox {
     max-width: 50vw;
 }
 
-b:has(iframe), iframe {
+iframe {
     flex-grow: 1;
     position: unset;
     bottom: unset;
     height: unset;
     width: 100%; 
+    z-index: 0
+}
+
+cbox {
+    transition: opacity 400ms 0ms, right 400ms 0ms;
+    right: -20rem; 
+    opacity: 1
+}
+
+cbox:has(~ #cboxTg input:checked) {
+    transition: 600ms;
+    right: 0rem;
+    opacity: 1;
 }
 
 /* Chat box top*/
@@ -960,34 +962,23 @@ cbox #top.msg img {
 	font-size: 70%;
 }
 
-button {
-    width: 3rem;
-    height: 3rem;
-    position: fixed;
-    right: 2rem;
-    bottom: 2rem;
-    background-color: #1dcc7466;
-    border-radius: 1.5rem;
-    border: none;
-    color: #fff;
-    font-weight: bolder;
-    white-space: nowrap;
-}
-
-button:active {
-    border: none;
-    background-color: #fff6;
-}
-
 /* Chat box toggle */
 
-body:has(main:hover) #cboxTg.toggle {
-    transition: 600ms !important;
-    opacity: 0;
+main:hover ~ #cboxTg.toggle {
+    opacity: 1 !important; /************/
+}
+
+main:hover ~ #cboxTg .content {
+    transition: 600ms;
+    transform: translatex(4rem);
+}
+
+cbox:hover ~ #cboxTg.toggle:not(:has(> input:checked)) {
+    transform: translatex(4rem);
 }
 
 #cboxTg.toggle {
-    transition: 600ms;
+    transition: transform 600ms, right 600ms;
     position: fixed;
     display: inline-block;
     width: 3rem;
@@ -1001,6 +992,23 @@ body:has(main:hover) #cboxTg.toggle {
     right: min(16rem, calc(100vw - 4rem))
 }
 
+cbox::before {
+    transition: 0ms 700ms;
+    content: "";
+    position: fixed;
+    top: 100vh;
+    bottom: 0;
+    left: 100vw;
+    right: 0;
+    pointer-events: auto;
+}
+
+cbox:has(~ #cboxTg.toggle input:checked)::before {
+    transition: 0ms;
+    top: 0;
+    left: 0;
+}
+
 #cboxTg.toggle input {
     visibility: hidden;
     width: 0;
@@ -1008,6 +1016,7 @@ body:has(main:hover) #cboxTg.toggle {
 }
 
 #cboxTg .content {
+    transition: transform 600ms 1000ms;
     background-color: #288;
     height: 3rem;
     width: 3rem;
@@ -1023,7 +1032,7 @@ body:has(main:hover) #cboxTg.toggle {
 }
 
 #cboxTg .content::before {
-    transition-duration: 600ms;
+    transition: 600ms;
     content: "留言板";
     color: #fff;
     font-size: 0.7rem;
@@ -1043,7 +1052,7 @@ body:has(main:hover) #cboxTg.toggle {
     right: 0;
     height: 0;
     margin: auto;
-    transition-duration: 0ms;
+    transition: 0ms;
     content: "x";
     color: #000;
     font-size: 2rem;
@@ -1057,4 +1066,3 @@ body:has(main:hover) #cboxTg.toggle {
     font-size: 2rem;
     opacity: 1;
 }
-
