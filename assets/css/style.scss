@@ -140,10 +140,6 @@ main {
 
 @media (any-pointer: fine) {
 
-    main:hover ~ #cboxTg.toggle {
-        opacity: 1 !important; /************/
-    }
-
     main:hover ~ #cboxTg .content {
         transition: 600ms;
         transform: translatex(4rem);
@@ -995,7 +991,7 @@ cbox #top.msg img {
 }
 
 cbox::before {
-    transition: 0ms 700ms;
+    transition: top 0ms 700ms, left 0ms 700ms, backdrop-filter 700ms ;
     content: "";
     position: fixed;
     top: 100vh;
@@ -1003,12 +999,14 @@ cbox::before {
     left: 100vw;
     right: 0;
     pointer-events: auto;
+    backdrop-filter: none;
 }
 
 cbox:has(~ #cboxTg.toggle input:checked)::before {
-    transition: 0ms;
+    transition: top 0ms, left 0ms, backdrop-filter 700ms;
     top: 0;
     left: 0;
+    backdrop-filter: blur(4px)
 }
 
 #cboxTg.toggle input {
@@ -1035,9 +1033,9 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
 
 #cboxTg .content::before {
     transition: 600ms;
-    content: "留言板";
+    content: "💬";
     color: #fff;
-    font-size: 0.7rem;
+    font-size: 1.5rem;
     opacity: 1;
 }
 
@@ -1049,13 +1047,13 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
 #cboxTg .content::after {
     position: absolute;
     top: 0;
-    bottom: 0.5rem;
+    bottom: 0;
     left: 0;
     right: 0;
     height: 0;
     margin: auto;
     transition: 0ms;
-    content: "x";
+    content: "✖";
     color: #000;
     font-size: 2rem;
     opacity: 0;
@@ -1063,7 +1061,6 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
 
 #cboxTg input:checked + .content::after {
     transition: 600ms;
-    content: "x";
     color: #000;
     font-size: 2rem;
     opacity: 1;
