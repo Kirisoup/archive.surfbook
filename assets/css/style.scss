@@ -130,8 +130,7 @@ main {
     }
 
 
-    main:hover:not(:has(~ #cboxTg input:checked))::before,
-    body:has(> div:hover) main::before {
+    main:hover:not(:has(~ #cboxTg input:checked))::before {
         transition-duration: 1500ms;
         transition-delay: 200ms;
         scale: 1.3;
@@ -171,8 +170,7 @@ main {
         opacity: 0;
     }
 
-    main:hover:not(:has(~ #cboxTg input:checked))::after,
-    body:has(> div:hover) main::after {
+    main:hover:not(:has(~ #cboxTg input:checked))::after {
         transition-delay: 200ms !important;
         transition-duration: 700ms !important;
         background: #000 !important;
@@ -302,8 +300,7 @@ main {
         opacity: 0.3!important;
     }
 
-    main:hover:not(:has(~ #cboxTg input:checked))::before,
-    body:has(> div:hover) main::before {
+    main:hover:not(:has(~ #cboxTg input:checked))::before {
         scale: 1.3;
     }
 }
@@ -334,8 +331,7 @@ main {
         opacity: 0.3 !important;
     }
 
-    main:hover::before,
-    body:has(> div:hover) main::before {
+    main:hover:not(:has(~ #cboxTg input:checked))::before {
         transition-duration: 1500ms;
         scale: 1;
         opacity: 0.3 !important;
