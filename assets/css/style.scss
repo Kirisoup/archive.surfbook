@@ -713,7 +713,7 @@ blockquote:has(> note) {
     transition: border-width 700ms !important;
     display: block;
     font-size: 0.9rem !important;
-    min-width: 10rem !important;
+    min-width: min(50vw, 10rem) !important;
     margin-bottom: 1rem;
     margin-top: 0;
     margin-inline: 0;
