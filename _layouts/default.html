@@ -70,7 +70,8 @@
           sty.position = 'absolute';
           sty.backgroundColor = 'transparent';
           sty.visibility = 'hidden';
-          sty.zIndex = '-99';
+          sty.zIndex = '0';
+	  sty.pointer-events = 'none';
           div.appendChild(document.createTextNode(char));
           return div;
         }
