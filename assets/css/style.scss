@@ -872,8 +872,8 @@ cbox {
     position: fixed;
     bottom: 0;
     height: 100%;
-    width: 15rem; 
-    max-width: 50vw;
+    width: 20rem; 
+    max-width: 70vw;
 }
 
 iframe {
@@ -987,7 +987,7 @@ cbox #top.msg img {
 
 #cboxTg.toggle:has(> input:checked) {
     transition: 600ms;
-    right: min(16rem, calc(100vw - 4rem))
+    right: min(21rem, min(calc(70vw + 1rem), calc(100vw - 4rem)))
 }
 
 cbox::before {
