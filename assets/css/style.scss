@@ -55,8 +55,7 @@ template {
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
-/*
-   ========================================================================== */
+/* ========================================================================== */
 
 :root {
     --bg-img: 
@@ -148,16 +147,10 @@ main {
         opacity: 0
     }
 
-    html:hover cbox {
+    cbox:has(~ #cboxTg input:checked) {
         transition: opacity 600ms 1000ms, right 600ms 1000ms;
         right: 0rem;
         opacity: 1;
-    }
-
-    body:hover main:hover ~ cbox {
-        transition: opacity 400ms 0ms, right 0ms 400ms;
-        right: -20rem; 
-        opacity: 0;
     }
     
     main::after {
@@ -245,21 +238,21 @@ main {
         filter: brightness(2);
     }
 
-    main:hover div,
-    main:hover h1,
-    main:hover h2,
-    main:hover h3,
-    main:hover h4,
-    main:hover h5,
-    main:hover h6,
-    main:hover hr,
-    main:hover li,
-    main:hover p,
-    main:hover a,
-    main:hover fx,
-    main:hover span,
-    main:hover gfw,
-    main:hover footer {
+    body:has(#cboxTg input:not(:checked)) main:hover div,
+    body:has(#cboxTg input:not(:checked)) main:hover h1,
+    body:has(#cboxTg input:not(:checked)) main:hover h2,
+    body:has(#cboxTg input:not(:checked)) main:hover h3,
+    body:has(#cboxTg input:not(:checked)) main:hover h4,
+    body:has(#cboxTg input:not(:checked)) main:hover h5,
+    body:has(#cboxTg input:not(:checked)) main:hover h6,
+    body:has(#cboxTg input:not(:checked)) main:hover hr,
+    body:has(#cboxTg input:not(:checked)) main:hover li,
+    body:has(#cboxTg input:not(:checked)) main:hover p,
+    body:has(#cboxTg input:not(:checked)) main:hover a,
+    body:has(#cboxTg input:not(:checked)) main:hover fx,
+    body:has(#cboxTg input:not(:checked)) main:hover span,
+    body:has(#cboxTg input:not(:checked)) main:hover gfw,
+    body:has(#cboxTg input:not(:checked)) main:hover footer {
         transition-duration: 700ms;
         transition-property: filter, opacity;
         transition-delay: 0ms !important;
@@ -279,7 +272,7 @@ main {
         width: calc(80% + 1rem) !important;
     }
     .page-header {
-        padd7ing-block: 2rem 1rem !important;
+        padding-block: 2rem 1rem !important;
         padding-inline: 0rem !important;
     }
     .project-tagline {
@@ -674,7 +667,7 @@ p a fx:hover {
     z-index: -100;
     border-bottom: solid 2px;
     border-image: linear-gradient(90deg, #CCDAFF00, #CCDAFF23 10%, #CCDAFF00) 1;
-    opacity: 1
+    opacity: 1;
 }
 
 p a fx:hover::before{
@@ -897,7 +890,7 @@ b:has(iframe), iframe {
     width: 100%; 
 }
 
-/*@import url("https://www3.cbox.ws/box/?boxid=3530749&boxtag=Txc0kj&sec=css&theme=7464&v=1691550615&h=ff04eb4b");*/
+/* Chat box top*/
 
 #top.msg {
     display: block;
@@ -911,4 +904,155 @@ b:has(iframe), iframe {
 
 cbox #top.msg img {
     opacity: 1 !important;
+}
+
+.msg, .usr {
+	position: relative;
+	clear: both;
+	padding: 0.2em;
+	word-wrap: break-word;
+	margin: 4px;
+	background: #0008;
+	overflow: hidden;	
+	right: 0;	
+	line-height: 1.4em;	
+	transition: background 300ms ease-in, opacity 300ms ease-in, filter 300ms ease-in;
+    cursor: default;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei New", "Microsoft YaHei", "微软雅黑", 宋体, SimSun;
+    font-size: 13px;
+    color: #fff;
+}
+
+.pic {
+    float: left;
+    width: 2.5em;
+    height: 2.5em;
+    margin: 0;
+    vertical-align: top;
+    margin-right: 4px;
+}
+
+.msg > .dtxt {
+    min-width: 6em;
+}
+
+.dtxt, .status {
+    color: #aaa;
+    font-size: 75%;
+    line-height: 1.5em;
+    text-align: right;
+    float: right;
+    padding: 0 0.5em;
+}
+
+.msg .nme, .usr .nme {
+    color: #ccc;
+}
+
+.nme {
+    color: #ccc;
+    display: inline;
+    padding-right: 0.5em;
+    font-weight: 300;
+}
+
+.bbBig {
+	font-size: 150%;
+}
+
+.bbSmall {
+	font-size: 70%;
+}
+
+button {
+    width: 3rem;
+    height: 3rem;
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+    background-color: #1dcc7466;
+    border-radius: 1.5rem;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    white-space: nowrap;
+}
+
+button:active {
+    border: none;
+    background-color: #fff6;
+}
+
+/* Chat box toggle */
+
+#cboxTg.toggle {
+    transition-duration: 600ms;
+    position: fixed;
+    display: inline-block;
+    width: 3rem;
+    height: 3rem;
+    right: 1rem;
+    bottom: 2rem;
+}
+
+#cboxTg.toggle:has(> input:checked) {
+    transition: 600ms 1000ms;
+    right: min(16rem, calc(100vw - 4rem))
+}
+
+#cboxTg.toggle input {
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+#cboxTg .content {
+    background-color: #288;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3rem;
+    font-weight: bolder;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center
+}
+
+#cboxTg input:checked + .content {
+    background-color: #fff;
+}
+
+#cboxTg .content::before {
+    transition-duration: 600ms;
+    content: "留言板";
+    color: #fff;
+    font-size: 0.7rem;
+    opacity: 1;
+}
+
+#cboxTg input:checked + .content::before {
+    transition-duration: 0ms;
+    opacity: 0;
+}
+
+#cboxTg .content::after {
+    position: absolute;
+    top: 0;
+    bottom: 0.5rem;
+    left: 0;
+    right: 0;
+    height: 0;
+    margin: auto;
+    transition-duration: 0ms;
+    content: "x";
+    color: #000;
+    font-size: 2rem;
+    opacity: 0;
+}
+
+#cboxTg input:checked + .content::after {
+    transition-duration: 600ms;
+    content: "x";
+    color: #000;
+    font-size: 2rem;
+    opacity: 1;
 }
