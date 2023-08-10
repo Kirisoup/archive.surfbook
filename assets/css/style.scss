@@ -130,7 +130,7 @@ main {
     }
 
 
-    main:hover::before,
+    main:hover:not(:has(~ #cboxTg input:checked))::before,
     body:has(> div:hover) main::before {
         transition-duration: 1500ms;
         transition-delay: 200ms;
@@ -171,7 +171,7 @@ main {
         opacity: 0;
     }
 
-    main:hover::after,
+    main:hover:not(:has(~ #cboxTg input:checked))::after,
     body:has(> div:hover) main::after {
         transition-delay: 200ms !important;
         transition-duration: 700ms !important;
@@ -237,7 +237,7 @@ main {
         opacity: 0.6 !important;
         filter: brightness(2);
     }
-/*
+
     main:hover:not(:has(~ #cboxTg input:checked)) div,
     main:hover:not(:has(~ #cboxTg input:checked)) h1,
     main:hover:not(:has(~ #cboxTg input:checked)) h2,
@@ -260,7 +260,7 @@ main {
         filter: none;
         opacity: 1 !important;
     }
-*/
+
 }
 
 @media screen and (orientation: portrait) {
@@ -302,7 +302,7 @@ main {
         opacity: 0.3!important;
     }
 
-    main:hover::before,
+    main:hover:not(:has(~ #cboxTg input:checked))::before,
     body:has(> div:hover) main::before {
         scale: 1.3;
     }
