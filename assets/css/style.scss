@@ -237,7 +237,7 @@ main {
         opacity: 0.6 !important;
         filter: brightness(2);
     }
-
+/*
     main:hover:not(:has(~ #cboxTg input:checked)) div,
     main:hover:not(:has(~ #cboxTg input:checked)) h1,
     main:hover:not(:has(~ #cboxTg input:checked)) h2,
@@ -260,7 +260,7 @@ main {
         filter: none;
         opacity: 1 !important;
     }
-
+*/
 }
 
 @media screen and (orientation: portrait) {
