@@ -34,7 +34,7 @@
 
 [<fx> Windows Debloating </fx>](https://rentry.co/mdl-optimize-guide)
 
-## 博客
+## 🖊 博客
 
 > 与论坛相比，博客的重心显然是撰写博客的人；与微博相比，博客更加纯粹，没有转发、点赞、关注这些功能的博客可以更加专注于个人的表达。
 > 
@@ -74,7 +74,7 @@
 > 
 > > 见[作者推特](https://twitter.com/whyyoutouzhele)
 
-## 📁 酷炫的网站设计
+## 🤯 酷炫的网站设计
 
 [<fx> <jp></jp> テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
 
@@ -88,23 +88,7 @@
 
 [<fx> <gb></gb> Fauux </fx>](https://fauux.neocities.org/)
 
-## 前端
-
-> [<fx> W3School </fx>](https://www.w3schools.com/) 教程手册大全
-> 
-> [<fx> PageSpeed Insights </fx>](https://pagespeed.web.dev/) 网站性能测试
-> 
-> [<fx> Markup Validation Service </fx>](https://validator.w3.org/)
-> 
-> > [<fx> CSS Validation Service </fx>](https://jigsaw.w3.org/css-validator/)
-> 
-> [<fx> Tag Index </fx>](https://www.tagindex.net/) HTML标签 / CSS属性 说明
-> 
-> [<fx> HTML CheatSheet </fx>](https://htmlcheatsheet.com/)
-> 
-> [<fx> Bad HTML </fx>](https://badhtml.com/) 前端反例
-
-## 插件
+## 🔌 插件
 
 > [<fx> Stylus </fx>](https://add0n.com/stylus.html) 注入用户主题
 > 
@@ -134,8 +118,23 @@
 > 
 > [<fx> biliDebloat (uBlockOrigin 规则) </fx>](https://kirisamesoup.lanzoub.com/iKvmH153jrne) 配合[uBlockOrigin](https://ublockorigin.com/)使用，屏蔽掉b站网页意义不明的部件和主页分区
 
+## 🌐 前端
 
-# 🍦 涩涩
+> [<fx> W3School </fx>](https://www.w3schools.com/) 教程手册大全
+> 
+> [<fx> PageSpeed Insights </fx>](https://pagespeed.web.dev/) 网站性能测试
+> 
+> [<fx> Markup Validation Service </fx>](https://validator.w3.org/)
+> 
+> > [<fx> CSS Validation Service </fx>](https://jigsaw.w3.org/css-validator/)
+> 
+> [<fx> Tag Index </fx>](https://www.tagindex.net/) HTML标签 / CSS属性 说明
+> 
+> [<fx> HTML CheatSheet </fx>](https://htmlcheatsheet.com/)
+> 
+> [<fx> Bad HTML </fx>](https://badhtml.com/) 前端反例
+
+## 🍦 涩涩
 
 > [<fx> <gfw> E-Hentai </gfw> </fx>](https://e-hentai.org/) 工口本
 > 
