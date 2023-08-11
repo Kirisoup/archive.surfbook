@@ -22,11 +22,11 @@
 
 ## **传送门**：
 > 
-> - ### [<fx> 目录 </fx>](#-目录)
+> ### [<fx> 目录 </fx>](#-目录)
 > - [<fx> 使用须知 </fx>](#-使用须知)
 > - [<fx> 友链 </fx>](#-友链)
 > - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-> - <a href="misc" style="font-size:0.5rem!important"><fx> From the bottom of the rabbit Hole…… </fx></a>
+> - <a href="misc"><fx><sub>From the bottom of the rabbit Hole…… </sub></fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
