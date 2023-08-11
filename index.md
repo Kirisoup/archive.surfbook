@@ -6,7 +6,7 @@
 
 > > *从你无意中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
 >
-> **欢迎来到☆雾雨·蘑菇汤☆的因特网虫洞！**
+> **欢迎来到☆雾雨·蘑菇汤☆的 [\**Internet Wormhole*\*](## "☆ 因 特 网 虫 洞 ☆")！**
 >
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
 >
@@ -22,11 +22,11 @@
 
 ## **传送门**：
 > 
+> - ### [<fx> 目录 </fx>](#-目录)
 > - [<fx> 使用须知 </fx>](#-使用须知)
-> - [<fx> 目录 </fx>](#-目录)
-> - [<fx> 正文 </fx>](#-东方常用)
 > - [<fx> 友链 </fx>](#-友链)
 > - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+> - <a href="misc" style="font-size:0.8rem!important"><fx> From the bottom of the rabbit Hole…… </fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
@@ -88,25 +88,20 @@
   - [<fx> 📁 动画评分排名 </fx>](#-动画评分排名)
     - [<fx> 📁 排名 </fx>](#-排名)
 
-- [<fx> 📁 刊物 / 专栏 </fx>](#-刊物--专栏)
-
 - [<fx> 💬 论坛 </fx>](#-论坛)
   - [<fx> 东方相关 </fx>](#东方相关-1)
-    - [<fx> 🕶 匿名论坛 </fx>](#-匿名论坛)
+    - [<fx> 🕶 匿名论坛（匿名板） </fx>](#-匿名论坛匿名板)
   - [<fx> 📁 时泪 </fx>](#-时泪)
-
-- [<fx> 💭 博客 </fx>](#-博客)
-  - [<fx> 📁 酷炫的网站设计 </fx>](#-酷炫的网站设计)
 
 - [<fx> 👀 趣味 </fx>](#-趣味)
   - [<fx> 👾 字符画</fx>](#-字符画)
 
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
   - [<fx> 东方相关 </fx>](#东方相关-2)
-  - [<fx> 💾 互联网存档 </fx>](#-互联网存档)
+  - [<fx> 💾 互联网的记忆 </fx>](#-互联网的记忆)
   - [<fx> 图片相关 </fx>](#图片相关)
   - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
-    - [<fx> 📁 BT资源检索引擎（综合） </fx>](#-BT资源检索引擎（综合）)
+    - [<fx> 📁 BT资源检索引擎（综合） </fx>](#-bt资源检索引擎综合)
     - [<fx> 📁 动画资源 </fx>](#-动画资源)
     - [<fx> 📁 字幕 </fx>](#-字幕)
     - [<fx> 📁 电子书 </fx>](#-电子书)
@@ -115,9 +110,6 @@
     - [<fx> 📁 网络代理（此分类已删除） </fx>](#-网络代理此分类已删除)
     - [<fx> 📁 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
     - [<fx> 📁 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
-  - [<fx> 📁 浏览器插件 </fx>](#-浏览器插件)
-    - [<fx> 📁 TamperMonkey (油猴) </fx>](#-tampermonkey-油猴)
-    - [<fx> 📁 其他自用脚本 </fx>](#-其他自用脚本)
 
 - [<fx> 📁 涩涩 </fx>](#-涩涩)
 
@@ -306,17 +298,6 @@
 > > > 
 > > > [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642) 不那么硬核的动画排名
 
-
----
-
-# 📁 刊物 / 专栏
-
-> 相关内容大不足 = =
-> 
-> [<fx> 東方文化學刊 </fx>](https://www.zhihu.com/column/touhou-culture-studies)
-> 
-> [<fx> 炎上书屋 </fx>](https://firebook.store/books)
-
 ---
 
 # 💬 论坛
@@ -476,86 +457,6 @@
 
 ---
 
-# 💭 博客
-
-> 与论坛相比，博客的重心显然是撰写博客的人；与微博相比，博客更加纯粹，没有转发、点赞、关注这些功能的博客可以更加专注于个人的表达。
-> 
-> 阅读厉害的博客，也是一种学习
-> 
-> [<fx> <jp></jp> 博麗幻想書譜（ZUN） </fx>](https://kourindou.exblog.jp/) 2un 自己的博客
-> 
-> [<fx> 比特客栈的文艺复兴 </fx>](https://bitinn.net/)
-> 
-> > [<fx> 《从作画vs脚本的争吵，到客栈眼中的辩论思维》 </fx>](https://bitinn.net/11354/)
-> > 
-> > <note></note>
-> 
-> [<fx> Measure Zero </fx>](https://shiina18.github.io/)
-> 
-> > [<fx> 《动画资料杂录》 </fx>](https://shiina18.github.io/anime/2020/07/11/anime-misc/)
-> >
-> > [<fx> 《动画演出分析杂录》 </fx>](https://shiina18.github.io/anime/2021/02/18/ensyutsu-misc/)
-> > 
-> > <note></note>
-> 
-> [<fx> <jp></jp> Paradism </fx>](https://shirooo305.hatenablog.com/) 
-> 
-> > [<fx> 《『小林さんちのメイドラゴン』5話の演出について》 </fx>](https://shirooo305.hatenablog.com/entry/2017/02/09/233000)
-> > 
-> > <note></note>
-> 
-> [<fx> 青竹 \| esterTion( ͡° ͜ʖ ͡°) </fx>](https://estertion.win/)
-> 
-> > [解包了很多个二次元手游的资源](https://estertion.win/category/%e7%a8%8b%e5%ba%8f%e7%8c%bf/%e6%8b%86%e8%85%bb%e6%ad%bb-%e9%80%86%e5%90%91/)
-> >
-> > [<fx> 《“拆”腻死 - 逆向 \| 东方弹幕神乐》 </fx>](https://estertion.win/2021/08/%e4%b8%9c%e6%96%b9%e5%bc%b9%e5%b9%95%e7%a5%9e%e4%b9%90/)
-> > 
-> > <note></note>
-> 
-> [<fx> 北雁云依的博客 </fx>](https://stblog.penclub.club/)
-> 
-> > 蘑菇汤十分佩服的一个博客，写的评论文章每一篇都能引起深刻的思考。orz
-> > 
-> > [<fx> 《帝国主义化的互联网——互联网产出萎缩的根本原因》 </fx>](https://stblog.penclub.club/posts/imperialism/)
-> >
-> > [<fx> 《神的幼儿园》 </fx>](https://stblog.penclub.club/posts/kindergartenOfGod/)
-> > 
-> > <note></note>
-> 
-> [<fx> 编程随想的博客 </fx>](https://program-think.blogspot.com/)
-> 
-> > “2023年2月10日，编程随想被当局以“涉及国家秘密”理由遭到不公开审判，被当局一审以煽动颠覆国家政权罪判刑七年、剥夺政治权利两年”
-> >
-> > 致敬无畏的灵魂
-> >
-> > [<fx> 《时间与人生——跨入本世纪20年代的随想》 </fx>](https://program-think.blogspot.com/2019/12/Time-and-Life.html)
-> > 
-> > <note></note>
-> 
-> [<fx> 李老师不是你老师 </fx>](https://lilaoshibushinilaoshi.com/)
-> 
-> > 见[作者推特](https://twitter.com/whyyoutouzhele)
-> > 
-> > <note></note>
-> 
-> [<fx> 积薪 </fx>](https://firewood.news/) 中文独立博客导航站
-> 
-> > ## 📁 酷炫的网站设计
-> >
-> > [<fx> <jp></jp> テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
-> > 
-> > [<fx> <gb></gb> Dimden.dev </fx>](https://dimden.dev/)
-> > 
-> > [<fx> <gb></gb> Melankorin.net </fx>](https://melankorin.net/)
-> > 
-> > [<fx> <gb></gb> natu.moe </fx>](https://natu.moe/)
-> > 
-> > [<fx> <gb></gb> Melps </fx>](https://melps.neocities.org/main)
-> > 
-> > [<fx> <gb></gb> Fauux </fx>](https://fauux.neocities.org/)
-
----
-
 # 👀 趣味
 
 > [<fx> 中文东方人气投票 </fx>](https://touhou.vote/)
@@ -702,7 +603,7 @@
 > > 
 > > [<fx> Moriya Shrine </fx>](https://moriyashrine.org/) 东方英文资源站
 > > 
-> > [<fx> 弹幕神乐拆包资源 </fx>](https://pan.baidu.com/s/1eoeaeHBbgw8sHEhsrJVHag#list/path=%2F)
+> > [<fx> 弹幕神乐拆包资源 </fx>](https://estertion.win/2021/08/%e4%b8%9c%e6%96%b9%e5%bc%b9%e5%b9%95%e7%a5%9e%e4%b9%90/)
 > > 
 > > [<fx> 大炮弹拆包资源 </fx>](https://drive.google.com/drive/folders/1B2y1Lm9iUpTKg6c7kNtxubY_SWGd1_7x)
 > > 
@@ -712,21 +613,23 @@
 > > 
 > > [<fx> 梦璃 </fx>](https://moeli-desu.com/tag/%e4%b8%9c%e6%96%b9project/) 东方同人游戏资源
 > > 
-> > 有经济能力的话还请尽量支持正版
-> > 
-> > <note></note>
+> > > 有经济能力的话还请尽量支持正版
+> > > 
+> > > <note></note>
 > > 
 > > [<fx> Flysheep </fx>](https://www.flysheep6.com/archives/category/%E4%B8%9C%E6%96%B9%E7%B3%BB%E5%88%97) 东方同人游戏资源
 > > 
-> > 同上
-> > 
-> > <note></note>
+> > > 同上
+> > > 
+> > > <note></note>
 >
 > [<fx> <gfw> Hikari no Akari</gfw> </fx>](https://hikarinoakari.com/) ACG 音乐资源网站
 > 
 > [<fx> <gfw> DLsite </gfw> </fx>](https://www.dlsite.com/) 正版同人作品购买站
 > 
 > [<fx> 凉宫春日资源站 </fx>](https://haruhifanclub.yuque.com/staff-sqlmik/phgf5z)
+>
+> [<fx> EL RINCÓN DEL KITSUNE NEO </fx>](https://rinconkitsuneneo.blogspot.com/) V家资源
 > 
 > [<fx> Dagobah </fx>](https://dagobah.net/) Flash 作品档案馆（☆ 笨蛋特别推荐 ☆）
 > 
@@ -741,11 +644,15 @@
 > > [<fx> 音效 BGM </fx>](https://www.sounds-resource.com/search/?q=touhou)
 > > 
 > > <note></note>
+>
+> [<fx> 数个二游资源解包 </fx>](https://estertion.win/category/%e7%a8%8b%e5%ba%8f%e7%8c%bf/%e6%8b%86%e8%85%bb%e6%ad%bb-%e9%80%86%e5%90%91/)
+>
+> [<fx> 网盘直链下载助手 </fx>](https://www.youxiaohou.com/install.html)
 > 
-> > ## 💾 互联网存档
+> [<fx> uBlockOrigin </fx>](https://ublockorigin.com/) 最好的去广告插件，没有之一
+> 
+> > ## 💾 互联网的记忆
 > > 
-> > > 互联网的记忆
-> >
 > > [<fx> WayBackMachine </fx>](https://web.archive.org/) 网页时光机
 > >
 > > > 不管是想要访问已经关停的博客站，还是单纯想要看看一些网站曾经的样子，网页时光机都能做到！
@@ -930,49 +837,9 @@
 > > > [<fx> Tor 浏览器 </fx>](https://www.torproject.org/)
 > > > 
 > > > [<fx> Tor Browser 不完全指南 </fx>](https://reconsidera.github.io/#/18)
-> 
-> > ## 📁 浏览器插件
-> > 
-> > [<fx> OneTab </fx>](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) 拯救同时开启五百个网页的坏习惯
-> > 
-> > > ### 📁 TamperMonkey (油猴)
-> > > 
-> > > [<fx> Tampermonkey </fx>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) 用户脚本加载器
-> > > 
-> > > [<fx> Greasy Fork </fx>](https://greasyfork.org/) 用户脚本检索引擎
-> > > 
-> > > [<fx> 网盘直链下载助手 </fx>](https://www.youxiaohou.com/install.html)
-> > > 
-> > > [<fx> Bilibili 旧播放页 </fx>](https://greasyfork.org/en/scripts/394296-bilibili-%E6%97%A7%E6%92%AD%E6%94%BE%E9%A1%B5)
-> > > 
-> > > [<fx> 缩写去世器 </fx>](https://greasyfork.org/en/scripts/398555-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%A5%BD%E5%A5%BD%E8%AF%B4%E8%AF%9D)
-> > > 
-> > > [<fx> 片假名去世器 </fx>](https://greasyfork.org/en/scripts/33268-katakana-terminator)
 
 ---
 
 # 🍦 涩涩
 
-> [<fx> <gfw> E-Hentai </gfw> </fx>](https://e-hentai.org/) 工口本网站
-> 
-> [<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN) 黄油评价
-> 
-> > 注：本网站的原始网址使用极其严格的ip过滤措施，日本以外的ip基本上不可能访问，上方链接使用谷歌网页翻译功能使得任何ip都能正常访问。
-> > 
-> > [点此访问网站原始链接](http://erogamescape.dyndns.org/)
-> >
-> > 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
-> >
-> > <note></note>
-> 
-> [<fx> <gfw> Kemono </gfw> </fx>](https://kemono.party/) Onlyfans / Patreon 付费资源公开
-> 
-> [<fx> <gfw> ＂健康宅男偶像＂以图搜图 </gfw> </fx>](https://xslist.org/zh)
-> 
-> [<fx> Nyaa（里站） </fx>](https://sukebei.nyaa.si/) 里番
-> 
-> [<fx> (BT) 1969-2022 里番全收录 </fx>](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf) 里番BT资源大全
-> 
-> [<fx> <gfw> 东京图书馆 </gfw> </fx>](https://www.tokyotosho.info/)
-> 
-> [<fx> 班固米里番收录帖 </fx>](https://bangumi.tv/blog/286840)
+> 请三思而后行 [<fx> 跳转 </fx>](misc#-涩涩)
