@@ -22,7 +22,7 @@
 
 ## **传送门**：
 > 
-> ### [<fx> 目录 </fx>](#-目录)
+> - [<fx> 目录 </fx>](#-目录)
 > - [<fx> 使用须知 </fx>](#-使用须知)
 > - [<fx> 友链 </fx>](#-友链)
 > - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
