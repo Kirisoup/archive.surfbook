@@ -757,7 +757,7 @@ blockquote:has(> note)::before {
 }
 
 blockquote:hover:has(> note)::before {
-    transition-duration: 0ms;
+    transition-duration: 300ms;
     opacity: 1;
 }
 
