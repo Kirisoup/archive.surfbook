@@ -599,6 +599,10 @@ a {
     text-decoration: none !important;
 }
 
+a:not(:has(> fx)) {
+    text-decoration: underline !important;
+}
+
 gfw {
     color: #dd4 !important;
 }
@@ -991,7 +995,7 @@ cbox #top.msg img {
 }
 
 cbox::before {
-    transition: top 0ms 700ms, left 0ms 700ms, backdrop-filter 700ms, background-color 700ms ;
+    transition: top 0ms 700ms, left 0ms 700ms, backdrop-filter 700ms, background-color 700ms;
     content: "";
     position: fixed;
     top: 100vh;
@@ -1007,8 +1011,8 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     transition: top 0ms, left 0ms, backdrop-filter 700ms, background-color 700ms;
     top: 0;
     left: 0;
-    backdrop-filter: blur(2px);
-    background-color: #0008
+    backdrop-filter: blur(4px);
+    background-color: #0004
 }
 
 #cboxTg.toggle input {
