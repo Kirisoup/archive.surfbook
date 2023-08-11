@@ -133,3 +133,34 @@
 [<fx> Vencord </fx>](https://github.com/Vendicated/Vencord) 非常舒服的 Discord 插件
 
 [<fx> biliDebloat (uBlockOrigin 规则) </fx>](https://kirisamesoup.lanzoub.com/iKvmH153jrne) 配合[uBlockOrigin](https://ublockorigin.com/)使用，屏蔽掉b站网页意义不明的部件和主页分区
+
+
+# 🍦 涩涩
+
+[<fx> <gfw> E-Hentai </gfw> </fx>](https://e-hentai.org/) 工口本
+
+> [<fx> <gfw> nhentai </gfw> </fx>](https://nhentai.net/)
+> 
+> <note></note>
+
+[<fx> <gfw> <jp></jp> 工口游戏批评空间 </gfw> </fx>](https://erogamescape-dyndns-org.translate.goog/~ap2/ero/toukei_kaiseki/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=zh-CN) 黄油评价
+
+> 注：本网站的原始网址使用极其严格的ip过滤措施，日本以外的ip基本上不可能访问，上方链接使用谷歌网页翻译功能使得任何ip都能正常访问。
+> 
+> [点此访问网站原始链接](http://erogamescape.dyndns.org/)
+>
+> 访问批评空间的其他奇技淫巧参考[此处](https://bangumi.tv/group/topic/360497)
+>
+> <note></note>
+
+[<fx> <gfw> Kemono </gfw> </fx>](https://kemono.party/) Onlyfans / Patreon 付费资源公开
+
+[<fx> <gfw> 健康的宅男偶像专题网站</gfw> </fx>](https://xslist.org/zh) 日本动作片演员截图识别
+
+[<fx> (BT) Nyaa（里站） </fx>](https://sukebei.nyaa.si/) 里番
+
+[<fx> (BT) 1969-2022 里番全收录 </fx>](https://kirisamesoup.lanzoub.com/iOSaB0owp1cf) 全里番资源
+
+[<fx> <gfw> 東京図書館 </gfw> </fx>](https://www.tokyotosho.info/) A BitTorrent Library for Japanese Media
+
+[<fx> 班固米里番收录帖 </fx>](https://bangumi.tv/blog/286840)
