@@ -20,13 +20,13 @@
 >
 > 在可观的未来之内，魔力的干扰大概率将持续存在，直到蘑菇汤掌握这股强大的力量……
 
-## **传送门**：
+## ⛩ **传送门**：
 > 
-> - [<fx> 目录 </fx>](#-目录)
+> ### [<fx> 目录 </fx>](#-目录)
 > - [<fx> 使用须知 </fx>](#-使用须知)
 > - [<fx> 友链 </fx>](#-友链)
 > - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-> > <a href="misc"><fx><sub><s> From the bottom of the rabbit Hole…… </s></sub></fx></a>
+> - <a href="misc"><fx><sub>From the bottom of the rabbit Hole…… </sub></fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
@@ -85,33 +85,32 @@
 
 - [<fx> 🔎 维基 / 咨询 </fx>](#-维基--咨询)
   - [<fx> 东方相关 </fx>](#东方相关)
-  - [<fx> 📁 动画评分排名 </fx>](#-动画评分排名)
-    - [<fx> 📁 排名 </fx>](#-排名)
+  - [<fx> 📈 动画评分排名 </fx>](#-动画评分排名)
+    - [<fx> 🥇 排名 </fx>](#-排名)
 
 - [<fx> 💬 论坛 </fx>](#-论坛)
   - [<fx> 东方相关 </fx>](#东方相关-1)
     - [<fx> 🕶 匿名论坛（匿名板） </fx>](#-匿名论坛匿名板)
-  - [<fx> 📁 时泪 </fx>](#-时泪)
+  - [<fx> 📺 时泪 </fx>](#-时泪)
 
 - [<fx> 👀 趣味 </fx>](#-趣味)
-  - [<fx> 👾 字符画</fx>](#-字符画)
+    - [<fx> 👾 字符画</fx>](#-字符画)
 
 - [<fx> 🔑 工具 / 资源 </fx>](#-工具--资源)
   - [<fx> 东方相关 </fx>](#东方相关-2)
   - [<fx> 💾 互联网的记忆 </fx>](#-互联网的记忆)
   - [<fx> 图片相关 </fx>](#图片相关)
-  - [<fx> 📁 BT (磁力) </fx>](#-bt-磁力)
-    - [<fx> 📁 BT资源检索引擎（综合） </fx>](#-bt资源检索引擎综合)
-    - [<fx> 📁 动画资源 </fx>](#-动画资源)
-    - [<fx> 📁 字幕 </fx>](#-字幕)
-    - [<fx> 📁 电子书 </fx>](#-电子书)
-      - [<fx> 📁 Z-Library </fx>](#-z-library)
-  - [<fx> 📁 网络安全 </fx>](#-网络安全)
-    - [<fx> 📁 网络代理（此分类已删除） </fx>](#-网络代理此分类已删除)
-    - [<fx> 📁 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
-    - [<fx> 📁 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
+  - [<fx> 🧲 BT (磁力) </fx>](#-bt-磁力)
+    - [<fx> 🏴‍☠️ BT资源检索引擎（综合） </fx>](#-bt资源检索引擎综合)
+    - [<fx> 🌸 动画资源 </fx>](#-动画资源)
+    - [<fx> 🅰 字幕 </fx>](#-字幕)
+    - [<fx> 📕 电子书 </fx>](#-电子书)
+  - [<fx> 🔐 网络安全 </fx>](#-网络安全)
+    - [<fx> 🚫 网络代理（此分类已删除） </fx>](#-网络代理此分类已删除)
+    - [<fx> 🔎 浏览器隐私插件（主要chrome） </fx>](#-浏览器隐私插件主要chrome)
+    - [<fx> 🧄 TOR (洋葱网络) </fx>](#-tor-洋葱网络)
 
-- [<fx> 📁 涩涩 </fx>](#-涩涩)
+- [<fx> 🍦 涩涩 </fx>](#-涩涩)
 
 ---
 
@@ -246,7 +245,7 @@
 > 
 > [<fx> <gfw> <gb></gb> Urban Dictionary </gfw> </fx>](https://www.urbandictionary.com/) 网络用语词典
 > 
-> > ## 📁 动画评分排名
+> > ## 📈 动画评分排名
 > > 
 > > [<fx> 班固米 Bangumi TV </fx>](https://bgm.tv/)
 > > 
@@ -292,7 +291,7 @@
 > > > 
 > > > <note></note>
 > >
-> > > ### 📁 排名
+> > > ### 🥇 排名
 > > > 
 > > > [<fx> S1漫区投票统计 </fx>](http://s1vote.com/) 华语动画婆罗门的动画排名
 > > > 
@@ -405,55 +404,55 @@
 > >
 > > <note></note>
 > 
-> ## 📁 时泪
-> 
-> > 被时代所抛弃的存在，却正因如此而依旧保持着最初的那份纯真，有些可能已经不再维护了，有的网站会时而抽风，而还有些则还保持着难得的活跃用户群体。
+> > ## 📺 时泪
 > > 
-> > 收录这些网站不为别的，只为了当闲着没事的时候，可以静下心来翻一翻那些积了灰的贴文，感叹一下现在越来越封闭、不平等、魔怔、对立的不再美好的互联网。
-> >
-> > 无妨，幻想乡永远美好 =v=
-> 
-> [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
-> 
-> > 不温不热，但是意外地时不时会有新帖子的论坛
-> >
-> > <note></note>
-> 
-> [<fx> SOS团 </fx>](https://www.sosg.net/)
-> 
-> > 16年历史的论坛，还十分的活跃，非常的难得。让世界更加热闹起来吧！
-> >
-> > <note></note>
-> 
-> [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
-> 
-> > 拥有19年历史的论坛，每天依然有几十条新帖的程度！
-> >
-> > <note></note>
-> 
-> [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
-> 
-> > 如题，由Key社作品爱好者建立的论坛站
-> >
-> > <note></note>
-> 
-> [<fx> 动漫渔场 </fx>](http://www.comicfishing.com/touhou/)
-> 
-> > 国内第一家东方论坛，对东方Project在中文圈的发展具有重大意义
-> >
-> > <note></note>
-> 
-> [<fx> 優質の幻想鄉 </fx>](https://155384.co/forum.php?gid=131)
-> 
-> > 台湾的东方论坛
-> >
-> > <note></note>
-> 
-> [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
-> 
-> > 编写这条介绍的时候这个网站处于无法访问的状态，不知是暂时抽风还是关停了
-> >
-> > <note></note>
+> > > 被时代所抛弃的存在，却正因如此而依旧保持着最初的那份纯真，有些可能已经不再维护了，有的网站会时而抽风，而还有些则还保持着难得的活跃用户群体。
+> > > 
+> > > 收录这些网站不为别的，只为了当闲着没事的时候，可以静下心来翻一翻那些积了灰的贴文，感叹一下现在越来越封闭、不平等、魔怔、对立的不再美好的互联网。
+> > >
+> > > 无妨，幻想乡永远美好 =v=
+> > 
+> > [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
+> > 
+> > > 不温不热，但是意外地时不时会有新帖子的论坛
+> > >
+> > > <note></note>
+> > 
+> > [<fx> SOS团 </fx>](https://www.sosg.net/)
+> > 
+> > > 16年历史的论坛，还十分的活跃，非常的难得。让世界更加热闹起来吧！
+> > >
+> > > <note></note>
+> > 
+> > [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
+> > 
+> > > 拥有19年历史的论坛，每天依然有几十条新帖的程度！
+> > >
+> > > <note></note>
+> > 
+> > [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
+> > 
+> > > 如题，由Key社作品爱好者建立的论坛站
+> > >
+> > > <note></note>
+> > 
+> > [<fx> 动漫渔场 </fx>](http://www.comicfishing.com/touhou/)
+> > 
+> > > 国内第一家东方论坛，对东方Project在中文圈的发展具有重大意义
+> > >
+> > > <note></note>
+> > 
+> > [<fx> 優質の幻想鄉 </fx>](https://155384.co/forum.php?gid=131)
+> > 
+> > > 台湾的东方论坛
+> > >
+> > > <note></note>
+> > 
+> > [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
+> > 
+> > > 编写这条介绍的时候这个网站处于无法访问的状态，不知是暂时抽风还是关停了
+> > >
+> > > <note></note>
 
 ---
 
@@ -671,7 +670,7 @@
 > > >
 > > > <note></note>
 > 
-> > ## 图片相关
+> > ## 🌊 图片相关
 > > 
 > > ### [<fx> Pixiv </fx>](https://pixiv.net/) ACG插画发布站
 > >
@@ -759,11 +758,11 @@
 > > >
 > > > <note></note>
 > 
-> > ## 📁 BT (磁力)
+> > ## 🧲 BT (磁力)
 > > 
 > > [<fx> QBT-EE </fx>](https://github.com/c0re100/qBittorrent-Enhanced-Edition) 客户端
 > > 
-> > > ### 📁 BT资源检索引擎（综合）
+> > > ### 🏴‍☠️ BT资源检索引擎（综合）
 > > > 
 > > > [<fx> <gfw> 1377x </gfw> </fx>](https://www.1377x.to/)
 > > > 
@@ -774,7 +773,7 @@
 > > > [<fx> <gfw> BTDigg </gfw> </fx>](https://btdig.com/)
 > > > 
 > 
-> > > ### 📁 动画资源
+> > > ### 🌸 动画资源
 > > > 
 > > > [<fx> <gfw> （推荐）末日动漫资源库 </gfw> </fx>](https://share.acgnx.se/)
 > > > 
@@ -789,38 +788,39 @@
 > > > [<fx> 萌番組 </fx>](https://bangumi.moe/)
 > > > 
 > > > [<fx> ACG.RIP </fx>](https://acg.rip/)
+> > > 
+> > > > #### 🅰 字幕
+> > > > 
+> > > > [<fx> 射手网(伪) </fx>](https://assrt.net/)
+> > > > 
+> > > > [<fx> SubHD </fx>](https://subhd.tv/)
+> > > > 
+> > > > [<fx> 字幕库 </fx>](https://zimuku.org/)
 > > 
-> > > ### 📁 字幕
-> > > 
-> > > [<fx> 射手网(伪) </fx>](https://assrt.net/)
-> > > 
-> > > [<fx> SubHD </fx>](https://subhd.tv/)
-> > > 
-> > > [<fx> 字幕库 </fx>](https://zimuku.org/)
-> > 
-> > > ### 📁 电子书
+> > > ### 📕 电子书
 > > > 
 > > > [<fx> Anna’s Archive </fx>](https://annas-archive.org/)
 > > > 
-> > > > #### 📁 Z-Library
-> > > > 
-> > > > [<fx> Z-Library </fx>](https://singlelogin.me/)
-> > > > 
+> > > 
+> > > [<fx> Z-Library </fx>](https://singlelogin.me/)
+> > > 
 > > > > [<fx> 继续使用 Z-Library </fx>](https://luterngun.github.io/archive/2022/11/24/zlib.html)
 > > > > 
 > > > > [<fx> How to access zLibrary   </fx>](https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
+> > > > 
+> > > > <note></note>
 > > > 
 > > > [<fx> sci-hub </fx>](https://sci-hub.ru/)
 > > > 
 > > > [<fx> 無產階級圖書館 </fx>](https://library.proletarian.me/)
 > 
-> > ## 📁 网络安全
+> > ## 🔐 网络安全
 > > 
 > > [<fx> 数字极权时代生存手记 </fx>](https://reconsidera.github.io/#/README)
 > > 
-> > > ### 📁 网络代理（此分类已删除）
+> > > ### 🚫 网络代理（此分类已删除）
 > > > 
-> > > ### 📁 浏览器隐私插件（主要chrome）
+> > > ### 🔎 浏览器隐私插件（主要chrome）
 > > > 
 > > > [<fx> uBlock Origin </fx>](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 去广告
 > > > 
@@ -832,7 +832,7 @@
 > > > 
 > > > [<fx> ClearURLs </fx>](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) 追踪参数清除
 > > 
-> > > ### 📁 TOR (洋葱网络)
+> > > ### 🧄 TOR (洋葱网络)
 > > > 
 > > > [<fx> Tor 浏览器 </fx>](https://www.torproject.org/)
 > > > 
@@ -842,4 +842,4 @@
 
 # 🍦 涩涩
 
-> 请三思而后行 [<fx> 跳转 </fx>](misc#-涩涩)
+> 请三思而后行：[<fx> 跳转 </fx>](misc#-涩涩)
