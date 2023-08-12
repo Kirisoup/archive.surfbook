@@ -26,7 +26,7 @@
 > - [<fx> ❓ 使用须知 </fx>](#-使用须知)
 > - [<fx> 💌 友链 </fx>](#-友链)
 > - [<fx> 📆 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 🕒 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-> - <a href="misc"><fx><sub><i><s> 🕳 From the bottom of the rabbit Hole…… </s></1></sub></fx></a>
+> - <a href="misc"><fx><sub><i><s> 🕳 From the bottom of the rabbit Hole…… </s></i></sub></fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
