@@ -1,12 +1,34 @@
 　
 
-# Hey there！
+<h1 style="color:#fff!important" id="hey-there">Hey there！</h1>
 
 <h2 style="color:#fff!important" id="看样子你在偶然之中发现了咱的这本幻想乡冲浪大手册">看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》~</h2>
 
+<br>
+
 > > *从你无意中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
->
-> **欢迎来到☆雾雨·蘑菇汤☆的 <span title="☆ 因 特 网 虫 洞 ☆" class="">*<u><i>Internet Wormhole</i></u>*</span>！**
+> 
+> <br>
+> 
+> <span style="size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的 
+<span title="☆ 因 特 网 虫 洞 ☆"><b><i>
+  <span style="background-color:#f00;color:#0ff!important">\*\* I </span>
+  <span style="background-color:#f50;color:#0af!important">n </span>
+  <span style="background-color:#fa0;color:#05f!important">t </span>
+  <span style="background-color:#ff0;color:#00f!important">e </span>
+  <span style="background-color:#af0;color:#50f!important">r </span>
+  <span style="background-color:#5f0;color:#a0f!important">n </span>
+  <span style="background-color:#0f0;color:#f0f!important">e </span>
+  <span style="background-color:#0f5;color:#f0a!important">t </span>
+  <span style="background-color:#0fa;color:#f05!important">W </span>
+  <span style="background-color:#0ff;color:#f00!important">o </span>
+  <span style="background-color:#0af;color:#f50!important">r </span>
+  <span style="background-color:#05f;color:#fa0!important">m </span>
+  <span style="background-color:#00f;color:#ff0!important">h </span>
+  <span style="background-color:#50f;color:#af0!important">o </span>
+  <span style="background-color:#a0f;color:#5f0!important">l </span>
+  <span style="background-color:#f0f;color:#0f0!important">e \*\*</span>
+</b></i></span>！ </span>
 >
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
 >
