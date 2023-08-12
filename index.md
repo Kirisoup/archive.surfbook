@@ -9,7 +9,7 @@
 > <span class="styled" style="font-size:1.5em!important"> 欢迎来到雾雨蘑菇汤的</span>
 > 
 > <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
-  <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T</span>
+  <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T </span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
 </b></span>
 > 
@@ -17,7 +17,7 @@
 >
 > 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
 
-## <gfw> ⚠ 如果你的页面翻不动了 </gfw>：
+## <gfw> ⚠ 如果你的页面翻不动了： </gfw>
 
 > 这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
 > 
