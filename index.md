@@ -8,7 +8,7 @@
 > 
 > <span class="styled" style="font-size:1.5em!important"> 欢迎来到雾雨蘑菇汤的</span>
 > 
-> <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;padding-block:0.5rem"  title="☆ 因 特 网 虫 洞 ☆"><b>
+> <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;padding-block:0.25rem;line-height:1rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
   <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T</span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
 </b></span>
