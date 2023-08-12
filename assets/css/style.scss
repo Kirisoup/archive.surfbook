@@ -1040,6 +1040,7 @@ cbox::before {
     right: 0;
     pointer-events: auto;
     backdrop-filter: none;
+    -webkit-backdrop-filter: none;
     background-color: #0000
 }
 
@@ -1048,6 +1049,7 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     top: 0;
     left: 0;
     backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     background-color: #0004
 }
 
