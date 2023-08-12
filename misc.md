@@ -1,8 +1,6 @@
-　
-
 [回到主页面](https://kirisoup.github.io/)
 
-# 🕳 From the bottom of the rabbit Hole……
+# From the bottom of the rabbit Hole……
 
 *那些过于零碎的，不适合放到主页面的小东西*
 
@@ -76,17 +74,17 @@
 
 ## 🤯 酷炫的网站设计
 
-[<fx> <jp></jp> テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
-
-[<fx> <gb></gb> Dimden.dev </fx>](https://dimden.dev/)
-
-[<fx> <gb></gb> Melankorin.net </fx>](https://melankorin.net/)
-
-[<fx> <gb></gb> natu.moe </fx>](https://natu.moe/)
-
-[<fx> <gb></gb> Melps </fx>](https://melps.neocities.org/main)
-
-[<fx> <gb></gb> Fauux </fx>](https://fauux.neocities.org/)
+> [<fx> <jp></jp> テクニカル諏訪子 </fx>](https://technicalsuwako.moe/)
+> 
+> [<fx> <gb></gb> Dimden.dev </fx>](https://dimden.dev/)
+> 
+> [<fx> <gb></gb> Melankorin.net </fx>](https://melankorin.net/)
+> 
+> [<fx> <gb></gb> natu.moe </fx>](https://natu.moe/)
+> 
+> [<fx> <gb></gb> Melps </fx>](https://melps.neocities.org/main)
+> 
+> [<fx> <gb></gb> Fauux </fx>](https://fauux.neocities.org/)
 
 ## 🔌 插件
 
