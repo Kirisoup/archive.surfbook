@@ -525,7 +525,12 @@ h2:has(+ blockquote:hover),
 h3:has(+ blockquote:hover),
 h4:has(+ blockquote:hover),
 h5:has(+ blockquote:hover),
-h6:has(+ blockquote:hover) {
+h6:has(+ blockquote:hover),
+h2:has(+ blockquote *:hover),
+h3:has(+ blockquote *:hover),
+h4:has(+ blockquote *:hover),
+h5:has(+ blockquote *:hover),
+h6:has(+ blockquote *:hover) {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     font-weight: bolder;
@@ -544,7 +549,12 @@ h2:has(+ blockquote:hover)::before,
 h3:has(+ blockquote:hover)::before,
 h4:has(+ blockquote:hover)::before,
 h5:has(+ blockquote:hover)::before,
-h6:has(+ blockquote:hover)::before {
+h6:has(+ blockquote:hover)::before,
+h2:has(+ blockquote *:hover)::before,
+h3:has(+ blockquote *:hover)::before,
+h4:has(+ blockquote *:hover)::before,
+h5:has(+ blockquote *:hover)::before,
+h6:has(+ blockquote *:hover)::before {
     transition-duration: 0ms !important;
     opacity: 1;
 }
@@ -577,7 +587,12 @@ h2:has(+ blockquote:hover)::after,
 h3:has(+ blockquote:hover)::after,
 h4:has(+ blockquote:hover)::after,
 h5:has(+ blockquote:hover)::after,
-h6:has(+ blockquote:hover)::after {
+h6:has(+ blockquote:hover)::after,
+h2:has(+ blockquote *:hover)::after,
+h3:has(+ blockquote *:hover)::after,
+h4:has(+ blockquote *:hover)::after,
+h5:has(+ blockquote *:hover)::after,
+h6:has(+ blockquote *:hover)::after {
     transition: 0ms 0ms;
     border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
     opacity: 0
@@ -598,12 +613,12 @@ gfw {
     color: #dd4 !important;
 }
 
-a:hover {
-    color: #fff !important;
-}
-
 a fx {
     display: inline;
+}
+
+a:hover {
+    color: #fff !important;
 }
 
 a fx,
@@ -999,8 +1014,6 @@ cbox #top.msg img {
 }
 
 /* Chat box toggle */
-
-
 
 #cboxTg.toggle {
     transition: transform 600ms, right 600ms;
