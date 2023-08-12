@@ -1,10 +1,10 @@
-<span class="styled" style="font-size:2em!important"> **Hey there！** </span>
+<span class="styled" style="font-size:2em!important">  **Hey there！** </span>
 
-<span class="styled" style="font-size:1.5em!important"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
+<span class="big"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
 
 > *从你无意识中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
 
-<span class="styled" style="font-size:1.5em!important"> **欢迎来到雾雨蘑菇汤的** </span>
+<span class="big"> **欢迎来到雾雨蘑菇汤的** </span>
 <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important;letter-spacing:0.5rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
   <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T </span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
@@ -115,7 +115,7 @@
 
 # ⭐ 东方常用
 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 最好的中文东方维基 </span>
+> <span class="big"> <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 最好的中文东方维基 </span>
 > 
 > > <img alt = "thbwiki.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp" 
@@ -124,7 +124,7 @@
 > > 
 > > <note></note>
 > 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
+> <span class="big"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
 > 
 > > <img alt = "nyasama.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
@@ -133,7 +133,7 @@
 > > 
 > > <note></note>
 > 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) 东方正作射击游戏正版购买 </span>
+> <span class="big"> <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) 东方正作射击游戏正版购买 </span>
 > 
 > > <img alt = "steam.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp" 
@@ -142,7 +142,7 @@
 > > 
 > > <note></note>
 > 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "lilycloud icon" src="https://thdog.moe/favicon.ico" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/) 正作游戏资源下载站 </span>
+> <span class="big"> <img class="ico" alt = "lilycloud icon" src="https://thdog.moe/favicon.ico" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/) 正作游戏资源下载站 </span>
 > 
 > > （条件允许的话还请尽量于 Steam 购买正版）
 > > 
@@ -153,7 +153,7 @@
 > > 
 > > <note></note>
 > 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/) 不动的东方视频创作档案馆 </span>
+> <span class="big"> <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/) 不动的东方视频创作档案馆 </span>
 > 
 > > <img alt = "patchyv.png"
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp" 
@@ -162,7 +162,7 @@
 > > 
 > > <note></note>
 > 
-> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/) 成为弹幕大触之路上的不二之选 </span>
+> <span class="big"> <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/) 成为弹幕大触之路上的不二之选 </span>
 > 
 > > <img alt = "isndes.webp"
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp" 
@@ -671,7 +671,7 @@
 > 
 > > ## 🌊 图片相关
 > > 
-> > ### [<fx> Pixiv </fx>](https://pixiv.net/) ACG插画发布站
+> > <span class="big"> [<fx> Pixiv </fx>](https://pixiv.net/) ACG插画发布站 </span>
 > >
 > > > 相似的，但是不是ACG专业用的艺术发布站还有：
 > > > 
@@ -681,7 +681,7 @@
 > > >
 > > > <note></note>
 > >
-> > ### [<fx> Safebooru </fx>](https://safebooru.org/) 插画档案馆
+> > <span class="big"> [<fx> Safebooru </fx>](https://safebooru.org/) 插画档案馆 </span>
 > >
 > > > Booru（ボール - 图片板），对用户发布（大多数是转载）图片进行存档整理的网站形式，最主要的优点是完善的 tag 系统，方便用户针对图片分类特征进行检索。
 > > >
@@ -701,7 +701,7 @@
 > > >
 > > > <note></note>
 > >
-> > ### [<fx> ImgOps </fx>](https://imgops.com/) 图片搜索
+> > <span class="big"> [<fx> ImgOps </fx>](https://imgops.com/) 图片搜索  </span>
 > > 
 > > > 最好的图片搜索工具，聚合了大量图片搜索服务（包括谷歌图片这种综合搜索、SauceNao这种专用搜索）
 > > >
