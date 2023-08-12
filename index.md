@@ -1,8 +1,8 @@
 　
 
-<h1 style="color:#fff!important" id="hey-there">Hey there！</h1>
+<h1 class="styled" style="color:#fff!important" id="hey-there">Hey there！</h1>
 
-<h2 style="color:#fff!important" id="看样子你在偶然之中发现了咱的这本幻想乡冲浪大手册">看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》~</h2>
+<h2 class="styled"style="color:#fff!important" id="看样子你在偶然之中发现了咱的这本幻想乡冲浪大手册">看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》~</h2>
 
 <br>
 
@@ -10,26 +10,26 @@
 > 
 > <br>
 > 
-> <span style="size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的 
-<span title="☆ 因 特 网 虫 洞 ☆"><b><i>
-  <span style="background-color:#f00;color:#0ff!important">\*\* I </span>
-  <span style="background-color:#f50;color:#0af!important">n </span>
-  <span style="background-color:#fa0;color:#05f!important">t </span>
-  <span style="background-color:#ff0;color:#00f!important">e </span>
-  <span style="background-color:#af0;color:#50f!important">r </span>
-  <span style="background-color:#5f0;color:#a0f!important">n </span>
-  <span style="background-color:#0f0;color:#f0f!important">e </span>
-  <span style="background-color:#0f5;color:#f0a!important">t </span>
-  <span style="background-color:#0fa;color:#f05!important">W </span>
-  <span style="background-color:#0ff;color:#f00!important">o </span>
-  <span style="background-color:#0af;color:#f50!important">r </span>
-  <span style="background-color:#05f;color:#fa0!important">m </span>
-  <span style="background-color:#00f;color:#ff0!important">h </span>
-  <span style="background-color:#50f;color:#af0!important">o </span>
-  <span style="background-color:#a0f;color:#5f0!important">l </span>
-  <span style="background-color:#f0f;color:#0f0!important">e \*\*</span>
-</i></b></span>！ </span>
->
+> <span class="styled" style="font-size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的  
+<span style="color:#000!important;text-shadow:3px 0px#fff"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
+  <span class="styled" style="background-color:#f00">\*\* I </span>
+  <span class="styled" style="background-color:#f50">n </span>
+  <span class="styled" style="background-color:#fa0">t </span>
+  <span class="styled" style="background-color:#ff0">e </span>
+  <span class="styled" style="background-color:#af0">r </span>
+  <span class="styled" style="background-color:#5f0">n </span>
+  <span class="styled" style="background-color:#0f0">e </span>
+  <span class="styled" style="background-color:#0f5">t </span>
+  <span class="styled" style="background-color:#0fa">W </span>
+  <span class="styled" style="background-color:#0ff">o </span>
+  <span class="styled" style="background-color:#0af">r </span>
+  <span class="styled" style="background-color:#05f">m </span>
+  <span class="styled" style="background-color:#00f">h </span>
+  <span class="styled" style="background-color:#50f">o </span>
+  <span class="styled" style="background-color:#a0f">l </span>
+  <span class="styled" style="background-color:#f0f">e \*\*</span>
+</i></b></span></span>
+> 
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
 >
 > 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
