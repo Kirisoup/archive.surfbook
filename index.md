@@ -1,11 +1,11 @@
-<span class="styled" style="font-size:2em!important">  **Hey there！** </span>
+<span class="bigger">  **Hey there！** </span>
 
 <span class="big"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
 
 > *从你无意识中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
 
 <span class="big"> **欢迎来到雾雨蘑菇汤的** </span>
-<span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important;letter-spacing:0.5rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
+<span class="big" style="text-shadow:3px 0px#444;line-height:2rem!important;letter-spacing:0.5rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
   <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T </span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
 </b></span>
@@ -46,7 +46,6 @@
 
 网站前的国旗代表了其对应的语言
 
-### 
 若你的浏览器不支持某些 css 特性，导致丧失可读性（比如火狐浏览器 - 见下文），或者是单纯喜欢更加简洁的阅读体验，请 [转至此处阅读](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
 
 > 关于火狐：火狐酱缺乏一个本网站目前大量使用的特性（css 的 `:has()`），再加上其他一些奇怪的地方，导致对火狐酱的完全适配超越了我的能力范围。所幸目前起码是保障了可以清楚地阅读。Sorry Firefox enjoyers :(
@@ -178,8 +177,8 @@
 
 > 自由、开放、平等的人类知识网络系统。
 > 
-> > ## 东方相关
-> > 
+> ## 东方相关
+> 
 > > [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 描述见[上文](#--东方吧维基-)
 > > 
 > > [<fx> <gb></gb> 英文东方维基 </fx>](https://en.touhouwiki.net/wiki/Touhou_Wiki) 对汉化组应该很有用
@@ -244,8 +243,8 @@
 > 
 > [<fx> <gfw> <gb></gb> Urban Dictionary </gfw> </fx>](https://www.urbandictionary.com/) 网络用语词典
 > 
-> > ## 📈 动画评分排名
-> > 
+> ## 📈 动画评分排名
+> 
 > > [<fx> 班固米 Bangumi TV </fx>](https://bgm.tv/)
 > > 
 > > > 或许是华语最权威动画评分网站
@@ -256,30 +255,30 @@
 > > >
 > > > ### 第三方工具：
 > > > 
-> > > [<fx> 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
-> > > 
-> > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
+> > > > [<fx> 搜索增强 </fx>](https://cse.google.com/cse?cx=008561732579436191137:pumvqkbpt6w)
 > > > > 
-> > > > <note></note>
-> > > 
-> > > [<fx> 科学排名 </fx>](https://chii.ai/)
-> > > 
-> > > > 比班固米原生的动画评分排名更加“科学”的排名系统
+> > > > > 其中最有用的当属作品条目讨论、小组话题、用户日志的搜索功能了，可以搜到一些别处没有的特别有用的东西。
+> > > > > 
+> > > > > <note></note>
 > > > > 
-> > > > <note></note>
-> > > 
-> > > [<fx> 评分趋势 </fx>](https://netaba.re/)
-> > > 
-> > > > 动画的历史评分走向
+> > > > [<fx> 科学排名 </fx>](https://chii.ai/)
 > > > > 
-> > > > <note></note>
-> > > 
-> > > [<fx> 标签搜索 </fx>](https://chii.ai/search)
-> > > 
-> > > > 对动画条目进行多标签搜索
+> > > > > 比班固米原生的动画评分排名更加“科学”的排名系统
+> > > > > 
+> > > > > <note></note>
 > > > > 
-> > > > <note></note>
-> > >
+> > > > [<fx> 评分趋势 </fx>](https://netaba.re/)
+> > > > 
+> > > > > 动画的历史评分走向
+> > > > > 
+> > > > > <note></note>
+> > > > 
+> > > > [<fx> 标签搜索 </fx>](https://chii.ai/search)
+> > > > 
+> > > > > 对动画条目进行多标签搜索
+> > > > > 
+> > > > > <note></note>
+> > > 
 > > > <note></note>
 > >
 > > [<fx> <jp></jp> ANIKORE </fx>](https://www.anikore.jp/) 11区的动画评分
@@ -290,8 +289,8 @@
 > > > 
 > > > <note></note>
 > >
-> > > ### 🥇 排名
-> > > 
+> > ### 🥇 排名
+> > 
 > > > [<fx> S1漫区投票统计 </fx>](http://s1vote.com/) 华语动画婆罗门的动画排名
 > > > 
 > > > [<fx> A岛年度动画排名（2022） </fx>](https://www.nmbxd1.com/t/55161642) 不那么硬核的动画排名
@@ -302,8 +301,8 @@
 
 > 真正以观点为主导，平等的交流环境
 > 
-> > ## 东方相关
-> > 
+> ## 东方相关
+> 
 > > [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/) 描述见[上文](#--喵玉殿论坛-)
 > > 
 > > [<fx> 充满魔力的土地下 </fx>](https://touhoudog.net/) 考据论坛
@@ -366,7 +365,7 @@
 > > > >
 > > > > <note></note>
 > > 
-> > [<fx> <gfw> <gb></gb> Reddit r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/)
+> > <span class="big"> [<fx> <gfw> <gb></gb> Reddit r/Touhou </gfw> </fx>](https://www.reddit.com/r/touhou/) </span>
 > > 
 > > > Reddit，被戏称为“外国贴吧”的地方（实际上内容的丰富性和质量和氛围我个人觉得比贴吧好太多）。
 > > > 
@@ -403,55 +402,9 @@
 > >
 > > <note></note>
 > 
-> > ## 📺 时泪
-> > 
-> > > 被时代所抛弃的存在，却正因如此而依旧保持着最初的那份纯真，有些可能已经不再维护了，有的网站会时而抽风，而还有些则还保持着难得的活跃用户群体。
-> > > 
-> > > 收录这些网站不为别的，只为了当闲着没事的时候，可以静下心来翻一翻那些积了灰的贴文，感叹一下现在越来越封闭、不平等、魔怔、对立的不再美好的互联网。
-> > >
-> > > 无妨，幻想乡永远美好 =v=
-> > 
-> > [<fx> 漫游 </fx>](https://bbs.popgo.org/bbs/)
-> > 
-> > > 不温不热，但是意外地时不时会有新帖子的论坛
-> > >
-> > > <note></note>
-> > 
-> > [<fx> SOS团 </fx>](https://www.sosg.net/)
-> > 
-> > > 16年历史的论坛，还十分的活跃，非常的难得。让世界更加热闹起来吧！
-> > >
-> > > <note></note>
-> > 
-> > [<fx> 百合会论坛 </fx>](https://bbs.yamibo.com/)
-> > 
-> > > 拥有19年历史的论坛，每天依然有几十条新帖的程度！
-> > >
-> > > <note></note>
-> > 
-> > [<fx> KeyFansClub 我们的梦想 </fx>](https://www.keyfc.net/bbs/index.aspx)
-> > 
-> > > 如题，由Key社作品爱好者建立的论坛站
-> > >
-> > > <note></note>
-> > 
-> > [<fx> 动漫渔场 </fx>](http://www.comicfishing.com/touhou/)
-> > 
-> > > 国内第一家东方论坛，对东方Project在中文圈的发展具有重大意义
-> > >
-> > > <note></note>
-> > 
-> > [<fx> 優質の幻想鄉 </fx>](https://155384.co/forum.php?gid=131)
-> > 
-> > > 台湾的东方论坛
-> > >
-> > > <note></note>
-> > 
-> > [<fx> 东方小镇 </fx>](http://bbs.thproject.net/)
-> > 
-> > > 编写这条介绍的时候这个网站处于无法访问的状态，不知是暂时抽风还是关停了
-> > >
-> > > <note></note>
+> ## 📺 时泪
+>
+> > 见[此处](misc#-时泪)
 
 ---
 
@@ -593,8 +546,8 @@
 
 # 🔑 工具 / 资源
 
-> > ## 东方相关
-> > 
+> ## 东方相关
+> 
 > > [<fx> STG 工具 / 补丁 </fx>](https://thwiki.cc/-/sn5)
 > > 
 > > [<fx> Touhou Toolkit </fx>](https://github.com/thpatch/thtk)  东方拆包工具
@@ -649,8 +602,8 @@
 > 
 > [<fx> uBlockOrigin </fx>](https://ublockorigin.com/) 最好的去广告插件，没有之一
 > 
-> > ## 💾 互联网的记忆
-> > 
+> ## 💾 互联网的记忆
+> 
 > > [<fx> WayBackMachine </fx>](https://web.archive.org/) 网页时光机
 > >
 > > > 不管是想要访问已经关停的博客站，还是单纯想要看看一些网站曾经的样子，网页时光机都能做到！
@@ -669,8 +622,8 @@
 > > >
 > > > <note></note>
 > 
-> > ## 🌊 图片相关
-> > 
+> ## 🌊 图片相关
+> 
 > > <span class="big"> [<fx> Pixiv </fx>](https://pixiv.net/) ACG插画发布站 </span>
 > >
 > > > 相似的，但是不是ACG专业用的艺术发布站还有：
@@ -757,12 +710,12 @@
 > > >
 > > > <note></note>
 > 
-> > ## 🧲 BT (磁力)
-> > 
+> ## 🧲 BT (磁力)
+> 
 > > [<fx> QBT-EE </fx>](https://github.com/c0re100/qBittorrent-Enhanced-Edition) 客户端
 > > 
-> > > ### 🏴‍☠️ BT资源检索引擎（综合）
-> > > 
+> > ### 🏴‍☠️ BT资源检索引擎（综合）
+> > 
 > > > [<fx> <gfw> 1377x </gfw> </fx>](https://www.1377x.to/)
 > > > 
 > > > [<fx> <gfw> 海盗湾 </gfw> </fx>](https://thepiratebay.org/)
@@ -772,8 +725,8 @@
 > > > [<fx> <gfw> BTDigg </gfw> </fx>](https://btdig.com/)
 > > > 
 > 
-> > > ### 🌸 动画资源
-> > > 
+> > ### 🌸 动画资源
+> > 
 > > > [<fx> <gfw> （推荐）末日动漫资源库 </gfw> </fx>](https://share.acgnx.se/)
 > > > 
 > > > [<fx> <gfw> 動漫花園 </gfw> </fx>](https://share.dmhy.org/)
@@ -788,16 +741,16 @@
 > > > 
 > > > [<fx> ACG.RIP </fx>](https://acg.rip/)
 > > > 
-> > > > #### 🅰 字幕
-> > > > 
+> > > #### 🅰 字幕
+> > > 
 > > > > [<fx> 射手网(伪) </fx>](https://assrt.net/)
 > > > > 
 > > > > [<fx> SubHD </fx>](https://subhd.tv/)
 > > > > 
 > > > > [<fx> 字幕库 </fx>](https://zimuku.org/)
 > > 
-> > > ### 📕 电子书
-> > > 
+> > ### 📕 电子书
+> > 
 > > > [<fx> Anna’s Archive </fx>](https://annas-archive.org/)
 > > > 
 > > > 
@@ -813,12 +766,12 @@
 > > > 
 > > > [<fx> 無產階級圖書館 </fx>](https://library.proletarian.me/)
 > 
-> > ## 🔐 网络安全
+> ## 🔐 网络安全
+> 
+> > ### 🚫 网络代理（此分类已删除）
 > > 
-> > > ### 🚫 网络代理（此分类已删除）
-> > > 
-> > > ### 🔎 浏览器隐私插件（主要chrome）
-> > > 
+> > ### 🔎 浏览器隐私插件（主要chrome）
+> > 
 > > > [<fx> uBlock Origin </fx>](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 去广告
 > > > 
 > > > [<fx> Decentraleyes </fx>](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) CDN跟踪拦截
@@ -829,8 +782,8 @@
 > > > 
 > > > [<fx> ClearURLs </fx>](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) 追踪参数清除
 > > 
-> > > ### 🧄 TOR (洋葱网络)
-> > > 
+> > ### 🧄 TOR (洋葱网络)
+> > 
 > > > [<fx> Tor 浏览器 </fx>](https://www.torproject.org/)
 > > > 
 > > > [<fx> Tor Browser 不完全指南 </fx>](https://reconsidera.github.io/#/18)
