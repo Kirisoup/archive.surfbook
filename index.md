@@ -4,54 +4,54 @@
 
 <span class="styled" style="font-size:1.5em!important"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
 
-> > *从你无意识中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
-> 
-> <span class="styled" style="font-size:1.5em!important"> 欢迎来到雾雨蘑菇汤的 </span>
+> *从你无意识中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
+
+<span class="styled" style="font-size:1.5em!important"> 欢迎来到雾雨蘑菇汤的 </span>
 <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
   <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T </span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
 </b></span>
-> 
-> 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
->
-> 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
+
+本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
+
+深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
 
 ## <gfw> ⚠ 如果你的页面翻不动了 </gfw>：
 
-> 这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
-> 
-> 想要解开搅在一起的法术，需要屏幕前的读者，也就是你，**<u>在页面空白处点击五下</u>** ——这是只有你才能做到的魔法！
->
-> 在可观的未来之内，魔力的干扰大概率将持续存在，直到蘑菇汤掌握这股强大的力量……
+这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
+
+想要解开搅在一起的法术，需要屏幕前的读者，也就是你，**<u>在页面空白处点击五下</u>** ——这是只有你才能做到的魔法！
+
+在可观的未来之内，魔力的干扰大概率将持续存在，直到蘑菇汤掌握这股强大的力量……
 
 ## 🌀 **传送门**：
-> 
-> - [<fx> 🧭 目录 </fx>](#-目录)
-> - [<fx> ❓ 使用须知 </fx>](#-使用须知)
-> - [<fx> 💌 友链 </fx>](#-友链)
-> - [<fx> 📆 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 🕒 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-> - <a href="misc"><fx> 🕳 <sub><i><s> From the bottom of the rabbit Hole…… </s></i></sub></fx></a>
+
+- [<fx> 🧭 目录 </fx>](#-目录)
+- [<fx> ❓ 使用须知 </fx>](#-使用须知)
+- [<fx> 💌 友链 </fx>](#-友链)
+- [<fx> 📆 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 🕒 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+- <a href="misc"><fx> 🕳 <sub><i><s> From the bottom of the rabbit Hole…… </s></i></sub></fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
-> 如果屏幕前的你也碰巧知道一些有意思的地方，欢迎：
-> 
-> - 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈
-> - 加入群聊一起吹水~ （见[友链](#-友链)）
-> - (￣∇￣) 私聊[雾雨蘑菇汤（Telegram）](https://t.me/kirisoup)~
+如果屏幕前的你也碰巧知道一些有意思的地方，欢迎：
+
+- 使用 [Github Issues](https://github.com/Kirisoup/Kirisoup.github.io/issues) 进行反馈
+- 加入群聊一起吹水~ （见[友链](#-友链)）
+- (￣∇￣) 私聊[雾雨蘑菇汤（Telegram）](https://t.me/kirisoup)~
 
 ## ❓ 使用须知：
  
-> 使用 [目录](#目录) 快速跳转至对应网站分类吧
-> 
-> <p><gfw> 黄色标题代表网站被 <i>*禁忌的力量*</i> 封印了，需使用特殊姿势访问 </gfw></p>
-> 
-> 网站前的国旗代表了其对应的语言
->
-> ### 
-> 若你的浏览器不支持某些 css 特性，导致丧失可读性（比如火狐浏览器 - 见下文），或者是单纯喜欢更加简洁的阅读体验，请 [转至此处阅读](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
->
-> > 关于火狐：火狐酱缺乏一个本网站目前大量使用的特性（css 的 `:has()`），再加上其他一些奇怪的地方，导致对火狐酱的完全适配超越了我的能力范围。所幸目前起码是保障了可以清楚地阅读。Sorry Firefox enjoyers :(
+使用 [目录](#目录) 快速跳转至对应网站分类吧
+
+<p><gfw> 黄色标题代表网站被 <i>*禁忌的力量*</i> 封印了，需使用特殊姿势访问 </gfw></p>
+
+网站前的国旗代表了其对应的语言
+
+### 
+若你的浏览器不支持某些 css 特性，导致丧失可读性（比如火狐浏览器 - 见下文），或者是单纯喜欢更加简洁的阅读体验，请 [转至此处阅读](https://github.com/Kirisoup/Kirisoup.github.io/blob/main/README.md)！
+
+> 关于火狐：火狐酱缺乏一个本网站目前大量使用的特性（css 的 `:has()`），再加上其他一些奇怪的地方，导致对火狐酱的完全适配超越了我的能力范围。所幸目前起码是保障了可以清楚地阅读。Sorry Firefox enjoyers :(
 
 ---
 
