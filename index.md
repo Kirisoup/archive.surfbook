@@ -1,5 +1,3 @@
-<br>
-
 <span class="styled" style="font-size:2em!important"> **Hey there！** </span>
 
 <span class="styled" style="font-size:1.5em!important"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
