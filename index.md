@@ -1,4 +1,4 @@
-　
+<br>
 
 <span class="styled" style="font-size:2em!important"> **Hey there！** </span>
 
@@ -6,8 +6,8 @@
 
 > *从你无意识中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
 
-<span class="styled" style="font-size:1.5em!important"> 欢迎来到雾雨蘑菇汤的 </span>
-<span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
+<span class="styled" style="font-size:1.5em!important"> **欢迎来到雾雨蘑菇汤的** </span>
+<span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;line-height:2rem!important;letter-spacing:0.5rem!important"  title="☆ 因 特 网 虫 洞 ☆"><b>
   <span class="styled" style="background-color:#00f">☆ I</span><span class="styled" style="background-color:#05f">N</span><span class="styled" style="background-color:#09f">T</span><span class="styled" style="background-color:#0df">E</span><span class="styled" style="background-color:#0fc">R</span><span class="styled" style="background-color:#0f8">N</span><span class="styled" style="background-color:#0fb">E</span><span class="styled" style="background-color:#0ff">T </span>
   <span class="styled" style="background-color:#0bf">W</span><span class="styled" style="background-color:#08f">O</span><span class="styled" style="background-color:#04f">R</span><span class="styled" style="background-color:#00f">M</span><span class="styled" style="background-color:#40f">H</span><span class="styled" style="background-color:#80f">O</span><span class="styled" style="background-color:#d0f">L</span><span class="styled" style="background-color:#f0f">E ☆</span>
 </b></span>
@@ -117,7 +117,7 @@
 
 # ⭐ 东方常用
 
-> ## <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 最好的中文东方维基
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 最好的中文东方维基 </span>
 > 
 > > <img alt = "thbwiki.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp" 
@@ -126,7 +126,7 @@
 > > 
 > > <note></note>
 > 
-> ## <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
 > 
 > > <img alt = "nyasama.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
@@ -135,7 +135,7 @@
 > > 
 > > <note></note>
 > 
-> ## <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) 东方正作射击游戏正版购买
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) 东方正作射击游戏正版购买 </span>
 > 
 > > <img alt = "steam.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp" 
@@ -144,7 +144,7 @@
 > > 
 > > <note></note>
 > 
-> ## <img class="ico" alt = "lilycloud icon" src="https://thdog.moe/favicon.ico" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/) 正作游戏资源下载站
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt = "lilycloud icon" src="https://thdog.moe/favicon.ico" width = 20 loading = "lazy"> [<fx> 莉莉云 - 正作资源等 </fx>](https://cloud.lilywhite.cc/) 正作游戏资源下载站 </span>
 > 
 > > （条件允许的话还请尽量于 Steam 购买正版）
 > > 
@@ -155,7 +155,7 @@
 > > 
 > > <note></note>
 > 
-> ## <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/) 不动的东方视频创作档案馆
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/) 不动的东方视频创作档案馆 </span>
 > 
 > > <img alt = "patchyv.png"
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp" 
@@ -164,7 +164,7 @@
 > > 
 > > <note></note>
 > 
-> ## <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/) 成为弹幕大触之路上的不二之选
+> <span class="styled" style="font-size:1.5em!important"> <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/) 成为弹幕大触之路上的不二之选 </span>
 > 
 > > <img alt = "isndes.webp"
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp" 
