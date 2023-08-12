@@ -8,23 +8,23 @@
 > 
 > <span class="styled" style="font-size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的</span>
 > 
-> <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#000;padding-block:0.5rem"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
-  <span class="styled" style="background-color:#4444dd">\*\* I </span>
-  <span class="styled" style="background-color:#3c6bda">N </span>
-  <span class="styled" style="background-color:#3496d7">T </span>
-  <span class="styled" style="background-color:#2cc2d3">E </span>
-  <span class="styled" style="background-color:#24d0ae">R </span>
-  <span class="styled" style="background-color:#1dcc74">N </span>
-  <span class="styled" style="background-color:#1dcc74">E </span>
-  <span class="styled" style="background-color:#21cea9">T </span>
-  <span class="styled" style="background-color:#25c7d0">W </span>
-  <span class="styled" style="background-color:#299ad2">O </span>
-  <span class="styled" style="background-color:#2e6dd4">R </span>
-  <span class="styled" style="background-color:#3245d6">M </span>
-  <span class="styled" style="background-color:#5237d8">H </span>
-  <span class="styled" style="background-color:#833bda">O </span>
-  <span class="styled" style="background-color:#b040dc">L </span>
-  <span class="styled" style="background-color:#dd44dd">E \*\*</span>
+> <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#444;padding-block:0.5rem"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
+  <span class="styled" style="background-color:#00f">\*\*<sup>꧁</sup> I </span>
+  <span class="styled" style="background-color:#05f">N </span>
+  <span class="styled" style="background-color:#09f">T </span>
+  <span class="styled" style="background-color:#0df">E </span>
+  <span class="styled" style="background-color:#0fc">R </span>
+  <span class="styled" style="background-color:#0f8">N </span>
+  <span class="styled" style="background-color:#0fb">E </span>
+  <span class="styled" style="background-color:#0ff">T </span>
+  <span class="styled" style="background-color:#0bf">W </span>
+  <span class="styled" style="background-color:#08f">O </span>
+  <span class="styled" style="background-color:#04f">R </span>
+  <span class="styled" style="background-color:#00f">M </span>
+  <span class="styled" style="background-color:#40f">H </span>
+  <span class="styled" style="background-color:#80f">O </span>
+  <span class="styled" style="background-color:#d0f">L </span>
+  <span class="styled" style="background-color:#f0f">E </sup>꧂</sup>\*\*</span>
 </i></b></span>
 > 
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
