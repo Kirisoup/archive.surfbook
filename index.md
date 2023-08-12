@@ -11,23 +11,23 @@
 > <br>
 > 
 > <span class="styled" style="font-size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的  
-<span style="color:#000!important;text-shadow:3px 0px#fff"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
+<span style="color:#fff!important;text-shadow:3px 0px#000"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
   <span class="styled" style="background-color:#f00">\*\* I </span>
-  <span class="styled" style="background-color:#f50">n </span>
-  <span class="styled" style="background-color:#fa0">t </span>
-  <span class="styled" style="background-color:#ff0">e </span>
-  <span class="styled" style="background-color:#af0">r </span>
-  <span class="styled" style="background-color:#5f0">n </span>
-  <span class="styled" style="background-color:#0f0">e </span>
-  <span class="styled" style="background-color:#0f5">t </span>
+  <span class="styled" style="background-color:#f50">N </span>
+  <span class="styled" style="background-color:#fa0">T </span>
+  <span class="styled" style="background-color:#ff0">E </span>
+  <span class="styled" style="background-color:#af0">R </span>
+  <span class="styled" style="background-color:#5f0">N </span>
+  <span class="styled" style="background-color:#0f0">E </span>
+  <span class="styled" style="background-color:#0f5">T </span>
   <span class="styled" style="background-color:#0fa">W </span>
-  <span class="styled" style="background-color:#0ff">o </span>
-  <span class="styled" style="background-color:#0af">r </span>
-  <span class="styled" style="background-color:#05f">m </span>
-  <span class="styled" style="background-color:#00f">h </span>
-  <span class="styled" style="background-color:#50f">o </span>
-  <span class="styled" style="background-color:#a0f">l </span>
-  <span class="styled" style="background-color:#f0f">e \*\*</span>
+  <span class="styled" style="background-color:#0ff">O </span>
+  <span class="styled" style="background-color:#0af">R </span>
+  <span class="styled" style="background-color:#05f">M </span>
+  <span class="styled" style="background-color:#00f">H </span>
+  <span class="styled" style="background-color:#50f">O </span>
+  <span class="styled" style="background-color:#a0f">L </span>
+  <span class="styled" style="background-color:#f0f">E \*\*</span>
 </i></b></span></span>
 > 
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
@@ -834,8 +834,6 @@
 > > > [<fx> 無產階級圖書館 </fx>](https://library.proletarian.me/)
 > 
 > > ## 🔐 网络安全
-> > 
-> > [<fx> 数字极权时代生存手记 </fx>](https://reconsidera.github.io/#/README)
 > > 
 > > > ### 🚫 网络代理（此分类已删除）
 > > > 
