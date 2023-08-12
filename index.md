@@ -20,13 +20,13 @@
 >
 > 在可观的未来之内，魔力的干扰大概率将持续存在，直到蘑菇汤掌握这股强大的力量……
 
-## ⛩ **传送门**：
+## 🌀 **传送门**：
 > 
-> ### [<fx> 目录 </fx>](#-目录)
-> - [<fx> 使用须知 </fx>](#-使用须知)
-> - [<fx> 友链 </fx>](#-友链)
-> - [<fx> 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
-> - <a href="misc"><fx><sub>From the bottom of the rabbit Hole…… </sub></fx></a>
+> - [<fx> 🧭 目录 </fx>](#-目录)
+> - [<fx> ❓ 使用须知 </fx>](#-使用须知)
+> - [<fx> 💌 友链 </fx>](#-友链)
+> - [<fx> 📆 更新历史 </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/README.md) / [<fx> 🕒 更新历史（新） </fx>](https://github.com/Kirisoup/Kirisoup.github.io/commits/main/index.md)
+> - <a href="misc"><fx><sub> 🕳 From the bottom of the rabbit Hole…… </sub></fx></a>
 
 ## 💡 帮助蘑菇汤完善这本手册？
 
@@ -51,7 +51,7 @@
 
 ---
 
-# 🎉 友链
+# 💌 友链
 
 > [<fx> ⭐ ☆ GOC 団 ～ 让幻想乡更热闹的琪露诺团 ☆ </fx>](https://qm.qq.com/cgi-bin/qm/qr?k=hZGKAkxpPxURANWv1g7hZc6o9gs6CE13)
 > 
@@ -77,7 +77,7 @@
 
 ---
 
-## 📑 目录
+## 🧭 目录
 - [<fx> ⭐ 东方常用 </fx>](#-东方常用)
 
 - [<fx> 🔎 维基 / 咨询 </fx>](#-维基--咨询)
