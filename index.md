@@ -28,7 +28,7 @@
   <span style="background-color:#50f;color:#af0!important">o </span>
   <span style="background-color:#a0f;color:#5f0!important">l </span>
   <span style="background-color:#f0f;color:#0f0!important">e \*\*</span>
-</b></i></span>！ </span>
+</i></b></span>！ </span>
 >
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
 >
