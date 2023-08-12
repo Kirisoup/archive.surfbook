@@ -2,16 +2,13 @@
 
 <h1 class="styled" style="color:#fff!important" id="hey-there">Hey there！</h1>
 
-<h2 class="styled"style="color:#fff!important" id="看样子你在偶然之中发现了咱的这本幻想乡冲浪大手册">看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》~</h2>
-
-<br>
+<h2 class="styled" style="color:#fff!important" id="看样子你在偶然之中发现了咱的这本幻想乡冲浪大手册">看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》~</h2>
 
 > > *从你无意中捡起这本神秘的手册的那一刻起，精彩的旅途便已然启程——*
 > 
-> <br>
+> <span class="styled" style="font-size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的</span>
 > 
-> <span class="styled" style="font-size:1.5em!important"> 欢迎来到☆雾雨·蘑菇汤☆的  
-<span style="color:#fff!important;text-shadow:3px 0px#000"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
+> <span style="font-size:1.5em!important;color:#fff!important;text-shadow:3px 0px#000;padding-block:0.5rem"  title="☆ 因 特 网 虫 洞 ☆"><b><i>
   <span class="styled" style="background-color:#f00">\*\* I </span>
   <span class="styled" style="background-color:#f50">N </span>
   <span class="styled" style="background-color:#fa0">T </span>
@@ -28,7 +25,7 @@
   <span class="styled" style="background-color:#50f">O </span>
   <span class="styled" style="background-color:#a0f">L </span>
   <span class="styled" style="background-color:#f0f">E \*\*</span>
-</i></b></span></span>
+</i></b></span>
 > 
 > 本手册将传授给你很多对接下来你的互联网之旅十分有用的[技能与工具](#-工具--资源)、并与你一起周游互联网世界中的每一> 个热闹的宴会、纯粹的净土、甚至是那些连幻想都无法触及的世界！
 >
