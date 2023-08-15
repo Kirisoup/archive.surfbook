@@ -859,22 +859,46 @@ code {
 
 /* hidden roast */
 
-s {
+s, s > span:not(:has(span)) {
     transition: 400ms;
     text-decoration: none;
     background-color: #AFB7CC;
-    color: #0000;
     text-shadow: none;
     letter-spacing: initial
+}
+
+s:has(sub) {
+    padding-bottom: 0.3rem;
+}
+
+s:has(sup) {
+    padding-top: 0.5rem;
+}
+
+s {
+    transition: 400ms;
+    color: #0000;
+}
+
+s span:not(:has(span)) {
+    transition: 400ms;
+    opacity: 0;
 }
 
 fx > s {
     padding-block: 0.2rem;
 }
 
-s:hover {
+s:hover, s:hover > span:not(:has(span)) {
     background-color: #fff0;
+}
+
+s:hover {
     color: inherit;
+}
+
+s:hover span:not(:has(span)) {
+    opacity: 1;
 }
 
 /* favicon */
