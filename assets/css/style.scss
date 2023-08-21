@@ -718,11 +718,8 @@ blockquote:has(> note) > blockquote:not(:has(> note)) {
 
 /* blockquote note */
 note {
-    visibility: hidden;
-    width: 0;
-    height: 0;
+    display: none;
     margin: 0;
-    line-height: 0 !important;
 }
 
 blockquote:has(> note) {
