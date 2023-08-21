@@ -765,7 +765,7 @@ blockquote:has(> note)::before {
     width: 0 !important;
     z-index: -100;
     transition-duration: 700ms;
-    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF31) !important;
+    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
     opacity: 0;
 }
 
