@@ -708,6 +708,10 @@ main > blockquote:not(:has(> note)):has(blockquote) {
     margin-left: 0rem !important;
 }
 
+blockquote:has(> note) {
+    margin-left: 0rem !important
+}
+
 blockquote:has(> note) > blockquote:not(:has(> note)) {
     margin-block: 0 !important;
 }
