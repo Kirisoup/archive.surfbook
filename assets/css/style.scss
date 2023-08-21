@@ -745,7 +745,7 @@ blockquote:hover:has(> note) {
     transition: margin-left 0ms !important;
     margin-left: 0rem;
     margin-right: 0rem !important;
-    border-color: #CCDAFF !important;
+    border-color: #CCDAFF31 !important;
 }
 
 blockquote:hover:has(> note) > :not(blockquote):not(note):not(p:has(img)) {
@@ -762,13 +762,16 @@ blockquote:has(> note)::before {
     right: 0;
     bottom: 0;
     left: 0;
+    width: 0 !important;
     z-index: -100;
     transition-duration: 700ms;
-    background: linear-gradient(90deg, #CCDAFF23, #CCDAFF00) !important;
+    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF31) !important;
     opacity: 0;
 }
 
 blockquote:hover:has(> note)::before {
+    width: 100% !important;
+    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
     transition-duration: 300ms;
     opacity: 1;
 }
