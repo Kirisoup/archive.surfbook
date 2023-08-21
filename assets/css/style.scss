@@ -704,7 +704,7 @@ blockquote:not(:has(> note)) {
     margin-left: 0rem;
 }
 
-main > blockquote:not(:has(> note)):has(blockquote) {
+main > blockquote:not(:has(> note)):has(blockquote :not(note)) {
     margin-left: 0rem !important;
 }
 
