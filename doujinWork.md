@@ -1,4 +1,4 @@
-<span class="bigger"><fx>  **东方作品资源整理** </fx></span>
+<span class="bigger"> 东方作品资源整理 </span>
 
 ## 🧭 目录
 - [<fx> 📕 书籍 </fx></fx>](#-书籍)
