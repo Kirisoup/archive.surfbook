@@ -58,9 +58,11 @@ template {
 /* ========================================================================== */
 
 :root {
-    --bg-img: 
-        url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.webp),               
+    --bg-img: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.webp),               
         url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.webp);
+    --main-transition: all 700ms 100ms,
+        scale 700ms, opacity 200ms 600ms,
+        filter 200ms 600ms;
 }
 
 html,
@@ -88,15 +90,13 @@ main {
     position: relative !important;
     min-width: 60vw !important;
     max-width: 70vw;
-    margin-inline: auto !important;
 }
 
 @media screen and (orientation: landscape) {
     main {
         padding-inline: 1rem !important;
         overflow-x: hidden;
-        margin-left: auto;
-        margin-right: auto;
+        margin-inline: auto !important;
         width: calc(70% + 1rem) !important;
     }
     .page-header {
@@ -178,6 +178,7 @@ main {
     /* content animation */
     main div,
     main p,
+    main a,
     main fx,
     main li,
     main span,
@@ -187,51 +188,27 @@ main {
     main h3,
     main h4,
     main h5,
-    main h6 {
-        transition: scale 700ms, opacity 200ms 600ms,
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, border 700ms, border-bottom 700ms, margin-left 700ms 700ms,
-            filter 200ms 600ms !important;
-        scale: 0.95;
-        opacity: 0.6 !important;
-        filter: sepia(1) hue-rotate(200deg) saturate(8);
-    }
-    
-    main li {
-        opacity: 1 !important;
-        filter: none !important;
-    }
-
+    main h6,
     main blockquote:has(> note) {
-        transition: scale 700ms, opacity 200ms 600ms,
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms, margin-right 700ms, border-color 700ms, 
-            filter 200ms 600ms !important;
-        scale: 0.95;
+        scale: 0.9;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
     
-    main blockquote:has(> note) * {
+    main li, main blockquote:has(> note) * {
         filter: none !important;
         scale: 1 !important;
     }
 
-    main a {
-        transition: scale 700ms, opacity 200ms 600ms,
-            color 0ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms,
-            filter 200ms 600ms !important;
-        scale: 0.95;
-        opacity: 0.6 !important;
-        filter: sepia(1) hue-rotate(200deg) saturate(8);
-    }
-
     main h1,
     main footer {
-        transition: scale 700ms, opacity 200ms 600ms,
-            color 700ms 100ms, letter-spacing 700ms 100ms, padding 700ms 100ms, font-weight 700ms 100ms, text-shadow 700ms 100ms, margin-left 700ms 100ms,
-            filter 200ms 600ms !important;
-        scale: 0.95;
+        scale: 0.9;
         opacity: 0.6 !important;
         filter: brightness(2);
+    }
+
+    * {
+        transition: var(--main-transition) !important;
     }
 
     main:hover:not(:has(~ #cboxTg input:checked)) div,
@@ -256,16 +233,14 @@ main {
         filter: none;
         opacity: 1 !important;
     }
-
 }
 
 @media screen and (orientation: portrait) {
     main {
         padding-inline: 1rem !important;
         overflow-x: hidden;
-        margin-left: auto;
-        margin-right: auto;
-        width: calc(80% + 1rem) !important;
+        margin-inline: 0 !important;
+        width: 100vw !important;
     }
     .page-header {
         padding-block: 2rem 1rem !important;
@@ -452,15 +427,13 @@ blockquote blockquote h1 {
     opacity: 1
 }
 
-.main-content h1:hover::after,
-.main-content h1:has(+ blockquote:hover)::after {
+.main-content h1:hover::after {
     transition: 0ms 0ms;
     border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
     opacity: 0
 }
 
-.main-content h1:hover,
-.main-content h1:has(+ blockquote:hover) {
+.main-content h1:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     padding-inline: 1rem;
@@ -470,8 +443,7 @@ blockquote blockquote h1 {
     text-shadow: none;
 }
 
-.main-content h1:hover::before, 
-.main-content h1:has(+ blockquote:hover)::before {
+.main-content h1:hover::before {
     content: "";
     position: fixed;
     top: 0;
@@ -520,17 +492,7 @@ blockquote blockquote h1 {
 .main-content h3:hover,
 .main-content h4:hover,
 .main-content h5:hover,
-.main-content h6:hover,
-h2:has(+ blockquote:hover),
-h3:has(+ blockquote:hover),
-h4:has(+ blockquote:hover),
-h5:has(+ blockquote:hover),
-h6:has(+ blockquote:hover),
-h2:has(+ blockquote *:hover),
-h3:has(+ blockquote *:hover),
-h4:has(+ blockquote *:hover),
-h5:has(+ blockquote *:hover),
-h6:has(+ blockquote *:hover) {
+.main-content h6:hover {
     transition-delay: 0ms !important;
     transition-duration: 0ms !important;
     font-weight: bolder;
@@ -544,17 +506,7 @@ h6:has(+ blockquote *:hover) {
 .main-content h3:hover::before,
 .main-content h4:hover::before,
 .main-content h5:hover::before,
-.main-content h6:hover::before,
-h2:has(+ blockquote:hover)::before,
-h3:has(+ blockquote:hover)::before,
-h4:has(+ blockquote:hover)::before,
-h5:has(+ blockquote:hover)::before,
-h6:has(+ blockquote:hover)::before,
-h2:has(+ blockquote *:hover)::before,
-h3:has(+ blockquote *:hover)::before,
-h4:has(+ blockquote *:hover)::before,
-h5:has(+ blockquote *:hover)::before,
-h6:has(+ blockquote *:hover)::before {
+.main-content h6:hover::before {
     transition-duration: 0ms !important;
     opacity: 1;
 }
@@ -582,17 +534,7 @@ h6:has(+ blockquote *:hover)::before {
 .main-content h3:hover::after,
 .main-content h4:hover::after,
 .main-content h5:hover::after,
-.main-content h6:hover::after,
-h2:has(+ blockquote:hover)::after,
-h3:has(+ blockquote:hover)::after,
-h4:has(+ blockquote:hover)::after,
-h5:has(+ blockquote:hover)::after,
-h6:has(+ blockquote:hover)::after,
-h2:has(+ blockquote *:hover)::after,
-h3:has(+ blockquote *:hover)::after,
-h4:has(+ blockquote *:hover)::after,
-h5:has(+ blockquote *:hover)::after,
-h6:has(+ blockquote *:hover)::after {
+.main-content h6:hover::after {
     transition: 0ms 0ms;
     border-image: linear-gradient(90deg, #1dcc7431, #1dcc7400) 1;
     opacity: 0
@@ -697,6 +639,8 @@ blockquote {
     margin-block: 1rem !important;
     padding-bottom: 0rem !important;
     margin-left: 2rem !important;
+    margin-right: 0rem !important;
+    width: auto !important;
 }
 
 blockquote:not(:has(> note)) {
@@ -769,7 +713,7 @@ blockquote:has(> note)::before {
 blockquote:hover:has(> note)::before {
     width: 100% !important;
     background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
-    transition-duration: 300ms;
+    transition-duration: 0ms;
     opacity: 1;
 }
 
@@ -918,10 +862,11 @@ s:hover span:not(:has(span)) {
 img:not(.ico) {
     transition-duration: 700ms;
     position: relative;
-    min-width: 0vw !important; 
-    max-width: 80vw !important;
-    min-height: 0vh !important;
-    max-height: 30vh !important;
+    min-width: unset !important; 
+    max-width: unset !important;
+    min-height: unset !important;
+    max-height: unset !important;
+    width: min(70vh,100%) !important;
     opacity: 0.3;
 }
 
