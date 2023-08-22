@@ -18,14 +18,6 @@ layout: default
 
 深呼吸，系好安全带~~才没有这种东西~~！撒，就让旅途从此处开始……
 
-## <gfw> ⚠ 如果你的页面翻不动了 </gfw>：
-
-这是由于蘑菇汤强行使用了自己尚无法完全掌握的力量，导致了意外的魔力干扰！
-
-想要解开搅在一起的法术，需要屏幕前的读者，也就是你，**<u>在页面空白处点击五下</u>** ——这是只有你才能做到的魔法！
-
-在可观的未来之内，魔力的干扰大概率将持续存在，直到蘑菇汤掌握这股强大的力量……
-
 ## 🌀 **传送门**：
 
 - [<fx> 🧭 目录 </fx>](#-目录)
@@ -129,7 +121,7 @@ layout: default
 > > 
 > > <note></note>
 > 
-> <span class="big"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
+> <span class="big"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" onerror="this.onerror=null; this.src='https://icon.horse/icon/bbs.nyasama.com'" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
 > 
 > > <img alt = "nyasama.webp" 
 > > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
@@ -181,8 +173,8 @@ layout: default
 
 # 🔎 维基 / 咨询
 
-> 自由、开放、平等的人类知识网络系统。
-> 
+自由、开放、平等的人类知识网络系统。
+
 > ## 东方相关
 > 
 > > [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 描述见[上文](#--东方吧维基-)
@@ -305,8 +297,8 @@ layout: default
 
 # 💬 论坛
 
-> 真正以观点为主导，平等的交流环境
-> 
+以观点为主导、平等的交流环境
+
 > ## 东方相关
 > 
 > > [<fx> 喵玉殿 </fx>](https://bbs.nyasama.com/) 描述见[上文](#--喵玉殿论坛-)
