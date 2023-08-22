@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <span class="bigger">  **Hey there！** </span>
 
 <span class="big"> **看样子你在偶然之中发现了咱的这本《幻想乡冲浪大手册》？**</span>
