@@ -62,14 +62,14 @@ template {
         url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/backgrounds/photo_2023-07-18_22-21-25_16_9.webp);
     --main-transition: all 700ms 100ms,
         scale 700ms, opacity 200ms 600ms,
-        filter 200ms 600ms;
+        filter 200ms 600ms,
+        transform 1000ms 700ms
 }
 
 html,
 body {
     width: 100%;
     position: relative;
-    overflow-x: hidden;
 }
 
 body {
@@ -80,29 +80,29 @@ body {
 
 }
 
-body .page-header {
-    margin-top: -1rem!important;
-    transition: 600ms !important;
-    background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
-}
-
 main {
     position: relative !important;
-    min-width: 60vw !important;
-    max-width: 70vw;
+    margin-inline: auto !important;
 }
+
+main * {
+    transition: var(--main-transition) !important;
+}
+
+/* ================ */
 
 @media screen and (orientation: landscape) {
     main {
         padding-inline: 1rem !important;
         overflow-x: hidden;
-        margin-inline: auto !important;
-        width: calc(70% + 1rem) !important;
+        width: 70vw !important;
     }
+
     .page-header {
         padding-block: 1rem 3rem !important;
         padding-inline: 4rem !important;
     }
+    
     .project-tagline {
         font-size: 1.2rem!important;
         line-height: 1.5 !important;
@@ -138,6 +138,8 @@ main {
     }
 }
 
+/* ================ */
+
 @media (any-pointer: fine) {
 
     main:hover ~ #cboxTg .content {
@@ -145,10 +147,55 @@ main {
         transform: translatex(4rem);
     }
 
-    cbox:hover ~ #cboxTg.toggle:not(:has(> input:checked)) {
+    cbox:hover ~ #cboxTg:not(:has(> input:checked)) {
         transform: translatex(4rem);
     }   
+
+    main:hover ~ #toToc .content {
+        transition: 600ms;
+        transform: translatex(-4rem);
+    }
     
+    .page-header {
+        color: #AFB7CC;
+    }
+    
+    .page-header:has(+ .main-content:hover) {
+        transition: 200ms !important;
+        color: #fff;
+    }
+    
+    .page-header::before {
+        transition: height 1000ms 700ms, opacity 700ms 700ms;
+        content: "";
+        position: absolute;
+        inset: 0;
+        height: 250%;
+        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
+        opacity: 0;
+    }
+
+    .page-header:has(+ .main-content:hover)::before {
+        transition: height 0ms, opacity 700ms;
+        opacity: 1;
+        height: 100%;
+    }
+
+    body::before {
+        transition: 700ms 1000ms;
+        content: "";
+        position: fixed;
+        inset: 0;
+        height: 100vh;
+        background: linear-gradient(120deg, #4444dd88, #4444dd00 60%, #1dcc7400 0%, #1dcc7433) !important;
+    }
+
+    body:has(main:hover)::before {
+        transition: 700ms;
+        opacity: 0;
+    }
+
+
     main::after {
         transition-delay: 100ms !important;
         transition-duration: 1000ms !important;
@@ -190,14 +237,23 @@ main {
     main h5,
     main h6,
     main blockquote:has(> note) {
-        scale: 0.9;
+        scale: 0.95;
         opacity: 0.6 !important;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
     
-    main li, main blockquote:has(> note) * {
+    main li {
+        filter: none !important;
+        opacity: 1 !important;
+    }
+
+    main blockquote:has(> note) * {
         filter: none !important;
         scale: 1 !important;
+    }
+
+    main > blockquote:not(:has(> note)) blockquote:not(:has(> note)) {
+        scale: 0.95;        
     }
 
     main h1,
@@ -207,11 +263,13 @@ main {
         filter: brightness(2);
     }
 
-    * {
-        transition: var(--main-transition) !important;
-    }
-
     main:hover:not(:has(~ #cboxTg input:checked)) div,
+    main:hover:not(:has(~ #cboxTg input:checked)) p,
+    main:hover:not(:has(~ #cboxTg input:checked)) a,
+    main:hover:not(:has(~ #cboxTg input:checked)) fx,
+    main:hover:not(:has(~ #cboxTg input:checked)) li,
+    main:hover:not(:has(~ #cboxTg input:checked)) span,
+    main:hover:not(:has(~ #cboxTg input:checked)) gfw,
     main:hover:not(:has(~ #cboxTg input:checked)) h1,
     main:hover:not(:has(~ #cboxTg input:checked)) h2,
     main:hover:not(:has(~ #cboxTg input:checked)) h3,
@@ -219,13 +277,8 @@ main {
     main:hover:not(:has(~ #cboxTg input:checked)) h5,
     main:hover:not(:has(~ #cboxTg input:checked)) h6,
     main:hover:not(:has(~ #cboxTg input:checked)) hr,
-    main:hover:not(:has(~ #cboxTg input:checked)) li,
-    main:hover:not(:has(~ #cboxTg input:checked)) p,
-    main:hover:not(:has(~ #cboxTg input:checked)) a,
-    main:hover:not(:has(~ #cboxTg input:checked)) fx,
-    main:hover:not(:has(~ #cboxTg input:checked)) span,
-    main:hover:not(:has(~ #cboxTg input:checked)) gfw,
-    main:hover:not(:has(~ #cboxTg input:checked)) footer {
+    main:hover:not(:has(~ #cboxTg input:checked)) footer,
+    main:hover:not(:has(~ #cboxTg input:checked)) blockquote {
         transition-duration: 700ms;
         transition-property: filter, opacity;
         transition-delay: 0ms !important;
@@ -235,17 +288,22 @@ main {
     }
 }
 
+/* ================ */
+
 @media screen and (orientation: portrait) {
+
     main {
         padding-inline: 1rem !important;
         overflow-x: hidden;
-        margin-inline: 0 !important;
-        width: 100vw !important;
+        width: 90vw !important;
     }
+    
     .page-header {
         padding-block: 2rem 1rem !important;
-        padding-inline: 0rem !important;
+        padding-inline: 5vw !important;
+        scale: 1 !important;
     }
+    
     .project-tagline {
         font-size: 0.9rem!important;
         line-height: 1.5 !important
@@ -278,6 +336,8 @@ main {
     }
 }
 
+/* ================ */
+
 @media (any-pointer: coarse) {
     
     cbox {
@@ -286,6 +346,14 @@ main {
         opacity: 0
     }
 
+    .page-header::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
+    }
+    
     main::before {
         content: "";
         position: fixed;
@@ -300,7 +368,6 @@ main {
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1;
-        filter: none !important;
         opacity: 0.3 !important;
     }
 
@@ -312,6 +379,12 @@ main {
     
     /* content animation */
     main div,
+    main p,
+    main a,
+    main fx,
+    main li,
+    main span,
+    main gfw,
     main h1,
     main h2,
     main h3,
@@ -319,12 +392,9 @@ main {
     main h5,
     main h6,
     main hr,
-    main li,
-    main p,
-    main a,
-    main span,
-    main footer {
-        transition-duration: 700ms;
+    main footer,
+    main blockquote {
+        transition: var(--main-transition) !important;
         scale: 1;
         filter: none;
         opacity: 1 !important;
@@ -334,8 +404,13 @@ main {
     }
 }
 
+/* ================ */
+
 .page-header {
     line-height: 2;
+    display: block;
+    position: relative;
+    transition: 200ms 600ms !important;
 }
 
 .project-name,
@@ -347,7 +422,6 @@ main {
 /* Horizontal rule */
 hr,
 .site-footer {
-    transition-duration: 500ms !important;
     margin-block: 3rem !important;
     margin-inline: 0rem !important;
     border-width: 0.3rem !important;
@@ -408,7 +482,6 @@ blockquote blockquote h1 {
     transition-duration: 1000ms;
     background: linear-gradient(120deg, #4444dd, #159957) !important;
     border-radius: 10px;
-    box-shadow: none;
     opacity: 0;
 }
 
@@ -462,8 +535,6 @@ blockquote blockquote h1 {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    transition-delay: 100ms;
-    transition-duration: 400ms;
     margin-block: 1.5rem 0.5rem !important;
     padding-block: 0.7rem;
     color: #1DCC74 !important;
@@ -565,8 +636,6 @@ a:hover {
 
 a fx,
 a fx gfw {
-    transition-delay: 100ms;
-    transition-duration: 700ms;
     color: #87B6CC !important;
     font-size: 1.25rem!important;
     letter-spacing: 0.5px;
@@ -667,7 +736,6 @@ note {
 }
 
 blockquote:has(> note) {
-    transition: border-width 700ms !important;
     display: block;
     font-size: 0.9rem !important;
     min-width: min(50vw, 10rem) !important;
@@ -683,7 +751,6 @@ blockquote:has(> note) {
 }
 
 blockquote:hover:has(> note) {
-    transition: margin-left 0ms !important;
     margin-left: 0rem;
     margin-right: 0rem !important;
     border-color: #CCDAFF31 !important;
@@ -717,16 +784,6 @@ blockquote:hover:has(> note)::before {
     opacity: 1;
 }
 
-main:hover blockquote:has(> note) {
-    scale: 1;
-    opacity: 1 !important;
-    filter: none;
-}
-
-main:hover blockquote:hover:has(> note) {
-    filter: none;
-}
-
 /* Highlight */
 pre.highlight {
     border: none !important;
@@ -734,8 +791,6 @@ pre.highlight {
 }
 
 div.highlight {
-    transition-delay: 100ms;
-    transition-duration: 400ms;
     background: none !important;
     border-radius: 10px !important;
     border: solid #CCDAFF63 3px !important;
@@ -743,8 +798,6 @@ div.highlight {
 }
 
 .language-plaintext.highlighter-rouge {
-    transition-delay: 100ms;
-    transition-duration: 400ms;
     scale: 0.95;
     margin-bottom: 2rem !important;
 }
@@ -799,16 +852,17 @@ code {
 
 .big {
     font-size: 1.5rem !important;
+    color: #fff;
 }
 
 .bigger {
     font-size: 2rem !important;
+    color: #fff;
 }
 
 /* hidden roast */
 
 s, s > span:not(:has(span)) {
-    transition: 400ms;
     text-decoration: none;
     background-color: #AFB7CC;
     text-shadow: none;
@@ -824,12 +878,10 @@ s:has(sup) {
 }
 
 s {
-    transition: 400ms;
     color: #0000;
 }
 
 s span:not(:has(span)) {
-    transition: 400ms;
     opacity: 0;
 }
 
@@ -859,24 +911,62 @@ s:hover span:not(:has(span)) {
 
 /* image */
 
-img:not(.ico) {
-    transition-duration: 700ms;
+img {
+    color: #f00;
+    font-size: 1rem;
+}
+
+img:not(.ico, .pic) {
+    transition: 700ms !important;
     position: relative;
-    min-width: unset !important; 
-    max-width: unset !important;
-    min-height: unset !important;
-    max-height: unset !important;
     width: min(70vh,100%) !important;
     opacity: 0.3;
 }
 
-blockquote:has(> note) img:not(.ico) {
+blockquote:has(> note) img:not(.ico, .pic) {
     padding-inline: 0.5rem
 }
 
-img:not(.ico):hover, blockquote:has(> note):hover > p > img:not(.ico) {
-    transition-duration: 300ms;
+img:not(.ico, .pic):hover, blockquote:has(> note):hover > p > img:not(.ico, .pic) {
+    transition: 300ms !important;
     opacity: 1;
+}
+
+/* back to TOC */
+
+#toToc {
+    position: fixed;
+    display: inline-block;
+    text-decoration: none !important;
+    width: 3rem;
+    height: 3rem;
+    left: 1rem;
+    bottom: 1rem;
+}
+
+#toToc .content {
+    transition: 600ms 1000ms;
+    background-color: #fff;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3rem;
+    box-shadow: 0 0 10px #1e1e2288;
+    font-weight: bolder;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#toToc .content::before {
+    content: "≡";
+    color: #288;
+    font-size: 1.5rem;
+    opacity: 1;
+  }
+
+#cboxTg:has(input:checked) + #toToc .content {
+    transition-delay: 0ms !important;
+    transform: translateX(-4rem)
 }
 
 /* Chat box */
@@ -893,9 +983,6 @@ cbox {
 
 iframe {
     flex-grow: 1;
-    position: unset;
-    bottom: unset;
-    height: unset;
     width: 100%; 
     z-index: 0
 }
@@ -918,8 +1005,6 @@ cbox:has(~ #cboxTg input:checked) {
     display: block;
     position: relative;
     top: 0;
-    left: unset;
-    right: unset;
     margin-block: 0;
     background: linear-gradient(90deg, #4444dd88, #19B2B277, #1dcc7466), #000;
 }
@@ -988,7 +1073,7 @@ cbox #top.msg img {
 
 /* Chat box toggle */
 
-#cboxTg.toggle {
+#cboxTg {
     transition: transform 600ms, right 600ms;
     position: fixed;
     display: inline-block;
@@ -998,7 +1083,7 @@ cbox #top.msg img {
     bottom: 2rem;
 }
 
-#cboxTg.toggle:has(> input:checked) {
+#cboxTg:has(> input:checked) {
     transition: 600ms;
     right: min(21rem, min(calc(70vw + 1rem), calc(100vw - 4rem)))
 }
@@ -1017,7 +1102,7 @@ cbox::before {
     background-color: #0000
 }
 
-cbox:has(~ #cboxTg.toggle input:checked)::before {
+cbox:has(~ #cboxTg input:checked)::before {
     transition: top 0ms, left 0ms, backdrop-filter 700ms, background-color 700ms;
     top: 0;
     left: 0;
@@ -1026,7 +1111,7 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     background-color: #0004
 }
 
-#cboxTg.toggle input {
+#cboxTg input {
     visibility: hidden;
     width: 0;
     height: 0;
@@ -1038,10 +1123,11 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     height: 3rem;
     width: 3rem;
     border-radius: 3rem;
+    box-shadow: 0 0 10px #1e1e2288;
     font-weight: bolder;
     display: table-cell;
     vertical-align: middle;
-    text-align: center
+    text-align: center;
 }
 
 #cboxTg input:checked + .content {
@@ -1082,3 +1168,4 @@ cbox:has(~ #cboxTg.toggle input:checked)::before {
     font-size: 2rem;
     opacity: 1;
 }
+
