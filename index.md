@@ -115,27 +115,33 @@ layout: default
 > <span class="big"> <img class="ico" alt = "thb icon" src="https://static.thwiki.cc/favicon.ico" width = 20 loading = "lazy"> [<fx> 东方吧维基 </fx>](http://thwiki.cc/) 最好的中文东方维基 </span>
 > 
 > > <img alt = "thbwiki.webp" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp'" 
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/thbwiki.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 > 
 > <span class="big"> <img class="ico" alt = "nyasama icon" src="https://bbs.nyasama.com/favicon.ico" onerror="this.onerror=null; this.src='https://icon.horse/icon/bbs.nyasama.com'" width = 20 loading = "lazy"> [<fx> 喵玉殿论坛 </fx>](https://bbs.nyasama.com/) 非常好东方论坛 </span>
 > 
 > > <img alt = "nyasama.webp" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp'"
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/nyasama.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 > 
 > <span class="big"> <img class="ico" alt = "steam icon" src="https://store.steampowered.com/favicon.ico" width = 20 onerror="this.onerror=null; this.src='https://icon.horse/icon/store.steampowered.com'" loading = "lazy"> [<fx> Steam 正作正版购买 </fx>](https://store.steampowered.com/search/?supportedlang=japanese&developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) 东方正作射击游戏正版购买 </span>
 > 
 > > <img alt = "steam.webp" 
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp'"
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/steam.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 > 
@@ -144,27 +150,33 @@ layout: default
 > > （条件允许的话还请尽量于 Steam 购买正版）
 > > 
 > > <img alt = "lilycloud.png"
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp'"
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/lilycloud.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 > 
 > <span class="big"> <img class="ico" alt="patchy icon" src="https://www.patchyvideo.com/favicon.png" width = 20 loading = "lazy">  [<fx> 帕琪站 - 视频检索 </fx>](https://www.patchyvideo.com/) 不动的东方视频创作档案馆 </span>
 > 
 > > <img alt = "patchyv.png"
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp'"
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/patchyv.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 > 
 > <span class="big"> <img class="ico" alt="isndes icon" src="https://icon.horse/icon/www.isndes.com" width = 20 loading = "lazy"> [<fx> 甜品站 - STG 学习 </fx>](https://www.isndes.com/) 成为弹幕大触之路上的不二之选 </span>
 > 
 > > <img alt = "isndes.webp"
-> > src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp" 
-> > onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp'"
-> > loading = "lazy">
+src = "https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp" 
+onerror="this.onerror=null; this.src='https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp'"
+style="--dataImg: url(https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp), 
+url(https://ghproxy.com/https://raw.githubusercontent.com/Kirisoup/Kirisoup.github.io/main/assets/preview/isndes.webp)" 
+loading = "lazy">
 > > 
 > > <note></note>
 
