@@ -1,3 +1,7 @@
+---
+layout: misc
+---
+
 [回到主页面](https://kirisoup.github.io/)
 
 # From the bottom of the rabbit Hole……
