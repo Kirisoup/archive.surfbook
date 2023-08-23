@@ -35,7 +35,6 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta http-equiv="cache-control" content="max-age=300" />
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" onload="this.media='all'">
     {% include head-custom.html %} 
 
     <script>
@@ -239,9 +238,12 @@
 	    marginwidth="0" 
 	    scrolling="auto"></iframe>	
     </cbox>
-    <label class = "toggle" id = "cboxTg">
+    <label id = "cboxTg" title="留言板">
       <input type = "checkbox">
       <div class = "content"></div>
     </label>
+    <a id = "toToc" href="#-目录" title="回到目录">
+      <div class = "content"></div>
+    </a>
   </body>
 </html>
