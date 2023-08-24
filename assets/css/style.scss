@@ -73,21 +73,21 @@ body {
 }
 
 body {
-    background-color: #1e1e22 !important;
-    color: #AFB7CC !important;
-    font-family: SimHei !important;
-    line-height: 1 !important;
+    background-color: #1e1e22;
+    color: #AFB7CC;
+    font-family: SimHei;
+    line-height: 1;
 
 }
 
 main {
-    position: relative !important;
-    margin-inline: auto !important;
-    overflow-x: hidden !important;
+    position: relative;
+    margin-inline: auto;
+    overflow-x: hidden;
 }
 
 main * {
-    transition: var(--main-transition) !important;
+    transition: var(--main-transition);
 }
 
 main * {
@@ -98,23 +98,23 @@ main * {
 
 @media screen and (orientation: landscape) {
     main {
-        padding-inline: 1rem !important;
+        padding-inline: 1rem;
         overflow-x: visible;
-        width: 70vw !important;
+        width: 70vw;
     }
 
     .page-header {
-        padding-block: 1rem 3rem !important;
-        padding-inline: 4rem !important;
+        padding-block: 1rem 3rem;
+        padding-inline: 4rem;
     }
     
     .project-tagline {
-        font-size: 1.2rem!important;
-        line-height: 1.5 !important;
+        font-size: 1.2rem;
+        line-height: 1.5;
     }
 
     .project-name {
-        line-height: 2 !important;
+        line-height: 2;
     }
 
     main::before {
@@ -127,12 +127,12 @@ main * {
         bottom: 0;
         left: 0;
         z-index: -100;
-        background-image: var(--bg-img) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
+        background-image: var(--bg-img);
+        background-position: center center;
+        background-attachment: fixed;
         background-size: cover;
         scale: 1;
-        opacity: 0.3 !important;
+        opacity: 0.3;
     }
 
 
@@ -166,7 +166,7 @@ main * {
     }
     
     .page-header:has(+ .main-content:hover) {
-        transition: 200ms !important;
+        transition: 200ms;
         color: #fff;
     }
     
@@ -176,7 +176,7 @@ main * {
         position: absolute;
         inset: 0;
         height: 250%;
-        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
+        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455);
         opacity: 0;
     }
 
@@ -192,7 +192,7 @@ main * {
         position: fixed;
         inset: 0;
         height: 100vh;
-        background: linear-gradient(120deg, #4444dd88, #4444dd00 60%, #1dcc7400 0%, #1dcc7433) !important;
+        background: linear-gradient(120deg, #4444dd88, #4444dd00 60%, #1dcc7400 0%, #1dcc7433);
     }
 
     body:has(main:hover)::before {
@@ -202,28 +202,28 @@ main * {
 
 
     main::after {
-        transition-delay: 100ms !important;
-        transition-duration: 1000ms !important;
+        transition-delay: 100ms;
+        transition-duration: 1000ms;
         content: "";
         position: fixed;
         top: 0;
         right: 0;
         bottom: 0;
         left: 0;
-        height: 100lvh !important;
+        height: 100lvh;
         z-index: -100;
         pointer-events: none;
-        background: #000 !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
+        background: #000;
+        background-position: center center;
+        background-attachment: fixed;
         background-size: cover;
         opacity: 0;
     }
 
     main:hover:not(:has(~ #cboxTg input:checked))::after {
-        transition-delay: 200ms !important;
-        transition-duration: 700ms !important;
-        background: #000 !important;
+        transition-delay: 200ms;
+        transition-duration: 700ms;
+        background: #000;
         opacity: 0.3;
     }
     
@@ -243,18 +243,18 @@ main * {
     main h6,
     main blockquote:has(> note) {
         scale: 0.95;
-        opacity: 0.6 !important;
+        opacity: 0.6;
         filter: sepia(1) hue-rotate(200deg) saturate(8);
     }
     
     main li {
-        filter: none !important;
-        opacity: 1 !important;
+        filter: none;
+        opacity: 1;
     }
 
     main blockquote:has(> note) * {
-        filter: none !important;
-        scale: 1 !important;
+        filter: none;
+        scale: 1;
     }
 
     main > blockquote:not(:has(> note)) blockquote:not(:has(> note)) {
@@ -264,7 +264,7 @@ main * {
     main h1,
     main footer {
         scale: 0.9;
-        opacity: 0.6 !important;
+        opacity: 0.6;
         filter: brightness(2);
     }
 
@@ -286,10 +286,10 @@ main * {
     main:hover:not(:has(~ #cboxTg input:checked)) blockquote {
         transition-duration: 700ms;
         transition-property: filter, opacity;
-        transition-delay: 0ms !important;
+        transition-delay: 0ms;
         scale: 1;
         filter: none;
-        opacity: 1 !important;
+        opacity: 1;
     }
 }
 
@@ -298,24 +298,24 @@ main * {
 @media screen and (orientation: portrait) {
 
     main {
-        padding-inline: 1rem !important;
+        padding-inline: 1rem;
         overflow-x: visible;
-        width: 90vw !important;
+        width: 90vw;
     }
     
     .page-header {
-        padding-block: 2rem 1rem !important;
-        padding-inline: 5vw !important;
-        scale: 1 !important;
+        padding-block: 2rem 1rem;
+        padding-inline: 5vw;
+        scale: 1;
     }
     
     .project-tagline {
-        font-size: 0.9rem!important;
-        line-height: 1.5 !important
+        font-size: 0.9rem;
+        line-height: 1.5
     }
 
     .project-name {
-        line-height: 1 !important;
+        line-height: 1;
     }
 
     main::before {
@@ -325,15 +325,15 @@ main * {
         right: 0;
         bottom: 0;
         left: -250px;
-        height: 100lvh !important;
+        height: 100lvh;
         z-index: -100;
-        background-image: var(--bg-img) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
+        background-image: var(--bg-img);
+        background-position: center center;
+        background-attachment: fixed;
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1;
-        opacity: 0.3!important;
+        opacity: 0.3;
     }
 
     main:hover:not(:has(~ #cboxTg input:checked))::before {
@@ -356,7 +356,7 @@ main * {
         position: absolute;
         inset: 0;
         height: 100%;
-        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455) !important;
+        background: linear-gradient(120deg, #4444ddaa, #4444dd00 60%, #1dcc7400 0%, #1dcc7455);
     }
     
     main::before {
@@ -365,21 +365,21 @@ main * {
         top: 0;
         right: 0;
         bottom: 0;
-        height: 100lvh !important;
+        height: 100lvh;
         z-index: -100;
-        background-image: var(--bg-img) !important;
-        background-position: center center !important;
-        background-attachment: fixed !important;
+        background-image: var(--bg-img);
+        background-position: center center;
+        background-attachment: fixed;
         background-size: cover;
         transition-duration: 1500ms;
         scale: 1;
-        opacity: 0.3 !important;
+        opacity: 0.3;
     }
 
     main:hover:not(:has(~ #cboxTg input:checked))::before {
         transition-duration: 1500ms;
         scale: 1;
-        opacity: 0.3 !important;
+        opacity: 0.3;
     }
     
     /* content animation */
@@ -399,13 +399,13 @@ main * {
     main hr,
     main footer,
     main blockquote {
-        transition: var(--main-transition) !important;
+        transition: var(--main-transition);
         scale: 1;
         filter: none;
-        opacity: 1 !important;
+        opacity: 1;
     }
     img:not(.ico) {
-        opacity: 1 !important;
+        opacity: 1;
     }
 }
 
@@ -415,61 +415,61 @@ main * {
     line-height: 2;
     display: block;
     position: relative;
-    transition: 200ms 600ms !important;
+    transition: 200ms 600ms;
 }
 
 .project-name,
 .project-tagline {
     scale: 80%;
-    margin-block: 0 !important;
+    margin-block: 0;
 }
 
 /* Horizontal rule */
 hr,
 .site-footer {
-    margin-block: 3rem !important;
-    margin-inline: 0rem !important;
-    border-width: 0.3rem !important;
-    height: 0.3rem !important;
+    margin-block: 3rem;
+    margin-inline: 0rem;
+    border-width: 0.3rem;
+    height: 0.3rem;
 }
 
 hr {
-    background: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) !important;
-    border: none !important;
+    background: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74);
+    border: none;
 }
 
 blockquote:not(:has(> note)) hr {
-    margin-block: 2rem !important;
-    background: #CCDAFF63 !important;
-    height: 2px !important;
-    width: 160vw !important;
-    margin-left: -60vw !important;
+    margin-block: 2rem;
+    background: #CCDAFF63;
+    height: 2px;
+    width: 160vw;
+    margin-left: -60vw;
 }
 
 blockquote:has(> note) hr {
-    margin-block: 2rem !important;
-    background: #CCDAFF63 !important;
-    height: 2px !important;
-    width: 160vw !important;
+    margin-block: 2rem;
+    background: #CCDAFF63;
+    height: 2px;
+    width: 160vw;
 }
 
 .site-footer {
-    border-image: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) 1 !important;
+    border-image: linear-gradient(90deg, #4444dd, #19B2B2, #1dcc74) 1;
 }
 
 /* Head line */
 .main-content h1 {
-    border-radius: 0px !important;
-    margin-block: 2.3rem !important;
+    border-radius: 0px;
+    margin-block: 2.3rem;
     padding-inline: 0rem;
     padding-block: 0.7rem;
-    color: #1DCC74 !important;
+    color: #1DCC74;
     text-shadow: 10px 10px #44da;
     cursor: default;
 }
 
 blockquote blockquote h1 {
-    margin-left: -2rem !important;
+    margin-left: -2rem;
 }
 
 .main-content h1::before {
@@ -481,7 +481,7 @@ blockquote blockquote h1 {
     left: 0;
     z-index: -100;
     transition-duration: 1000ms;
-    background: linear-gradient(120deg, #4444dd, #159957) !important;
+    background: linear-gradient(120deg, #4444dd, #159957);
     border-radius: 10px;
     opacity: 0;
 }
@@ -494,7 +494,7 @@ blockquote blockquote h1 {
     right: 0;
     bottom: 0;
     left: 0;
-    padding-block: 1rem !important;
+    padding-block: 1rem;
     z-index: -100;
     border-bottom: solid 4px;
     border-image: linear-gradient(90deg, #1dcc7463, #1dcc7400) 1;
@@ -508,11 +508,11 @@ blockquote blockquote h1 {
 }
 
 .main-content h1:hover {
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
     padding-inline: 1rem;
     font-weight: bolder;
-    color: #fff !important;
+    color: #fff;
     letter-spacing: 2px;
     text-shadow: none;
 }
@@ -526,7 +526,7 @@ blockquote blockquote h1 {
     left: 0;
     z-index: -100;
     transition-duration: 0ms;
-    background: linear-gradient(120deg, #4444dd, #159957) !important;
+    background: linear-gradient(120deg, #4444dd, #159957);
     box-shadow: 10px 10px #44da;
     opacity: 1;
 }
@@ -536,10 +536,10 @@ blockquote blockquote h1 {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    margin-block: 1.5rem 0.5rem !important;
+    margin-block: 1.5rem 0.5rem;
     padding-block: 0.7rem;
-    color: #1DCC74 !important;
-    text-shadow: 10px 10px #44da !important;
+    color: #1DCC74;
+    text-shadow: 10px 10px #44da;
     cursor: default;
 }
 
@@ -556,8 +556,8 @@ blockquote blockquote h1 {
     left: 0;
     z-index: -100;
     transition-duration: 1000ms;
-    background: linear-gradient(120deg, #4444ddaa, #159957aa) !important;
-    border-radius: 10px !important;
+    background: linear-gradient(120deg, #4444ddaa, #159957aa);
+    border-radius: 10px;
     opacity: 0;
 }
 
@@ -566,13 +566,13 @@ blockquote blockquote h1 {
 .main-content h4:hover,
 .main-content h5:hover,
 .main-content h6:hover {
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
     font-weight: bolder;
-    color: #fff !important;
+    color: #fff;
     letter-spacing: 2px;
-    padding-inline: 1rem !important;
-    text-shadow: none !important;
+    padding-inline: 1rem;
+    text-shadow: none;
 }
 
 .main-content h2:hover::before,
@@ -580,7 +580,7 @@ blockquote blockquote h1 {
 .main-content h4:hover::before,
 .main-content h5:hover::before,
 .main-content h6:hover::before {
-    transition-duration: 0ms !important;
+    transition-duration: 0ms;
     opacity: 1;
 }
 
@@ -597,22 +597,22 @@ blockquote blockquote h1 {
     left: 0;
     z-index: -100;
     transition-duration: 1000ms;
-    background: linear-gradient(120deg, #4444dd, #159957) !important;
-    border-radius: 10px !important;
+    background: linear-gradient(120deg, #4444dd, #159957);
+    border-radius: 10px;
 }
 
 /* hyperlink */
 a {
-    color: #87B6CC !important;
-    text-decoration: none !important;
+    color: #87B6CC;
+    text-decoration: none;
     cursor: pointer;
 }
 
-p:has(fx) {
+*:has(> a fx) {
     cursor: pointer;
 }
 
-a fx, fx {
+a:has(fx), fx {
     position: relative;
     z-index: 1;
 }
@@ -622,12 +622,12 @@ a:has(fx) {
 }
 
 a:not(:has(> fx)) {
-    text-decoration: underline !important;
+    text-decoration: underline;
 }
 
 gfw {
     display: inline;
-    color: #dd4 !important;
+    color: #dd4;
 }
 
 a fx {
@@ -635,38 +635,36 @@ a fx {
 }
 
 a:hover {
-    color: #fff !important;
+    color: #fff;
 }
 
 a fx,
 a fx gfw {
-    color: #87B6CC !important;
-    font-size: 1.25rem!important;
+    color: #87B6CC;
+    font-size: 1.25rem;
     letter-spacing: 0.5px;
-    line-height: 1.5 !important;
-    white-space: nowrap !important;
-    padding-block: 0.85rem !important;
+    line-height: 1.5;
+    white-space: nowrap;
+    padding-block: 0.85rem;
     padding-right: 100vw;
-    margin-right: -100vw !important;
+    margin-right: -100vw;
     text-shadow: none;
 }
 
-
-
 a:has(> fx) {
-    padding-block: 0.85rem !important;
+    padding-block: 0.85rem;
 }
 
 a fx gfw {
     font-weight: normal;
-    color: #dd4 !important;
+    color: #dd4;
 }
 
 a fx:hover,
 a fx gfw:hover {
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
-    color: #fff !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    color: #fff;
     font-weight: bolder;
     letter-spacing: 2px;
     text-shadow: 10px 10px #44da;
@@ -677,7 +675,7 @@ a fx gfw:hover{
 }
 
 p a fx:hover {
-    padding-left: 0.5rem !important;
+    padding-left: 0.5rem;
 }
 
 :not(li) > p a fx::before{
@@ -688,7 +686,7 @@ p a fx:hover {
     right: 0;
     bottom: 0;
     left: 0;
-    padding-block: 1rem !important;
+    padding-block: 1rem;
     z-index: -100;
     border-bottom: solid 2px;
     border-image: linear-gradient(90deg, #CCDAFF00, #CCDAFF23 10%, #CCDAFF00) 1;
@@ -726,35 +724,35 @@ a fx gfw::after {
 /* list */
 
 li {
-    margin-block: 0.4rem !important
+    margin-block: 0.4rem
 }
 
 /* blockquote */
 blockquote {
-    color: #CCD5ED !important;
-    border: none !important;
-    margin-block: 1rem !important;
-    padding-bottom: 0rem !important;
-    margin-left: 2rem !important;
-    margin-right: 0rem !important;
-    width: auto !important;
+    color: #CCD5ED;
+    border: none;
+    margin-block: 1rem;
+    padding-bottom: 0rem;
+    margin-left: 2rem;
+    margin-right: 0rem;
+    width: auto;
 }
 
 blockquote:not(:has(> note)) {
-    padding-left: 0rem !important;
+    padding-left: 0rem;
     margin-left: 0rem;
 }
 
 main > blockquote:not(:has(> note)):has(blockquote :not(note)) {
-    margin-left: 0rem !important;
+    margin-left: 0rem;
 }
 
 blockquote:has(> note) {
-    margin-left: 0rem !important
+    margin-left: 0rem
 }
 
 blockquote:has(> note) > blockquote:not(:has(> note)) {
-    margin-block: 0 !important;
+    margin-block: 0;
 }
 
 /* blockquote note */
@@ -765,30 +763,30 @@ note {
 
 blockquote:has(> note) {
     display: block;
-    font-size: 0.9rem !important;
-    min-width: min(50vw, 10rem) !important;
+    font-size: 0.9rem;
+    min-width: min(50vw, 10rem);
     margin-bottom: 1rem;
     margin-top: 0;
     margin-inline: 0;
     padding: 1rem;
-    padding-block: 0.1rem !important;
-    border-left: solid 4px !important;
-    border-color: #CCDAFF31 !important;
-    border-radius: 2px !important;
-    line-height: normal !important;
+    padding-block: 0.1rem;
+    border-left: solid 4px;
+    border-color: #CCDAFF31;
+    border-radius: 5px;
+    line-height: normal;
 }
 
 blockquote:hover:has(> note) {
     margin-left: 0rem;
-    margin-right: 0rem !important;
-    border-color: #CCDAFF31 !important;
+    margin-right: 0rem;
+    border-color: #CCDAFF31;
 }
 
 blockquote:hover:has(> note) > :not(blockquote):not(note):not(p:has(img)) {
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
-    margin-left: 0.5rem !important;
-    margin-right: -0.5rem !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
+    margin-left: 0.5rem;
+    margin-right: -0.5rem;
 }
 
 blockquote:has(> note)::before {
@@ -798,42 +796,42 @@ blockquote:has(> note)::before {
     right: 0;
     bottom: 0;
     left: 0;
-    width: 0 !important;
+    width: 0;
     z-index: -100;
     transition-duration: 700ms;
-    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
+    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00);
     opacity: 0;
 }
 
 blockquote:hover:has(> note)::before {
-    width: 100% !important;
-    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00) !important;
+    width: 100%;
+    background: linear-gradient(90deg, #CCDAFF31, #CCDAFF00);
     transition-duration: 0ms;
     opacity: 1;
 }
 
 /* Highlight */
 pre.highlight {
-    border: none !important;
-    background: none !important;
+    border: none;
+    background: none;
 }
 
 div.highlight {
-    background: none !important;
-    border-radius: 10px !important;
-    border: solid #CCDAFF63 3px !important;
-    line-height: normal !important;
+    background: none;
+    border-radius: 10px;
+    border: solid #CCDAFF63 3px;
+    line-height: normal;
 }
 
 .language-plaintext.highlighter-rouge {
     scale: 0.95;
-    margin-bottom: 2rem !important;
+    margin-bottom: 2rem;
 }
 
 .language-plaintext.highlighter-rouge:hover div.highlight {
     transition-delay: 0ms;
     transition-duration: 0ms;
-    border: solid #0000 3px !important;
+    border: solid #0000 3px;
 }
 
 .language-plaintext.highlighter-rouge div.highlight::before {
@@ -846,14 +844,14 @@ div.highlight {
     z-index: -100;
     transition-delay: 100ms;
     transition-duration: 400ms;
-    background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411) !important;
-    border-radius: 10px !important;
+    background: linear-gradient(90deg, #4444dd44, #19B2B222, #1dcc7411);
+    border-radius: 10px;
     opacity: 0;
 }
 
 .language-plaintext.highlighter-rouge:hover div.highlight::before {
-    transition-delay: 0ms !important;
-    transition-duration: 0ms !important;
+    transition-delay: 0ms;
+    transition-duration: 0ms;
     opacity: 1;
 }
 
@@ -864,27 +862,27 @@ div.language-plaintext.highlighter-rouge:hover {
 }
 
 code {
-    color: #fff !important;
-    line-height: normal !important;
+    color: #fff;
+    line-height: normal;
     padding: 0.05rem 0.2rem;
     border-radius: 5px;
-    background-color: #000 !important;
-    margin-left: 0.2rem !important
+    background-color: #000;
+    margin-left: 0.2rem
 }
 
 .highlight > code {
-    background-color: #0000 !important;
+    background-color: #0000;
 }
 
 /* big text */
 
 .big {
-    font-size: 1.5rem !important;
+    font-size: 1.5rem;
     color: #fff;
 }
 
 .bigger {
-    font-size: 2rem !important;
+    font-size: 2rem;
     color: #fff;
 }
 
@@ -932,8 +930,8 @@ s:hover span:not(:has(span)) {
 /* favicon */
 
 .ico {
-    position: relative !important;
-    width: 1.5rem !important;
+    position: relative;
+    width: 1.5rem;
     top: .25rem
 }
 
@@ -942,13 +940,13 @@ s:hover span:not(:has(span)) {
 img {
     color: #f00;
     font-size: 1rem;
-    z-index: 100 !important;
+    z-index: 100;
 }
 
 img:not(.ico, .pic) {
-    transition: 700ms !important;
+    transition: 700ms;
     position: relative;
-    width: min(70vh,100%) !important;
+    width: min(70vh,100%);
     opacity: 0.3;
 }
 
@@ -957,7 +955,7 @@ blockquote:has(> note) img:not(.ico, .pic) {
 }
 
 img:not(.ico, .pic):hover, blockquote:has(> note):hover > p > img:not(.ico, .pic) {
-    transition: 300ms !important;
+    transition: 300ms;
     opacity: 1;
 }
 
@@ -966,7 +964,7 @@ img:not(.ico, .pic):hover, blockquote:has(> note):hover > p > img:not(.ico, .pic
 #toToc {
     position: fixed;
     display: inline-block;
-    text-decoration: none !important;
+    text-decoration: none;
     width: 3rem;
     height: 3rem;
     left: 1rem;
@@ -995,7 +993,7 @@ img:not(.ico, .pic):hover, blockquote:has(> note):hover > p > img:not(.ico, .pic
 }
 
 #cboxTg:has(input:checked) + #toToc .content {
-    transition-delay: 0ms !important;
+    transition-delay: 0ms;
     transform: translateX(-4rem);
 }
 
@@ -1040,7 +1038,7 @@ cbox:has(~ #cboxTg input:checked) {
 }
 
 cbox #top.msg img {
-    opacity: 1 !important;
+    opacity: 1;
 }
 
 .msg, .usr {
@@ -1199,4 +1197,3 @@ cbox:has(~ #cboxTg input:checked)::before {
     font-size: 2rem;
     opacity: 1;
 }
-
