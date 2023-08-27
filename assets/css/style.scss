@@ -87,7 +87,10 @@ main {
 }
 
 main * {
-    transition: var(--main-transition) !important;
+    transition:  all 700ms 100ms,
+        scale 700ms, opacity 200ms 600ms,
+        filter 200ms 600ms,
+        transform 1000ms 700ms !important;
 }
 
 main * {
